@@ -1,0 +1,2001 @@
+User_ID,Age_Group,Gender,Occupation,City,Home_Type,Budget_Preference,Smart_Home_Interest,Eco_Conscious,Preferred_Category
+U0001,26-35,Female,Retired,Delhi,Independent House,Luxury,Yes,Yes,Laundry
+U0002,18-25,Male,Student,Delhi,PG/Hostel,Budget,No,No,Kitchen
+U0003,36-45,Male,Homemaker,Mumbai,Villa,Premium,Yes,Yes,Bathroom
+U0004,46-55,Male,Working Professional,Jaipur,Apartment,Mid-Range,Yes,No,Fitness
+U0005,26-35,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,No,Security
+U0006,36-45,Male,Student,Kolkata,Apartment,Budget,Yes,Yes,Smart Home
+U0007,26-35,Male,Business Owner,Delhi,Independent House,Premium,Yes,Yes,Networking
+U0008,36-45,Female,Student,Mumbai,Apartment,Mid-Range,No,No,Pet
+U0009,18-25,Other,Retired,Jaipur,PG/Hostel,Mid-Range,No,Yes,Networking
+U0010,26-35,Female,Student,Delhi,Apartment,Budget,Yes,Yes,Outdoor
+U0011,18-25,Male,Working Professional,Hyderabad,Villa,Mid-Range,No,Yes,Cleaning
+U0012,26-35,Male,Homemaker,Bangalore,Independent House,Premium,Yes,Yes,Decor
+U0013,36-45,Other,Working Professional,Lucknow,PG/Hostel,Mid-Range,Yes,No,Laundry
+U0014,55+,Female,Business Owner,Ahmedabad,Villa,Premium,Yes,No,Laundry
+U0015,18-25,Male,Working Professional,Mumbai,Apartment,Premium,Yes,Yes,Smart Home
+U0016,26-35,Female,Working Professional,Chennai,Apartment,Premium,Yes,No,Smart Home
+U0017,26-35,Male,Working Professional,Ahmedabad,PG/Hostel,Mid-Range,Yes,No,Cleaning
+U0018,18-25,Female,Retired,Chennai,Apartment,Mid-Range,Yes,No,Decor
+U0019,18-25,Female,Business Owner,Lucknow,Independent House,Luxury,Yes,Yes,Entertainment
+U0020,46-55,Male,Student,Delhi,Apartment,Mid-Range,No,No,Entertainment
+U0021,46-55,Male,Homemaker,Kolkata,Apartment,Mid-Range,No,Yes,Cleaning
+U0022,26-35,Female,Working Professional,Jaipur,Independent House,Premium,No,Yes,Hobby
+U0023,46-55,Male,Working Professional,Pune,Independent House,Premium,Yes,No,Cleaning
+U0024,46-55,Female,Working Professional,Chennai,Independent House,Mid-Range,No,No,Bathroom
+U0025,36-45,Male,Working Professional,Chennai,Apartment,Mid-Range,No,No,Tools
+U0026,18-25,Male,Homemaker,Pune,Independent House,Mid-Range,No,Yes,Bathroom
+U0027,55+,Male,Working Professional,Lucknow,PG/Hostel,Mid-Range,Yes,Yes,Networking
+U0028,26-35,Male,Student,Hyderabad,Apartment,Mid-Range,Yes,No,Kitchen
+U0029,55+,Female,Business Owner,Ahmedabad,PG/Hostel,Premium,No,No,Entertainment
+U0030,46-55,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,No,Yes,Bathroom
+U0031,46-55,Male,Business Owner,Hyderabad,Apartment,Luxury,No,No,Tools
+U0032,26-35,Female,Working Professional,Kolkata,PG/Hostel,Premium,No,Yes,Cleaning
+U0033,18-25,Male,Working Professional,Delhi,Apartment,Premium,Yes,Yes,Security
+U0034,18-25,Female,Working Professional,Lucknow,Apartment,Mid-Range,Yes,Yes,Power
+U0035,36-45,Male,Homemaker,Delhi,Villa,Mid-Range,No,No,Kitchen
+U0036,55+,Female,Working Professional,Chennai,Apartment,Mid-Range,Yes,Yes,Entertainment
+U0037,26-35,Female,Student,Hyderabad,Independent House,Mid-Range,No,No,Tools
+U0038,18-25,Female,Working Professional,Delhi,Apartment,Mid-Range,Yes,Yes,Fitness
+U0039,18-25,Other,Working Professional,Mumbai,Apartment,Premium,Yes,No,Hobby
+U0040,36-45,Male,Homemaker,Kolkata,Independent House,Mid-Range,No,No,Hobby
+U0041,26-35,Female,Homemaker,Hyderabad,Independent House,Mid-Range,Yes,Yes,Fitness
+U0042,18-25,Male,Business Owner,Chennai,Apartment,Premium,Yes,No,Kitchen
+U0043,18-25,Female,Homemaker,Jaipur,Apartment,Premium,Yes,Yes,Security
+U0044,36-45,Female,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Tools
+U0045,36-45,Female,Working Professional,Mumbai,Apartment,Premium,Yes,Yes,Pet
+U0046,26-35,Female,Student,Ahmedabad,PG/Hostel,Mid-Range,Yes,No,Climate
+U0047,26-35,Female,Homemaker,Hyderabad,Independent House,Mid-Range,Yes,No,Power
+U0048,36-45,Male,Working Professional,Mumbai,PG/Hostel,Premium,Yes,Yes,Bathroom
+U0049,55+,Male,Homemaker,Mumbai,Apartment,Mid-Range,No,Yes,Personal Care
+U0050,36-45,Female,Business Owner,Lucknow,PG/Hostel,Premium,Yes,No,Pet
+U0051,36-45,Male,Student,Lucknow,PG/Hostel,Budget,Yes,No,Kitchen
+U0052,36-45,Male,Student,Lucknow,Independent House,Mid-Range,Yes,Yes,Decor
+U0053,18-25,Female,Student,Pune,Independent House,Budget,Yes,Yes,Outdoor
+U0054,36-45,Female,Working Professional,Pune,Apartment,Premium,No,No,Security
+U0055,26-35,Female,Homemaker,Lucknow,PG/Hostel,Premium,No,No,Kitchen
+U0056,36-45,Male,Working Professional,Jaipur,Apartment,Mid-Range,Yes,No,Kitchen
+U0057,26-35,Other,Working Professional,Pune,Apartment,Mid-Range,Yes,Yes,Outdoor
+U0058,46-55,Female,Homemaker,Jaipur,Independent House,Mid-Range,Yes,No,Entertainment
+U0059,36-45,Male,Working Professional,Delhi,Independent House,Premium,No,No,Entertainment
+U0060,26-35,Female,Student,Chennai,Apartment,Mid-Range,No,No,Tools
+U0061,55+,Female,Retired,Chennai,Apartment,Luxury,No,Yes,Power
+U0062,18-25,Male,Retired,Kolkata,Villa,Mid-Range,No,Yes,Smart Home
+U0063,55+,Male,Business Owner,Chennai,Apartment,Premium,Yes,No,Fitness
+U0064,46-55,Male,Working Professional,Delhi,Independent House,Mid-Range,Yes,No,Entertainment
+U0065,55+,Female,Homemaker,Pune,Apartment,Mid-Range,No,Yes,Entertainment
+U0066,36-45,Male,Retired,Chennai,Independent House,Mid-Range,No,No,Power
+U0067,46-55,Female,Homemaker,Hyderabad,Independent House,Premium,No,No,Networking
+U0068,26-35,Female,Working Professional,Lucknow,PG/Hostel,Premium,No,No,Laundry
+U0069,46-55,Female,Business Owner,Bangalore,Independent House,Premium,No,Yes,Smart Home
+U0070,46-55,Female,Homemaker,Hyderabad,PG/Hostel,Premium,Yes,No,Hobby
+U0071,46-55,Male,Working Professional,Mumbai,Apartment,Premium,No,Yes,Cleaning
+U0072,36-45,Male,Student,Chennai,Independent House,Mid-Range,No,No,Laundry
+U0073,26-35,Male,Homemaker,Hyderabad,Apartment,Mid-Range,Yes,Yes,Kitchen
+U0074,46-55,Male,Working Professional,Pune,Independent House,Premium,Yes,Yes,Smart Home
+U0075,46-55,Female,Working Professional,Delhi,Apartment,Mid-Range,No,Yes,Decor
+U0076,18-25,Female,Working Professional,Delhi,Independent House,Mid-Range,Yes,Yes,Smart Home
+U0077,36-45,Female,Retired,Lucknow,Apartment,Premium,No,Yes,Tools
+U0078,46-55,Male,Working Professional,Mumbai,Apartment,Premium,No,Yes,Tools
+U0079,18-25,Female,Retired,Kolkata,Independent House,Premium,Yes,Yes,Smart Home
+U0080,26-35,Male,Student,Delhi,Apartment,Mid-Range,No,Yes,Outdoor
+U0081,36-45,Female,Homemaker,Pune,Apartment,Premium,No,Yes,Entertainment
+U0082,55+,Female,Homemaker,Kolkata,Independent House,Mid-Range,No,No,Personal Care
+U0083,26-35,Male,Working Professional,Kolkata,PG/Hostel,Premium,Yes,Yes,Outdoor
+U0084,18-25,Male,Student,Kolkata,Apartment,Budget,No,Yes,Smart Home
+U0085,46-55,Male,Homemaker,Ahmedabad,Apartment,Premium,No,Yes,Climate
+U0086,26-35,Male,Working Professional,Delhi,Apartment,Mid-Range,Yes,No,Smart Home
+U0087,26-35,Female,Homemaker,Hyderabad,Apartment,Mid-Range,No,Yes,Tools
+U0088,26-35,Female,Homemaker,Mumbai,PG/Hostel,Mid-Range,Yes,No,Kitchen
+U0089,36-45,Male,Student,Kolkata,Independent House,Mid-Range,No,No,Pet
+U0090,18-25,Female,Homemaker,Kolkata,Independent House,Premium,Yes,Yes,Security
+U0091,26-35,Male,Homemaker,Kolkata,Independent House,Mid-Range,Yes,No,Bathroom
+U0092,55+,Other,Working Professional,Mumbai,Villa,Premium,Yes,No,Hobby
+U0093,18-25,Male,Student,Bangalore,Apartment,Mid-Range,No,Yes,Smart Home
+U0094,18-25,Male,Homemaker,Lucknow,Apartment,Premium,No,No,Fitness
+U0095,46-55,Female,Student,Bangalore,Apartment,Mid-Range,No,No,Decor
+U0096,18-25,Female,Homemaker,Chennai,PG/Hostel,Mid-Range,No,Yes,Laundry
+U0097,36-45,Male,Business Owner,Ahmedabad,Apartment,Luxury,Yes,Yes,Decor
+U0098,46-55,Other,Business Owner,Pune,Apartment,Luxury,No,Yes,Entertainment
+U0099,26-35,Male,Homemaker,Kolkata,Villa,Mid-Range,No,No,Kitchen
+U0100,46-55,Female,Working Professional,Kolkata,PG/Hostel,Premium,Yes,No,Power
+U0101,18-25,Female,Business Owner,Kolkata,PG/Hostel,Premium,Yes,No,Security
+U0102,26-35,Male,Business Owner,Ahmedabad,Apartment,Luxury,Yes,Yes,Pet
+U0103,55+,Male,Student,Jaipur,Villa,Mid-Range,No,No,Laundry
+U0104,55+,Female,Working Professional,Hyderabad,Apartment,Premium,Yes,No,Pet
+U0105,26-35,Female,Working Professional,Kolkata,PG/Hostel,Premium,No,No,Entertainment
+U0106,46-55,Male,Business Owner,Kolkata,Independent House,Premium,Yes,No,Kitchen
+U0107,18-25,Male,Working Professional,Bangalore,PG/Hostel,Premium,No,Yes,Decor
+U0108,26-35,Male,Student,Pune,PG/Hostel,Mid-Range,Yes,Yes,Pet
+U0109,36-45,Male,Student,Kolkata,Independent House,Mid-Range,Yes,Yes,Security
+U0110,18-25,Female,Business Owner,Pune,Apartment,Premium,Yes,Yes,Power
+U0111,18-25,Male,Retired,Hyderabad,Apartment,Mid-Range,Yes,Yes,Entertainment
+U0112,46-55,Other,Retired,Bangalore,PG/Hostel,Mid-Range,No,Yes,Tools
+U0113,26-35,Female,Student,Chennai,Independent House,Mid-Range,No,Yes,Hobby
+U0114,26-35,Male,Business Owner,Chennai,Independent House,Premium,Yes,Yes,Outdoor
+U0115,18-25,Male,Working Professional,Kolkata,Apartment,Premium,No,Yes,Laundry
+U0116,18-25,Female,Homemaker,Chennai,Independent House,Mid-Range,No,Yes,Hobby
+U0117,55+,Male,Working Professional,Pune,PG/Hostel,Mid-Range,Yes,No,Kitchen
+U0118,26-35,Male,Retired,Pune,Villa,Luxury,Yes,Yes,Climate
+U0119,18-25,Female,Business Owner,Kolkata,Villa,Premium,No,Yes,Cleaning
+U0120,18-25,Other,Working Professional,Kolkata,Independent House,Mid-Range,Yes,Yes,Decor
+U0121,36-45,Male,Homemaker,Ahmedabad,Independent House,Premium,No,No,Decor
+U0122,36-45,Male,Business Owner,Hyderabad,Apartment,Luxury,No,Yes,Cleaning
+U0123,55+,Male,Business Owner,Ahmedabad,Independent House,Premium,Yes,No,Smart Home
+U0124,26-35,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,No,Yes,Tools
+U0125,36-45,Other,Student,Chennai,Villa,Mid-Range,Yes,No,Decor
+U0126,36-45,Male,Working Professional,Jaipur,PG/Hostel,Mid-Range,No,Yes,Fitness
+U0127,36-45,Female,Student,Jaipur,PG/Hostel,Mid-Range,No,No,Climate
+U0128,55+,Female,Homemaker,Mumbai,Apartment,Premium,Yes,Yes,Laundry
+U0129,55+,Male,Business Owner,Lucknow,Apartment,Luxury,Yes,No,Networking
+U0130,26-35,Other,Business Owner,Jaipur,Apartment,Luxury,Yes,No,Decor
+U0131,36-45,Other,Working Professional,Chennai,PG/Hostel,Premium,Yes,No,Smart Home
+U0132,46-55,Male,Working Professional,Jaipur,Apartment,Mid-Range,No,No,Tools
+U0133,18-25,Female,Business Owner,Ahmedabad,Villa,Premium,Yes,Yes,Bathroom
+U0134,55+,Female,Working Professional,Delhi,Villa,Premium,No,Yes,Networking
+U0135,46-55,Male,Working Professional,Chennai,Apartment,Mid-Range,Yes,No,Decor
+U0136,55+,Male,Homemaker,Mumbai,Independent House,Mid-Range,No,No,Entertainment
+U0137,36-45,Male,Working Professional,Delhi,Independent House,Premium,No,No,Climate
+U0138,36-45,Female,Homemaker,Ahmedabad,PG/Hostel,Premium,Yes,No,Decor
+U0139,36-45,Female,Working Professional,Delhi,Apartment,Premium,No,Yes,Kitchen
+U0140,18-25,Female,Student,Bangalore,Independent House,Budget,Yes,Yes,Outdoor
+U0141,36-45,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,No,Laundry
+U0142,26-35,Male,Homemaker,Ahmedabad,Apartment,Premium,No,Yes,Fitness
+U0143,55+,Female,Working Professional,Lucknow,PG/Hostel,Premium,Yes,No,Hobby
+U0144,26-35,Female,Homemaker,Hyderabad,Villa,Mid-Range,Yes,Yes,Laundry
+U0145,18-25,Female,Retired,Jaipur,Apartment,Mid-Range,Yes,Yes,Cleaning
+U0146,26-35,Female,Retired,Lucknow,Apartment,Luxury,No,Yes,Outdoor
+U0147,36-45,Male,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Decor
+U0148,18-25,Male,Student,Kolkata,Independent House,Budget,Yes,Yes,Entertainment
+U0149,18-25,Female,Working Professional,Bangalore,Independent House,Premium,Yes,Yes,Outdoor
+U0150,36-45,Male,Student,Ahmedabad,Apartment,Mid-Range,Yes,No,Pet
+U0151,18-25,Male,Working Professional,Jaipur,Apartment,Premium,Yes,Yes,Power
+U0152,18-25,Male,Working Professional,Pune,Apartment,Premium,Yes,Yes,Laundry
+U0153,36-45,Male,Homemaker,Chennai,PG/Hostel,Mid-Range,No,No,Personal Care
+U0154,36-45,Female,Student,Jaipur,Villa,Mid-Range,No,No,Personal Care
+U0155,18-25,Female,Working Professional,Ahmedabad,Independent House,Premium,No,Yes,Fitness
+U0156,18-25,Male,Working Professional,Pune,Independent House,Premium,Yes,No,Smart Home
+U0157,36-45,Male,Working Professional,Ahmedabad,Independent House,Premium,Yes,No,Power
+U0158,18-25,Female,Working Professional,Delhi,PG/Hostel,Premium,Yes,Yes,Pet
+U0159,36-45,Male,Working Professional,Jaipur,Apartment,Mid-Range,Yes,Yes,Bathroom
+U0160,36-45,Male,Working Professional,Lucknow,Apartment,Premium,No,No,Power
+U0161,18-25,Male,Working Professional,Chennai,Apartment,Mid-Range,Yes,No,Cleaning
+U0162,18-25,Female,Business Owner,Delhi,Independent House,Luxury,Yes,Yes,Laundry
+U0163,46-55,Male,Working Professional,Chennai,Independent House,Mid-Range,Yes,No,Kitchen
+U0164,36-45,Male,Homemaker,Delhi,Apartment,Mid-Range,No,Yes,Entertainment
+U0165,26-35,Female,Working Professional,Chennai,Independent House,Premium,Yes,Yes,Climate
+U0166,26-35,Female,Retired,Hyderabad,Apartment,Premium,No,Yes,Tools
+U0167,18-25,Male,Student,Delhi,Apartment,Budget,Yes,No,Fitness
+U0168,18-25,Male,Working Professional,Jaipur,PG/Hostel,Premium,Yes,Yes,Outdoor
+U0169,18-25,Male,Working Professional,Bangalore,Villa,Premium,Yes,Yes,Smart Home
+U0170,18-25,Other,Working Professional,Ahmedabad,PG/Hostel,Premium,No,No,Laundry
+U0171,46-55,Male,Working Professional,Hyderabad,Independent House,Premium,No,No,Smart Home
+U0172,55+,Female,Working Professional,Kolkata,Apartment,Premium,Yes,No,Entertainment
+U0173,46-55,Male,Working Professional,Mumbai,Apartment,Premium,Yes,No,Smart Home
+U0174,36-45,Male,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,No,Security
+U0175,26-35,Male,Homemaker,Kolkata,Independent House,Mid-Range,No,No,Kitchen
+U0176,36-45,Male,Student,Chennai,Apartment,Mid-Range,Yes,No,Kitchen
+U0177,18-25,Male,Retired,Jaipur,PG/Hostel,Premium,No,Yes,Climate
+U0178,26-35,Female,Homemaker,Lucknow,Independent House,Mid-Range,Yes,Yes,Outdoor
+U0179,26-35,Male,Working Professional,Delhi,Villa,Mid-Range,Yes,Yes,Hobby
+U0180,46-55,Male,Retired,Bangalore,Independent House,Premium,No,No,Power
+U0181,55+,Male,Working Professional,Mumbai,Independent House,Premium,Yes,No,Entertainment
+U0182,36-45,Male,Business Owner,Jaipur,PG/Hostel,Premium,Yes,No,Personal Care
+U0183,26-35,Male,Student,Bangalore,PG/Hostel,Budget,Yes,No,Laundry
+U0184,36-45,Male,Working Professional,Lucknow,PG/Hostel,Premium,Yes,Yes,Decor
+U0185,26-35,Male,Business Owner,Chennai,Apartment,Luxury,No,No,Cleaning
+U0186,26-35,Female,Working Professional,Jaipur,Independent House,Premium,Yes,Yes,Networking
+U0187,26-35,Male,Business Owner,Kolkata,Independent House,Luxury,No,Yes,Outdoor
+U0188,55+,Male,Homemaker,Kolkata,Villa,Mid-Range,No,Yes,Pet
+U0189,36-45,Male,Working Professional,Lucknow,PG/Hostel,Premium,Yes,No,Security
+U0190,36-45,Female,Working Professional,Chennai,PG/Hostel,Premium,Yes,No,Power
+U0191,18-25,Male,Working Professional,Chennai,Independent House,Premium,No,Yes,Networking
+U0192,18-25,Female,Working Professional,Hyderabad,PG/Hostel,Mid-Range,Yes,Yes,Entertainment
+U0193,26-35,Male,Business Owner,Mumbai,PG/Hostel,Premium,Yes,Yes,Networking
+U0194,18-25,Female,Working Professional,Delhi,Apartment,Mid-Range,No,Yes,Fitness
+U0195,26-35,Female,Homemaker,Hyderabad,Independent House,Mid-Range,Yes,Yes,Networking
+U0196,36-45,Male,Working Professional,Bangalore,Apartment,Premium,Yes,No,Climate
+U0197,18-25,Female,Business Owner,Pune,Apartment,Luxury,No,Yes,Kitchen
+U0198,26-35,Male,Retired,Hyderabad,Independent House,Mid-Range,No,No,Pet
+U0199,36-45,Male,Homemaker,Delhi,PG/Hostel,Premium,No,Yes,Hobby
+U0200,55+,Female,Working Professional,Pune,Villa,Premium,Yes,No,Pet
+U0201,36-45,Female,Student,Delhi,Independent House,Mid-Range,No,Yes,Smart Home
+U0202,26-35,Female,Homemaker,Delhi,Villa,Mid-Range,No,Yes,Outdoor
+U0203,26-35,Other,Student,Delhi,PG/Hostel,Mid-Range,Yes,No,Outdoor
+U0204,18-25,Female,Retired,Delhi,Independent House,Premium,Yes,No,Entertainment
+U0205,36-45,Male,Working Professional,Ahmedabad,Apartment,Premium,Yes,No,Fitness
+U0206,46-55,Male,Student,Kolkata,Apartment,Budget,No,No,Fitness
+U0207,36-45,Male,Business Owner,Mumbai,Apartment,Luxury,No,Yes,Cleaning
+U0208,36-45,Male,Working Professional,Pune,Independent House,Mid-Range,Yes,No,Networking
+U0209,18-25,Female,Student,Kolkata,Apartment,Budget,Yes,No,Cleaning
+U0210,55+,Female,Working Professional,Hyderabad,Independent House,Mid-Range,Yes,No,Security
+U0211,18-25,Male,Homemaker,Pune,Villa,Mid-Range,Yes,Yes,Tools
+U0212,18-25,Male,Working Professional,Jaipur,Villa,Mid-Range,Yes,Yes,Laundry
+U0213,36-45,Male,Homemaker,Bangalore,Independent House,Premium,No,No,Decor
+U0214,26-35,Male,Business Owner,Bangalore,Apartment,Premium,Yes,No,Hobby
+U0215,18-25,Female,Working Professional,Bangalore,Apartment,Mid-Range,Yes,No,Laundry
+U0216,46-55,Female,Working Professional,Mumbai,Apartment,Premium,Yes,Yes,Fitness
+U0217,26-35,Male,Working Professional,Delhi,Apartment,Mid-Range,Yes,No,Bathroom
+U0218,46-55,Male,Retired,Delhi,Apartment,Luxury,No,Yes,Power
+U0219,36-45,Male,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Climate
+U0220,36-45,Male,Homemaker,Kolkata,Apartment,Premium,No,Yes,Cleaning
+U0221,26-35,Male,Homemaker,Delhi,Apartment,Mid-Range,Yes,Yes,Entertainment
+U0222,46-55,Female,Student,Lucknow,Apartment,Mid-Range,No,No,Smart Home
+U0223,18-25,Female,Working Professional,Lucknow,PG/Hostel,Premium,Yes,Yes,Fitness
+U0224,46-55,Female,Working Professional,Delhi,Apartment,Mid-Range,No,No,Tools
+U0225,26-35,Male,Business Owner,Ahmedabad,Apartment,Luxury,No,Yes,Cleaning
+U0226,26-35,Male,Student,Kolkata,Independent House,Mid-Range,No,Yes,Smart Home
+U0227,26-35,Female,Business Owner,Pune,Apartment,Luxury,No,No,Climate
+U0228,26-35,Female,Working Professional,Delhi,Apartment,Mid-Range,No,Yes,Hobby
+U0229,36-45,Female,Working Professional,Bangalore,Apartment,Premium,Yes,No,Smart Home
+U0230,26-35,Female,Retired,Delhi,Apartment,Luxury,No,No,Fitness
+U0231,46-55,Female,Working Professional,Chennai,PG/Hostel,Mid-Range,Yes,Yes,Bathroom
+U0232,26-35,Male,Student,Bangalore,Independent House,Budget,No,Yes,Hobby
+U0233,36-45,Male,Working Professional,Jaipur,PG/Hostel,Premium,Yes,No,Laundry
+U0234,55+,Male,Working Professional,Jaipur,Apartment,Premium,No,No,Security
+U0235,18-25,Male,Business Owner,Mumbai,Independent House,Luxury,Yes,No,Outdoor
+U0236,26-35,Female,Working Professional,Pune,PG/Hostel,Premium,Yes,No,Pet
+U0237,26-35,Male,Student,Bangalore,Villa,Budget,No,No,Kitchen
+U0238,46-55,Female,Homemaker,Kolkata,Independent House,Mid-Range,No,Yes,Networking
+U0239,18-25,Male,Business Owner,Pune,Apartment,Luxury,No,Yes,Kitchen
+U0240,36-45,Male,Student,Bangalore,Independent House,Budget,Yes,No,Kitchen
+U0241,18-25,Male,Homemaker,Ahmedabad,Apartment,Premium,No,Yes,Cleaning
+U0242,26-35,Female,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Networking
+U0243,36-45,Female,Working Professional,Delhi,Villa,Premium,Yes,No,Climate
+U0244,36-45,Male,Working Professional,Mumbai,Apartment,Premium,Yes,No,Power
+U0245,36-45,Female,Student,Hyderabad,Independent House,Budget,Yes,Yes,Entertainment
+U0246,26-35,Male,Homemaker,Chennai,Apartment,Premium,Yes,Yes,Fitness
+U0247,36-45,Female,Working Professional,Bangalore,Apartment,Mid-Range,Yes,No,Bathroom
+U0248,26-35,Female,Business Owner,Delhi,Independent House,Luxury,Yes,No,Fitness
+U0249,26-35,Male,Homemaker,Ahmedabad,Apartment,Mid-Range,No,No,Fitness
+U0250,55+,Female,Student,Kolkata,Apartment,Mid-Range,Yes,No,Smart Home
+U0251,18-25,Female,Working Professional,Lucknow,Independent House,Mid-Range,Yes,Yes,Networking
+U0252,46-55,Female,Homemaker,Kolkata,PG/Hostel,Mid-Range,No,Yes,Pet
+U0253,26-35,Male,Working Professional,Kolkata,Villa,Mid-Range,No,No,Laundry
+U0254,55+,Female,Student,Bangalore,Villa,Mid-Range,Yes,No,Bathroom
+U0255,18-25,Female,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Entertainment
+U0256,36-45,Female,Working Professional,Delhi,Villa,Mid-Range,Yes,Yes,Entertainment
+U0257,55+,Female,Working Professional,Bangalore,PG/Hostel,Mid-Range,No,No,Cleaning
+U0258,26-35,Male,Business Owner,Lucknow,Independent House,Luxury,No,No,Smart Home
+U0259,26-35,Male,Student,Bangalore,Independent House,Mid-Range,Yes,Yes,Outdoor
+U0260,26-35,Male,Homemaker,Lucknow,Apartment,Premium,Yes,Yes,Outdoor
+U0261,36-45,Male,Business Owner,Ahmedabad,Independent House,Luxury,Yes,Yes,Outdoor
+U0262,46-55,Male,Homemaker,Delhi,Apartment,Mid-Range,No,No,Cleaning
+U0263,46-55,Female,Student,Ahmedabad,Independent House,Budget,No,No,Tools
+U0264,55+,Other,Business Owner,Lucknow,Apartment,Luxury,Yes,Yes,Power
+U0265,46-55,Male,Working Professional,Delhi,Independent House,Premium,No,No,Kitchen
+U0266,46-55,Female,Retired,Bangalore,Apartment,Luxury,Yes,No,Cleaning
+U0267,26-35,Male,Homemaker,Pune,Apartment,Mid-Range,Yes,Yes,Fitness
+U0268,26-35,Male,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Smart Home
+U0269,18-25,Other,Student,Pune,Apartment,Budget,Yes,Yes,Outdoor
+U0270,26-35,Male,Homemaker,Lucknow,Villa,Premium,No,Yes,Entertainment
+U0271,46-55,Male,Student,Chennai,PG/Hostel,Mid-Range,No,No,Pet
+U0272,55+,Female,Working Professional,Lucknow,Apartment,Mid-Range,No,Yes,Pet
+U0273,55+,Female,Working Professional,Bangalore,Independent House,Premium,Yes,No,Bathroom
+U0274,36-45,Male,Working Professional,Kolkata,Apartment,Mid-Range,Yes,Yes,Outdoor
+U0275,26-35,Female,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,No,Tools
+U0276,18-25,Female,Retired,Bangalore,Villa,Mid-Range,Yes,Yes,Hobby
+U0277,55+,Male,Student,Pune,PG/Hostel,Budget,No,No,Pet
+U0278,36-45,Female,Student,Bangalore,Apartment,Budget,Yes,No,Personal Care
+U0279,26-35,Female,Working Professional,Mumbai,Independent House,Premium,Yes,No,Laundry
+U0280,18-25,Male,Business Owner,Lucknow,Apartment,Luxury,Yes,No,Cleaning
+U0281,46-55,Female,Retired,Jaipur,PG/Hostel,Mid-Range,Yes,No,Climate
+U0282,36-45,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Cleaning
+U0283,26-35,Female,Working Professional,Chennai,Independent House,Premium,No,Yes,Fitness
+U0284,18-25,Female,Working Professional,Hyderabad,Apartment,Mid-Range,No,Yes,Decor
+U0285,46-55,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,No,No,Hobby
+U0286,46-55,Female,Working Professional,Chennai,Independent House,Mid-Range,Yes,Yes,Cleaning
+U0287,26-35,Female,Business Owner,Kolkata,Independent House,Premium,Yes,No,Cleaning
+U0288,46-55,Female,Business Owner,Mumbai,PG/Hostel,Luxury,Yes,Yes,Networking
+U0289,36-45,Female,Homemaker,Kolkata,PG/Hostel,Mid-Range,No,Yes,Security
+U0290,18-25,Female,Business Owner,Delhi,Apartment,Luxury,No,Yes,Entertainment
+U0291,46-55,Male,Student,Mumbai,Independent House,Budget,Yes,No,Entertainment
+U0292,18-25,Female,Business Owner,Ahmedabad,Independent House,Luxury,No,No,Security
+U0293,18-25,Female,Working Professional,Hyderabad,Villa,Premium,No,Yes,Bathroom
+U0294,36-45,Female,Working Professional,Delhi,Independent House,Premium,No,Yes,Hobby
+U0295,46-55,Female,Student,Hyderabad,Independent House,Budget,Yes,No,Cleaning
+U0296,55+,Female,Working Professional,Delhi,Villa,Mid-Range,No,No,Security
+U0297,18-25,Female,Retired,Jaipur,Apartment,Luxury,No,No,Outdoor
+U0298,26-35,Male,Homemaker,Mumbai,Independent House,Premium,No,Yes,Fitness
+U0299,26-35,Male,Homemaker,Delhi,PG/Hostel,Mid-Range,No,Yes,Bathroom
+U0300,55+,Female,Retired,Jaipur,Apartment,Luxury,No,No,Security
+U0301,46-55,Male,Student,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Networking
+U0302,26-35,Female,Homemaker,Mumbai,Apartment,Premium,Yes,Yes,Laundry
+U0303,26-35,Male,Retired,Delhi,Independent House,Luxury,No,No,Smart Home
+U0304,18-25,Female,Business Owner,Mumbai,Apartment,Premium,Yes,Yes,Personal Care
+U0305,18-25,Female,Homemaker,Ahmedabad,Apartment,Premium,No,No,Kitchen
+U0306,55+,Male,Student,Mumbai,Villa,Mid-Range,Yes,Yes,Tools
+U0307,26-35,Male,Homemaker,Pune,Apartment,Mid-Range,No,Yes,Climate
+U0308,55+,Female,Working Professional,Mumbai,Apartment,Premium,No,Yes,Networking
+U0309,26-35,Female,Student,Pune,Apartment,Budget,Yes,No,Fitness
+U0310,46-55,Other,Working Professional,Ahmedabad,Apartment,Premium,No,Yes,Personal Care
+U0311,46-55,Female,Homemaker,Ahmedabad,PG/Hostel,Premium,Yes,No,Decor
+U0312,46-55,Male,Homemaker,Kolkata,Apartment,Mid-Range,Yes,No,Personal Care
+U0313,55+,Female,Homemaker,Pune,Independent House,Premium,Yes,Yes,Outdoor
+U0314,18-25,Female,Student,Ahmedabad,Apartment,Mid-Range,No,Yes,Cleaning
+U0315,26-35,Male,Working Professional,Ahmedabad,Independent House,Premium,Yes,No,Networking
+U0316,26-35,Male,Business Owner,Chennai,Independent House,Luxury,No,No,Power
+U0317,18-25,Male,Student,Kolkata,Independent House,Budget,Yes,No,Personal Care
+U0318,36-45,Female,Working Professional,Bangalore,PG/Hostel,Mid-Range,No,No,Cleaning
+U0319,46-55,Female,Student,Bangalore,Apartment,Budget,Yes,No,Networking
+U0320,26-35,Male,Retired,Kolkata,Independent House,Premium,No,Yes,Entertainment
+U0321,36-45,Female,Homemaker,Pune,Apartment,Premium,Yes,No,Entertainment
+U0322,26-35,Male,Working Professional,Kolkata,Apartment,Premium,Yes,Yes,Hobby
+U0323,18-25,Male,Student,Bangalore,Apartment,Budget,Yes,Yes,Hobby
+U0324,36-45,Female,Homemaker,Chennai,Apartment,Premium,No,Yes,Outdoor
+U0325,18-25,Female,Student,Hyderabad,Independent House,Mid-Range,Yes,No,Cleaning
+U0326,18-25,Male,Retired,Ahmedabad,Independent House,Mid-Range,No,No,Smart Home
+U0327,36-45,Female,Business Owner,Delhi,PG/Hostel,Luxury,Yes,Yes,Outdoor
+U0328,26-35,Male,Business Owner,Bangalore,PG/Hostel,Premium,No,Yes,Hobby
+U0329,36-45,Male,Business Owner,Bangalore,Independent House,Premium,Yes,Yes,Networking
+U0330,36-45,Male,Homemaker,Ahmedabad,Apartment,Premium,No,No,Kitchen
+U0331,26-35,Female,Student,Chennai,Apartment,Budget,Yes,No,Climate
+U0332,55+,Male,Working Professional,Kolkata,PG/Hostel,Premium,No,Yes,Smart Home
+U0333,36-45,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,No,Entertainment
+U0334,26-35,Other,Retired,Lucknow,Independent House,Luxury,Yes,No,Fitness
+U0335,18-25,Male,Homemaker,Delhi,Apartment,Mid-Range,No,Yes,Personal Care
+U0336,26-35,Female,Working Professional,Hyderabad,Independent House,Premium,Yes,No,Outdoor
+U0337,36-45,Male,Working Professional,Chennai,Apartment,Mid-Range,Yes,No,Decor
+U0338,55+,Female,Student,Chennai,Independent House,Budget,No,Yes,Personal Care
+U0339,26-35,Female,Homemaker,Bangalore,PG/Hostel,Mid-Range,No,No,Smart Home
+U0340,55+,Male,Working Professional,Mumbai,Independent House,Mid-Range,Yes,No,Decor
+U0341,55+,Female,Working Professional,Lucknow,Independent House,Mid-Range,Yes,No,Climate
+U0342,36-45,Female,Student,Chennai,Villa,Mid-Range,Yes,No,Pet
+U0343,18-25,Other,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Cleaning
+U0344,46-55,Male,Working Professional,Ahmedabad,PG/Hostel,Premium,Yes,Yes,Entertainment
+U0345,26-35,Male,Working Professional,Pune,Independent House,Premium,No,No,Pet
+U0346,18-25,Other,Working Professional,Pune,Apartment,Mid-Range,Yes,Yes,Laundry
+U0347,36-45,Female,Working Professional,Delhi,Apartment,Premium,Yes,Yes,Hobby
+U0348,55+,Male,Working Professional,Chennai,Apartment,Mid-Range,No,No,Fitness
+U0349,18-25,Male,Working Professional,Bangalore,PG/Hostel,Mid-Range,No,No,Smart Home
+U0350,26-35,Female,Working Professional,Bangalore,Independent House,Mid-Range,Yes,Yes,Climate
+U0351,18-25,Male,Student,Ahmedabad,Independent House,Mid-Range,Yes,No,Bathroom
+U0352,36-45,Female,Working Professional,Hyderabad,PG/Hostel,Premium,Yes,Yes,Power
+U0353,36-45,Male,Business Owner,Ahmedabad,Apartment,Luxury,Yes,No,Climate
+U0354,26-35,Female,Student,Jaipur,Villa,Mid-Range,Yes,Yes,Entertainment
+U0355,18-25,Male,Student,Pune,Villa,Mid-Range,No,Yes,Pet
+U0356,26-35,Male,Working Professional,Lucknow,Apartment,Mid-Range,Yes,Yes,Outdoor
+U0357,55+,Male,Retired,Kolkata,Villa,Mid-Range,No,No,Decor
+U0358,36-45,Male,Business Owner,Bangalore,Independent House,Premium,No,Yes,Smart Home
+U0359,26-35,Male,Homemaker,Bangalore,Apartment,Premium,Yes,Yes,Bathroom
+U0360,26-35,Male,Homemaker,Mumbai,Independent House,Mid-Range,Yes,No,Climate
+U0361,55+,Female,Student,Bangalore,Apartment,Mid-Range,No,No,Smart Home
+U0362,46-55,Female,Student,Bangalore,PG/Hostel,Mid-Range,Yes,No,Outdoor
+U0363,55+,Female,Homemaker,Jaipur,Independent House,Premium,No,No,Outdoor
+U0364,46-55,Male,Working Professional,Mumbai,Villa,Premium,Yes,No,Fitness
+U0365,36-45,Male,Homemaker,Mumbai,Independent House,Premium,No,Yes,Laundry
+U0366,26-35,Male,Homemaker,Lucknow,Independent House,Mid-Range,No,Yes,Pet
+U0367,55+,Other,Student,Hyderabad,Apartment,Budget,Yes,No,Hobby
+U0368,46-55,Female,Business Owner,Mumbai,Independent House,Premium,Yes,No,Fitness
+U0369,46-55,Male,Working Professional,Kolkata,Independent House,Mid-Range,Yes,No,Climate
+U0370,46-55,Female,Homemaker,Bangalore,Apartment,Mid-Range,No,No,Climate
+U0371,46-55,Female,Student,Pune,Apartment,Mid-Range,No,No,Smart Home
+U0372,26-35,Male,Working Professional,Chennai,Independent House,Premium,Yes,Yes,Laundry
+U0373,26-35,Male,Working Professional,Jaipur,Apartment,Premium,Yes,No,Outdoor
+U0374,26-35,Female,Student,Hyderabad,Independent House,Mid-Range,No,Yes,Climate
+U0375,36-45,Male,Working Professional,Jaipur,PG/Hostel,Premium,No,No,Decor
+U0376,36-45,Male,Working Professional,Delhi,Apartment,Premium,Yes,No,Pet
+U0377,26-35,Female,Working Professional,Bangalore,Independent House,Premium,Yes,Yes,Kitchen
+U0378,36-45,Female,Homemaker,Ahmedabad,Independent House,Premium,No,No,Tools
+U0379,55+,Male,Student,Jaipur,Apartment,Budget,Yes,No,Decor
+U0380,36-45,Male,Business Owner,Delhi,Villa,Premium,No,No,Laundry
+U0381,18-25,Male,Retired,Jaipur,Apartment,Mid-Range,Yes,Yes,Hobby
+U0382,26-35,Male,Working Professional,Pune,Apartment,Premium,No,Yes,Entertainment
+U0383,46-55,Male,Working Professional,Jaipur,Independent House,Mid-Range,No,Yes,Climate
+U0384,36-45,Male,Working Professional,Hyderabad,Apartment,Premium,No,Yes,Outdoor
+U0385,18-25,Male,Homemaker,Delhi,Independent House,Mid-Range,No,Yes,Power
+U0386,36-45,Female,Student,Kolkata,Apartment,Budget,No,Yes,Power
+U0387,55+,Female,Working Professional,Ahmedabad,Independent House,Premium,Yes,No,Outdoor
+U0388,18-25,Female,Homemaker,Mumbai,Independent House,Mid-Range,Yes,Yes,Smart Home
+U0389,46-55,Male,Business Owner,Ahmedabad,Apartment,Luxury,No,No,Climate
+U0390,36-45,Female,Working Professional,Jaipur,Villa,Mid-Range,Yes,Yes,Hobby
+U0391,26-35,Female,Working Professional,Bangalore,Apartment,Premium,No,Yes,Personal Care
+U0392,46-55,Female,Working Professional,Pune,Apartment,Mid-Range,No,No,Tools
+U0393,36-45,Female,Working Professional,Lucknow,Apartment,Mid-Range,No,No,Fitness
+U0394,36-45,Male,Business Owner,Delhi,Apartment,Luxury,Yes,Yes,Entertainment
+U0395,18-25,Female,Homemaker,Pune,Independent House,Premium,No,Yes,Pet
+U0396,26-35,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,No,No,Outdoor
+U0397,55+,Female,Student,Chennai,Apartment,Budget,No,No,Power
+U0398,26-35,Female,Homemaker,Ahmedabad,Villa,Mid-Range,Yes,Yes,Bathroom
+U0399,18-25,Female,Student,Delhi,Independent House,Mid-Range,No,No,Networking
+U0400,26-35,Male,Student,Hyderabad,PG/Hostel,Budget,No,Yes,Cleaning
+U0401,18-25,Male,Working Professional,Kolkata,Apartment,Premium,No,No,Tools
+U0402,18-25,Male,Working Professional,Lucknow,PG/Hostel,Mid-Range,No,Yes,Cleaning
+U0403,26-35,Female,Working Professional,Delhi,Independent House,Premium,No,Yes,Bathroom
+U0404,36-45,Male,Working Professional,Lucknow,Independent House,Mid-Range,Yes,Yes,Bathroom
+U0405,55+,Female,Homemaker,Delhi,Independent House,Premium,No,No,Climate
+U0406,26-35,Female,Student,Jaipur,Villa,Budget,Yes,Yes,Entertainment
+U0407,18-25,Male,Homemaker,Ahmedabad,Independent House,Premium,No,Yes,Outdoor
+U0408,18-25,Female,Working Professional,Kolkata,Apartment,Mid-Range,Yes,Yes,Tools
+U0409,36-45,Female,Business Owner,Mumbai,Apartment,Premium,Yes,No,Power
+U0410,26-35,Other,Student,Ahmedabad,Villa,Budget,Yes,Yes,Entertainment
+U0411,36-45,Female,Business Owner,Pune,Independent House,Luxury,No,Yes,Pet
+U0412,18-25,Male,Homemaker,Delhi,PG/Hostel,Premium,No,Yes,Entertainment
+U0413,46-55,Male,Homemaker,Delhi,Apartment,Premium,Yes,No,Bathroom
+U0414,26-35,Male,Working Professional,Hyderabad,Villa,Mid-Range,No,No,Outdoor
+U0415,36-45,Male,Working Professional,Jaipur,Apartment,Premium,Yes,Yes,Laundry
+U0416,36-45,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Hobby
+U0417,55+,Male,Business Owner,Kolkata,Villa,Premium,No,No,Security
+U0418,18-25,Male,Business Owner,Hyderabad,PG/Hostel,Premium,Yes,Yes,Cleaning
+U0419,46-55,Female,Business Owner,Hyderabad,Apartment,Premium,No,No,Laundry
+U0420,18-25,Male,Working Professional,Mumbai,Independent House,Mid-Range,Yes,No,Laundry
+U0421,26-35,Female,Retired,Lucknow,PG/Hostel,Luxury,No,Yes,Smart Home
+U0422,18-25,Female,Business Owner,Chennai,Independent House,Premium,No,No,Bathroom
+U0423,36-45,Male,Homemaker,Kolkata,Independent House,Mid-Range,Yes,Yes,Personal Care
+U0424,26-35,Male,Student,Jaipur,Apartment,Mid-Range,Yes,No,Pet
+U0425,18-25,Other,Student,Kolkata,Independent House,Mid-Range,Yes,Yes,Personal Care
+U0426,55+,Male,Working Professional,Hyderabad,Independent House,Premium,No,Yes,Entertainment
+U0427,26-35,Female,Student,Mumbai,Apartment,Mid-Range,Yes,No,Bathroom
+U0428,36-45,Male,Homemaker,Kolkata,Apartment,Mid-Range,Yes,Yes,Kitchen
+U0429,46-55,Male,Working Professional,Pune,Villa,Premium,Yes,No,Tools
+U0430,18-25,Other,Homemaker,Chennai,Apartment,Mid-Range,Yes,Yes,Power
+U0431,18-25,Male,Student,Hyderabad,Apartment,Budget,No,Yes,Tools
+U0432,36-45,Female,Student,Hyderabad,Villa,Mid-Range,No,Yes,Security
+U0433,46-55,Male,Homemaker,Hyderabad,Independent House,Mid-Range,No,Yes,Climate
+U0434,36-45,Male,Working Professional,Lucknow,PG/Hostel,Mid-Range,No,Yes,Laundry
+U0435,26-35,Male,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Networking
+U0436,46-55,Female,Homemaker,Chennai,Apartment,Premium,Yes,No,Cleaning
+U0437,26-35,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,No,Yes,Tools
+U0438,46-55,Female,Student,Pune,Apartment,Mid-Range,Yes,No,Laundry
+U0439,18-25,Other,Working Professional,Mumbai,PG/Hostel,Mid-Range,Yes,No,Fitness
+U0440,55+,Male,Working Professional,Bangalore,Independent House,Premium,Yes,Yes,Laundry
+U0441,26-35,Male,Business Owner,Jaipur,Independent House,Luxury,No,No,Decor
+U0442,18-25,Female,Working Professional,Ahmedabad,Independent House,Premium,Yes,No,Networking
+U0443,26-35,Male,Working Professional,Bangalore,PG/Hostel,Mid-Range,No,Yes,Power
+U0444,46-55,Female,Retired,Mumbai,Apartment,Luxury,No,Yes,Power
+U0445,36-45,Male,Working Professional,Kolkata,PG/Hostel,Mid-Range,Yes,No,Kitchen
+U0446,18-25,Male,Business Owner,Mumbai,Independent House,Premium,Yes,Yes,Power
+U0447,36-45,Female,Business Owner,Ahmedabad,Independent House,Luxury,Yes,No,Fitness
+U0448,18-25,Male,Working Professional,Mumbai,Independent House,Mid-Range,Yes,Yes,Outdoor
+U0449,36-45,Male,Homemaker,Jaipur,Apartment,Mid-Range,No,No,Personal Care
+U0450,36-45,Male,Student,Delhi,Apartment,Budget,Yes,Yes,Bathroom
+U0451,55+,Male,Homemaker,Pune,Apartment,Premium,Yes,No,Networking
+U0452,26-35,Female,Homemaker,Ahmedabad,Apartment,Premium,No,No,Laundry
+U0453,18-25,Female,Student,Delhi,PG/Hostel,Mid-Range,No,No,Power
+U0454,26-35,Male,Student,Kolkata,Villa,Budget,Yes,Yes,Power
+U0455,26-35,Female,Homemaker,Bangalore,Apartment,Mid-Range,Yes,No,Smart Home
+U0456,26-35,Female,Student,Jaipur,PG/Hostel,Budget,No,Yes,Climate
+U0457,36-45,Male,Working Professional,Mumbai,Villa,Premium,No,No,Decor
+U0458,46-55,Other,Working Professional,Bangalore,Independent House,Mid-Range,No,Yes,Tools
+U0459,36-45,Female,Homemaker,Kolkata,Independent House,Mid-Range,No,Yes,Laundry
+U0460,18-25,Female,Working Professional,Jaipur,Apartment,Premium,Yes,No,Entertainment
+U0461,26-35,Male,Working Professional,Jaipur,Independent House,Mid-Range,No,Yes,Hobby
+U0462,55+,Male,Working Professional,Hyderabad,Apartment,Premium,No,Yes,Pet
+U0463,46-55,Male,Homemaker,Mumbai,PG/Hostel,Premium,No,No,Cleaning
+U0464,46-55,Female,Business Owner,Hyderabad,Apartment,Luxury,Yes,No,Fitness
+U0465,46-55,Female,Working Professional,Lucknow,Independent House,Mid-Range,Yes,Yes,Outdoor
+U0466,46-55,Male,Homemaker,Delhi,Independent House,Mid-Range,Yes,Yes,Entertainment
+U0467,55+,Male,Retired,Kolkata,Apartment,Luxury,No,Yes,Security
+U0468,18-25,Female,Homemaker,Ahmedabad,Apartment,Premium,Yes,Yes,Entertainment
+U0469,36-45,Female,Business Owner,Bangalore,Independent House,Premium,Yes,No,Bathroom
+U0470,36-45,Male,Working Professional,Delhi,Independent House,Premium,Yes,Yes,Kitchen
+U0471,36-45,Female,Business Owner,Kolkata,PG/Hostel,Luxury,Yes,Yes,Kitchen
+U0472,18-25,Male,Working Professional,Lucknow,Apartment,Mid-Range,Yes,Yes,Personal Care
+U0473,36-45,Male,Retired,Chennai,Apartment,Mid-Range,No,Yes,Kitchen
+U0474,46-55,Female,Working Professional,Kolkata,Independent House,Mid-Range,Yes,Yes,Kitchen
+U0475,36-45,Male,Working Professional,Chennai,PG/Hostel,Premium,No,No,Climate
+U0476,36-45,Female,Student,Ahmedabad,Apartment,Budget,Yes,Yes,Pet
+U0477,36-45,Female,Working Professional,Lucknow,Apartment,Premium,Yes,No,Cleaning
+U0478,26-35,Male,Student,Kolkata,PG/Hostel,Mid-Range,No,No,Entertainment
+U0479,55+,Male,Working Professional,Pune,Independent House,Premium,Yes,No,Climate
+U0480,46-55,Male,Homemaker,Bangalore,Apartment,Premium,No,No,Outdoor
+U0481,36-45,Female,Student,Lucknow,Apartment,Mid-Range,No,Yes,Decor
+U0482,46-55,Female,Student,Pune,Independent House,Mid-Range,Yes,No,Personal Care
+U0483,36-45,Female,Student,Ahmedabad,Independent House,Budget,No,Yes,Outdoor
+U0484,36-45,Female,Homemaker,Kolkata,PG/Hostel,Mid-Range,No,Yes,Outdoor
+U0485,26-35,Female,Business Owner,Chennai,Apartment,Premium,No,No,Pet
+U0486,18-25,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,No,Yes,Pet
+U0487,46-55,Male,Working Professional,Jaipur,Apartment,Premium,Yes,No,Kitchen
+U0488,26-35,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Power
+U0489,36-45,Other,Homemaker,Pune,Villa,Premium,No,Yes,Security
+U0490,36-45,Female,Working Professional,Chennai,PG/Hostel,Mid-Range,Yes,No,Laundry
+U0491,18-25,Female,Working Professional,Pune,Apartment,Premium,Yes,No,Bathroom
+U0492,36-45,Male,Homemaker,Pune,Apartment,Mid-Range,No,Yes,Outdoor
+U0493,26-35,Male,Student,Delhi,PG/Hostel,Mid-Range,Yes,No,Entertainment
+U0494,26-35,Male,Working Professional,Chennai,Villa,Premium,Yes,No,Bathroom
+U0495,26-35,Female,Working Professional,Pune,PG/Hostel,Premium,Yes,Yes,Cleaning
+U0496,18-25,Male,Business Owner,Delhi,Independent House,Luxury,Yes,No,Hobby
+U0497,18-25,Female,Student,Pune,Independent House,Budget,No,Yes,Personal Care
+U0498,26-35,Female,Homemaker,Jaipur,Apartment,Mid-Range,Yes,Yes,Fitness
+U0499,36-45,Female,Student,Hyderabad,Independent House,Mid-Range,No,No,Personal Care
+U0500,55+,Male,Student,Kolkata,Apartment,Mid-Range,Yes,No,Tools
+U0501,26-35,Female,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Tools
+U0502,26-35,Male,Homemaker,Chennai,PG/Hostel,Mid-Range,No,No,Kitchen
+U0503,18-25,Male,Working Professional,Jaipur,Apartment,Mid-Range,Yes,Yes,Cleaning
+U0504,55+,Female,Student,Chennai,Apartment,Budget,No,No,Smart Home
+U0505,26-35,Male,Business Owner,Lucknow,Independent House,Luxury,Yes,Yes,Networking
+U0506,55+,Female,Working Professional,Lucknow,Apartment,Premium,Yes,No,Outdoor
+U0507,26-35,Female,Working Professional,Bangalore,Villa,Mid-Range,Yes,Yes,Hobby
+U0508,26-35,Male,Homemaker,Pune,Independent House,Mid-Range,No,Yes,Fitness
+U0509,26-35,Female,Retired,Bangalore,Apartment,Luxury,No,Yes,Climate
+U0510,18-25,Male,Student,Jaipur,Apartment,Budget,Yes,Yes,Personal Care
+U0511,46-55,Female,Working Professional,Ahmedabad,Apartment,Premium,Yes,No,Security
+U0512,46-55,Male,Homemaker,Bangalore,Independent House,Premium,Yes,Yes,Bathroom
+U0513,36-45,Male,Student,Kolkata,Independent House,Mid-Range,No,Yes,Cleaning
+U0514,18-25,Female,Retired,Bangalore,Independent House,Premium,Yes,Yes,Laundry
+U0515,26-35,Female,Working Professional,Mumbai,Independent House,Premium,Yes,Yes,Personal Care
+U0516,18-25,Female,Working Professional,Lucknow,Independent House,Premium,No,No,Bathroom
+U0517,18-25,Male,Business Owner,Lucknow,Apartment,Premium,Yes,No,Networking
+U0518,18-25,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,No,Hobby
+U0519,26-35,Female,Business Owner,Chennai,PG/Hostel,Premium,No,Yes,Decor
+U0520,26-35,Other,Working Professional,Delhi,PG/Hostel,Premium,Yes,No,Laundry
+U0521,18-25,Male,Student,Lucknow,Villa,Budget,No,No,Fitness
+U0522,36-45,Male,Working Professional,Lucknow,Independent House,Mid-Range,Yes,Yes,Tools
+U0523,46-55,Female,Working Professional,Lucknow,Villa,Mid-Range,Yes,Yes,Personal Care
+U0524,26-35,Male,Working Professional,Chennai,PG/Hostel,Premium,Yes,Yes,Bathroom
+U0525,36-45,Female,Homemaker,Bangalore,Apartment,Mid-Range,No,No,Power
+U0526,55+,Male,Working Professional,Bangalore,Independent House,Premium,No,Yes,Entertainment
+U0527,46-55,Female,Working Professional,Hyderabad,Villa,Premium,No,No,Climate
+U0528,26-35,Male,Retired,Lucknow,Apartment,Mid-Range,No,Yes,Pet
+U0529,18-25,Female,Business Owner,Delhi,Apartment,Luxury,No,No,Kitchen
+U0530,26-35,Male,Homemaker,Jaipur,PG/Hostel,Premium,No,No,Networking
+U0531,46-55,Other,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Kitchen
+U0532,55+,Female,Homemaker,Pune,Apartment,Premium,No,No,Pet
+U0533,46-55,Male,Working Professional,Kolkata,Apartment,Mid-Range,No,No,Smart Home
+U0534,36-45,Female,Working Professional,Pune,PG/Hostel,Premium,Yes,Yes,Climate
+U0535,18-25,Male,Homemaker,Mumbai,PG/Hostel,Premium,Yes,Yes,Cleaning
+U0536,46-55,Female,Working Professional,Delhi,Apartment,Mid-Range,No,Yes,Cleaning
+U0537,26-35,Male,Business Owner,Kolkata,Apartment,Premium,Yes,No,Entertainment
+U0538,26-35,Male,Business Owner,Bangalore,Apartment,Luxury,No,No,Kitchen
+U0539,36-45,Male,Business Owner,Chennai,Apartment,Luxury,Yes,No,Personal Care
+U0540,18-25,Male,Working Professional,Kolkata,Independent House,Mid-Range,Yes,No,Laundry
+U0541,36-45,Male,Homemaker,Delhi,PG/Hostel,Premium,No,Yes,Climate
+U0542,26-35,Female,Retired,Bangalore,Apartment,Mid-Range,No,Yes,Cleaning
+U0543,36-45,Female,Working Professional,Mumbai,Apartment,Mid-Range,Yes,No,Fitness
+U0544,18-25,Male,Business Owner,Ahmedabad,PG/Hostel,Premium,Yes,Yes,Hobby
+U0545,26-35,Female,Homemaker,Pune,Independent House,Mid-Range,Yes,Yes,Pet
+U0546,26-35,Male,Working Professional,Bangalore,Apartment,Mid-Range,Yes,Yes,Personal Care
+U0547,36-45,Female,Retired,Pune,PG/Hostel,Premium,No,No,Entertainment
+U0548,46-55,Male,Homemaker,Lucknow,Villa,Premium,No,No,Kitchen
+U0549,36-45,Male,Working Professional,Bangalore,Apartment,Mid-Range,No,No,Pet
+U0550,26-35,Female,Business Owner,Kolkata,Apartment,Luxury,Yes,Yes,Decor
+U0551,55+,Male,Student,Hyderabad,Apartment,Budget,Yes,No,Outdoor
+U0552,36-45,Male,Business Owner,Chennai,PG/Hostel,Premium,Yes,No,Tools
+U0553,26-35,Female,Business Owner,Chennai,PG/Hostel,Luxury,No,No,Laundry
+U0554,18-25,Female,Retired,Kolkata,Apartment,Premium,Yes,Yes,Kitchen
+U0555,46-55,Female,Working Professional,Pune,Apartment,Mid-Range,No,Yes,Fitness
+U0556,36-45,Male,Working Professional,Jaipur,Apartment,Premium,Yes,No,Kitchen
+U0557,18-25,Male,Working Professional,Lucknow,Independent House,Mid-Range,Yes,Yes,Power
+U0558,26-35,Female,Working Professional,Kolkata,Apartment,Mid-Range,Yes,Yes,Bathroom
+U0559,55+,Female,Business Owner,Kolkata,Independent House,Luxury,No,Yes,Entertainment
+U0560,46-55,Male,Working Professional,Delhi,Apartment,Premium,Yes,No,Tools
+U0561,46-55,Female,Student,Jaipur,Villa,Budget,Yes,No,Kitchen
+U0562,46-55,Male,Working Professional,Kolkata,PG/Hostel,Premium,No,No,Power
+U0563,36-45,Male,Student,Delhi,Villa,Budget,No,Yes,Power
+U0564,36-45,Female,Business Owner,Bangalore,Independent House,Luxury,Yes,No,Security
+U0565,36-45,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,No,No,Decor
+U0566,46-55,Female,Homemaker,Pune,Apartment,Mid-Range,Yes,No,Decor
+U0567,36-45,Female,Homemaker,Mumbai,Independent House,Mid-Range,Yes,Yes,Bathroom
+U0568,26-35,Male,Working Professional,Chennai,Apartment,Mid-Range,No,Yes,Kitchen
+U0569,26-35,Female,Homemaker,Ahmedabad,Independent House,Premium,No,Yes,Personal Care
+U0570,36-45,Female,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Hobby
+U0571,26-35,Male,Working Professional,Jaipur,Apartment,Mid-Range,Yes,No,Security
+U0572,18-25,Other,Working Professional,Mumbai,Apartment,Mid-Range,Yes,Yes,Entertainment
+U0573,26-35,Female,Working Professional,Mumbai,Apartment,Mid-Range,Yes,No,Fitness
+U0574,26-35,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Smart Home
+U0575,26-35,Male,Student,Delhi,Apartment,Mid-Range,Yes,Yes,Power
+U0576,46-55,Female,Working Professional,Hyderabad,Apartment,Mid-Range,No,No,Pet
+U0577,55+,Male,Working Professional,Ahmedabad,Independent House,Mid-Range,No,No,Outdoor
+U0578,18-25,Female,Working Professional,Delhi,PG/Hostel,Premium,Yes,Yes,Tools
+U0579,26-35,Other,Homemaker,Lucknow,Apartment,Premium,No,No,Laundry
+U0580,26-35,Male,Working Professional,Pune,Apartment,Premium,Yes,Yes,Tools
+U0581,55+,Female,Homemaker,Bangalore,Apartment,Mid-Range,Yes,No,Laundry
+U0582,46-55,Female,Retired,Pune,Apartment,Luxury,No,No,Security
+U0583,36-45,Male,Student,Mumbai,Apartment,Mid-Range,No,Yes,Outdoor
+U0584,36-45,Male,Homemaker,Hyderabad,Apartment,Mid-Range,No,Yes,Climate
+U0585,26-35,Male,Working Professional,Bangalore,Apartment,Mid-Range,No,Yes,Laundry
+U0586,46-55,Male,Student,Pune,Apartment,Mid-Range,Yes,No,Hobby
+U0587,55+,Female,Homemaker,Kolkata,Apartment,Mid-Range,Yes,No,Fitness
+U0588,36-45,Female,Student,Hyderabad,Villa,Budget,Yes,No,Pet
+U0589,36-45,Female,Business Owner,Pune,Apartment,Luxury,Yes,Yes,Tools
+U0590,55+,Female,Student,Lucknow,Apartment,Budget,Yes,Yes,Cleaning
+U0591,18-25,Male,Working Professional,Pune,Independent House,Premium,Yes,Yes,Tools
+U0592,36-45,Male,Student,Chennai,Independent House,Mid-Range,Yes,No,Kitchen
+U0593,26-35,Female,Homemaker,Chennai,PG/Hostel,Mid-Range,No,No,Power
+U0594,36-45,Female,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Networking
+U0595,26-35,Male,Business Owner,Jaipur,PG/Hostel,Luxury,Yes,Yes,Personal Care
+U0596,46-55,Female,Business Owner,Kolkata,Apartment,Premium,No,No,Laundry
+U0597,26-35,Male,Homemaker,Ahmedabad,Independent House,Mid-Range,Yes,No,Hobby
+U0598,36-45,Male,Homemaker,Mumbai,Apartment,Mid-Range,No,No,Entertainment
+U0599,26-35,Female,Student,Kolkata,Apartment,Budget,Yes,Yes,Kitchen
+U0600,18-25,Female,Student,Delhi,Independent House,Mid-Range,Yes,Yes,Cleaning
+U0601,26-35,Male,Student,Delhi,Apartment,Budget,No,No,Smart Home
+U0602,36-45,Male,Homemaker,Mumbai,Apartment,Mid-Range,No,Yes,Fitness
+U0603,55+,Female,Working Professional,Ahmedabad,Apartment,Premium,Yes,No,Personal Care
+U0604,26-35,Female,Student,Hyderabad,Villa,Mid-Range,No,Yes,Cleaning
+U0605,26-35,Male,Student,Mumbai,Apartment,Budget,No,Yes,Outdoor
+U0606,18-25,Female,Student,Kolkata,Independent House,Mid-Range,No,Yes,Kitchen
+U0607,26-35,Male,Business Owner,Kolkata,Villa,Luxury,Yes,Yes,Bathroom
+U0608,26-35,Female,Business Owner,Jaipur,PG/Hostel,Premium,No,No,Networking
+U0609,55+,Other,Working Professional,Jaipur,Apartment,Premium,No,Yes,Bathroom
+U0610,26-35,Female,Working Professional,Kolkata,Apartment,Premium,Yes,Yes,Laundry
+U0611,36-45,Female,Working Professional,Chennai,PG/Hostel,Mid-Range,Yes,No,Bathroom
+U0612,26-35,Male,Working Professional,Lucknow,Apartment,Premium,No,No,Hobby
+U0613,18-25,Male,Working Professional,Hyderabad,Villa,Mid-Range,Yes,No,Power
+U0614,36-45,Female,Working Professional,Lucknow,Apartment,Mid-Range,No,No,Networking
+U0615,26-35,Female,Homemaker,Bangalore,Apartment,Mid-Range,Yes,Yes,Networking
+U0616,55+,Female,Business Owner,Pune,Independent House,Premium,No,No,Tools
+U0617,36-45,Male,Working Professional,Jaipur,Apartment,Premium,Yes,Yes,Kitchen
+U0618,26-35,Male,Working Professional,Hyderabad,Villa,Mid-Range,Yes,Yes,Climate
+U0619,55+,Female,Homemaker,Pune,PG/Hostel,Mid-Range,No,Yes,Entertainment
+U0620,18-25,Male,Business Owner,Bangalore,PG/Hostel,Luxury,No,No,Smart Home
+U0621,26-35,Female,Business Owner,Mumbai,Apartment,Premium,Yes,No,Entertainment
+U0622,26-35,Female,Retired,Jaipur,PG/Hostel,Mid-Range,No,No,Networking
+U0623,36-45,Male,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Entertainment
+U0624,46-55,Female,Working Professional,Kolkata,Independent House,Mid-Range,No,No,Smart Home
+U0625,36-45,Other,Business Owner,Jaipur,Apartment,Premium,No,No,Networking
+U0626,46-55,Female,Homemaker,Lucknow,Villa,Mid-Range,No,Yes,Outdoor
+U0627,26-35,Female,Student,Bangalore,Apartment,Budget,No,No,Pet
+U0628,46-55,Male,Business Owner,Bangalore,PG/Hostel,Premium,No,No,Laundry
+U0629,26-35,Female,Working Professional,Ahmedabad,Villa,Mid-Range,Yes,No,Laundry
+U0630,18-25,Female,Working Professional,Pune,Independent House,Premium,Yes,No,Kitchen
+U0631,36-45,Male,Student,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Kitchen
+U0632,46-55,Male,Working Professional,Chennai,Villa,Premium,No,No,Power
+U0633,18-25,Female,Retired,Ahmedabad,PG/Hostel,Premium,No,No,Fitness
+U0634,26-35,Female,Student,Kolkata,PG/Hostel,Mid-Range,Yes,Yes,Climate
+U0635,36-45,Female,Student,Bangalore,PG/Hostel,Budget,Yes,No,Power
+U0636,36-45,Female,Homemaker,Mumbai,Independent House,Premium,Yes,No,Kitchen
+U0637,18-25,Male,Working Professional,Bangalore,Apartment,Premium,No,Yes,Kitchen
+U0638,26-35,Male,Student,Pune,Apartment,Budget,Yes,Yes,Climate
+U0639,46-55,Male,Retired,Mumbai,Villa,Luxury,No,No,Fitness
+U0640,36-45,Male,Working Professional,Mumbai,Independent House,Mid-Range,Yes,Yes,Tools
+U0641,46-55,Male,Homemaker,Jaipur,Apartment,Premium,No,No,Decor
+U0642,26-35,Male,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Climate
+U0643,46-55,Male,Retired,Mumbai,Villa,Mid-Range,No,No,Outdoor
+U0644,26-35,Male,Working Professional,Hyderabad,Independent House,Premium,Yes,Yes,Outdoor
+U0645,55+,Male,Homemaker,Ahmedabad,Independent House,Mid-Range,No,Yes,Pet
+U0646,18-25,Female,Business Owner,Ahmedabad,Apartment,Luxury,No,Yes,Pet
+U0647,36-45,Male,Homemaker,Pune,Independent House,Mid-Range,No,Yes,Cleaning
+U0648,26-35,Female,Homemaker,Chennai,PG/Hostel,Mid-Range,No,Yes,Decor
+U0649,36-45,Male,Working Professional,Bangalore,PG/Hostel,Mid-Range,No,No,Kitchen
+U0650,26-35,Male,Working Professional,Jaipur,Apartment,Premium,Yes,No,Laundry
+U0651,36-45,Female,Student,Kolkata,Apartment,Budget,No,Yes,Climate
+U0652,18-25,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Power
+U0653,36-45,Female,Student,Delhi,Apartment,Budget,No,Yes,Personal Care
+U0654,26-35,Male,Homemaker,Hyderabad,Apartment,Mid-Range,Yes,Yes,Fitness
+U0655,26-35,Female,Working Professional,Bangalore,Apartment,Mid-Range,No,Yes,Kitchen
+U0656,46-55,Male,Business Owner,Kolkata,Villa,Premium,Yes,No,Decor
+U0657,26-35,Male,Retired,Ahmedabad,Independent House,Luxury,No,Yes,Bathroom
+U0658,26-35,Female,Working Professional,Delhi,Independent House,Premium,Yes,Yes,Hobby
+U0659,18-25,Female,Student,Lucknow,Independent House,Budget,No,No,Networking
+U0660,55+,Female,Homemaker,Chennai,Independent House,Premium,Yes,No,Climate
+U0661,26-35,Female,Student,Bangalore,Independent House,Budget,Yes,Yes,Pet
+U0662,18-25,Female,Working Professional,Kolkata,Independent House,Mid-Range,No,Yes,Laundry
+U0663,26-35,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,No,No,Security
+U0664,26-35,Female,Student,Chennai,Apartment,Mid-Range,Yes,No,Hobby
+U0665,46-55,Male,Business Owner,Bangalore,Independent House,Premium,Yes,No,Smart Home
+U0666,26-35,Male,Business Owner,Kolkata,Independent House,Luxury,No,Yes,Cleaning
+U0667,36-45,Male,Working Professional,Kolkata,Independent House,Mid-Range,No,No,Networking
+U0668,36-45,Female,Working Professional,Jaipur,Apartment,Mid-Range,No,Yes,Bathroom
+U0669,36-45,Female,Working Professional,Bangalore,Apartment,Premium,No,No,Security
+U0670,26-35,Male,Student,Hyderabad,Independent House,Budget,No,Yes,Power
+U0671,26-35,Male,Business Owner,Mumbai,Apartment,Premium,Yes,No,Tools
+U0672,26-35,Male,Student,Pune,Apartment,Mid-Range,No,Yes,Hobby
+U0673,26-35,Female,Working Professional,Hyderabad,Independent House,Mid-Range,Yes,Yes,Personal Care
+U0674,18-25,Other,Working Professional,Lucknow,Independent House,Premium,Yes,Yes,Decor
+U0675,36-45,Female,Working Professional,Chennai,PG/Hostel,Mid-Range,Yes,Yes,Tools
+U0676,36-45,Male,Retired,Hyderabad,Apartment,Mid-Range,No,Yes,Fitness
+U0677,46-55,Male,Business Owner,Mumbai,Apartment,Premium,Yes,Yes,Personal Care
+U0678,18-25,Female,Working Professional,Hyderabad,Independent House,Mid-Range,Yes,No,Outdoor
+U0679,26-35,Male,Working Professional,Kolkata,Apartment,Premium,No,No,Cleaning
+U0680,36-45,Female,Retired,Hyderabad,Apartment,Premium,No,No,Pet
+U0681,46-55,Female,Business Owner,Mumbai,Independent House,Premium,Yes,No,Networking
+U0682,26-35,Male,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Smart Home
+U0683,26-35,Female,Working Professional,Pune,Independent House,Premium,No,Yes,Outdoor
+U0684,18-25,Female,Retired,Bangalore,PG/Hostel,Mid-Range,No,Yes,Power
+U0685,55+,Other,Working Professional,Pune,Apartment,Premium,Yes,No,Climate
+U0686,26-35,Male,Working Professional,Chennai,Apartment,Premium,No,Yes,Power
+U0687,36-45,Female,Business Owner,Pune,Apartment,Premium,No,Yes,Climate
+U0688,46-55,Male,Homemaker,Jaipur,Independent House,Premium,Yes,Yes,Personal Care
+U0689,26-35,Female,Working Professional,Delhi,Apartment,Premium,Yes,No,Personal Care
+U0690,26-35,Female,Business Owner,Delhi,Apartment,Luxury,Yes,Yes,Outdoor
+U0691,18-25,Female,Student,Pune,Apartment,Mid-Range,Yes,Yes,Cleaning
+U0692,18-25,Female,Retired,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Kitchen
+U0693,36-45,Male,Homemaker,Hyderabad,Apartment,Premium,No,No,Pet
+U0694,46-55,Female,Working Professional,Kolkata,Apartment,Premium,Yes,No,Entertainment
+U0695,18-25,Male,Student,Pune,Apartment,Budget,Yes,Yes,Cleaning
+U0696,18-25,Other,Business Owner,Pune,PG/Hostel,Premium,No,Yes,Kitchen
+U0697,46-55,Other,Working Professional,Pune,Apartment,Premium,Yes,Yes,Power
+U0698,55+,Female,Retired,Ahmedabad,Villa,Mid-Range,No,No,Personal Care
+U0699,36-45,Male,Working Professional,Ahmedabad,Independent House,Mid-Range,No,No,Entertainment
+U0700,18-25,Other,Homemaker,Kolkata,Apartment,Premium,No,No,Pet
+U0701,46-55,Female,Business Owner,Mumbai,Villa,Premium,Yes,No,Security
+U0702,36-45,Female,Retired,Jaipur,Apartment,Premium,Yes,No,Laundry
+U0703,26-35,Male,Homemaker,Pune,Independent House,Mid-Range,Yes,Yes,Bathroom
+U0704,36-45,Female,Student,Bangalore,PG/Hostel,Mid-Range,Yes,Yes,Outdoor
+U0705,26-35,Male,Student,Jaipur,Apartment,Mid-Range,Yes,Yes,Entertainment
+U0706,55+,Female,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Pet
+U0707,26-35,Female,Business Owner,Hyderabad,Apartment,Premium,Yes,No,Tools
+U0708,26-35,Female,Student,Lucknow,Independent House,Budget,Yes,Yes,Power
+U0709,18-25,Male,Working Professional,Chennai,Villa,Premium,No,Yes,Power
+U0710,55+,Female,Student,Mumbai,Apartment,Budget,Yes,Yes,Cleaning
+U0711,26-35,Female,Homemaker,Delhi,Villa,Premium,No,Yes,Entertainment
+U0712,36-45,Female,Working Professional,Mumbai,Apartment,Mid-Range,Yes,No,Bathroom
+U0713,36-45,Female,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Hobby
+U0714,18-25,Male,Business Owner,Chennai,Independent House,Premium,Yes,Yes,Tools
+U0715,26-35,Male,Student,Chennai,Apartment,Budget,No,No,Networking
+U0716,46-55,Female,Working Professional,Chennai,Independent House,Premium,Yes,No,Tools
+U0717,26-35,Female,Homemaker,Pune,PG/Hostel,Premium,Yes,Yes,Kitchen
+U0718,26-35,Female,Working Professional,Lucknow,Villa,Mid-Range,Yes,Yes,Kitchen
+U0719,46-55,Female,Working Professional,Delhi,Independent House,Mid-Range,No,No,Cleaning
+U0720,26-35,Female,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Personal Care
+U0721,26-35,Male,Business Owner,Chennai,Apartment,Premium,Yes,No,Fitness
+U0722,18-25,Female,Retired,Delhi,Apartment,Luxury,Yes,No,Power
+U0723,46-55,Male,Business Owner,Bangalore,Independent House,Premium,No,Yes,Networking
+U0724,46-55,Male,Homemaker,Lucknow,PG/Hostel,Premium,Yes,No,Networking
+U0725,36-45,Male,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Cleaning
+U0726,18-25,Male,Homemaker,Kolkata,Apartment,Premium,No,Yes,Fitness
+U0727,36-45,Other,Student,Delhi,Apartment,Budget,Yes,No,Personal Care
+U0728,26-35,Male,Working Professional,Kolkata,Apartment,Mid-Range,No,Yes,Cleaning
+U0729,36-45,Male,Retired,Lucknow,Independent House,Mid-Range,No,Yes,Security
+U0730,36-45,Male,Business Owner,Ahmedabad,Apartment,Premium,No,Yes,Fitness
+U0731,26-35,Female,Homemaker,Mumbai,Apartment,Premium,Yes,No,Security
+U0732,26-35,Female,Business Owner,Pune,Villa,Premium,Yes,No,Hobby
+U0733,46-55,Female,Working Professional,Hyderabad,Independent House,Premium,Yes,No,Pet
+U0734,18-25,Female,Working Professional,Jaipur,Apartment,Mid-Range,No,Yes,Security
+U0735,46-55,Female,Homemaker,Jaipur,Apartment,Mid-Range,No,No,Personal Care
+U0736,26-35,Male,Homemaker,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Decor
+U0737,46-55,Female,Student,Jaipur,Independent House,Budget,Yes,No,Pet
+U0738,26-35,Female,Retired,Delhi,Independent House,Mid-Range,No,No,Cleaning
+U0739,36-45,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Climate
+U0740,36-45,Male,Business Owner,Delhi,PG/Hostel,Premium,Yes,Yes,Security
+U0741,18-25,Male,Working Professional,Lucknow,Villa,Mid-Range,No,Yes,Bathroom
+U0742,46-55,Female,Homemaker,Ahmedabad,Independent House,Mid-Range,No,Yes,Power
+U0743,55+,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,No,Climate
+U0744,46-55,Male,Homemaker,Ahmedabad,Apartment,Premium,Yes,No,Laundry
+U0745,46-55,Female,Student,Pune,Villa,Budget,Yes,No,Outdoor
+U0746,26-35,Female,Working Professional,Delhi,PG/Hostel,Premium,Yes,Yes,Entertainment
+U0747,36-45,Male,Retired,Kolkata,Independent House,Luxury,Yes,No,Tools
+U0748,36-45,Male,Business Owner,Kolkata,PG/Hostel,Premium,Yes,No,Tools
+U0749,36-45,Male,Working Professional,Delhi,PG/Hostel,Premium,No,Yes,Hobby
+U0750,18-25,Male,Working Professional,Ahmedabad,PG/Hostel,Premium,Yes,No,Entertainment
+U0751,36-45,Male,Business Owner,Mumbai,Independent House,Luxury,Yes,Yes,Fitness
+U0752,36-45,Female,Business Owner,Jaipur,Apartment,Luxury,No,No,Personal Care
+U0753,36-45,Female,Student,Delhi,Apartment,Budget,Yes,No,Smart Home
+U0754,26-35,Female,Working Professional,Kolkata,Apartment,Premium,No,No,Laundry
+U0755,36-45,Male,Working Professional,Kolkata,PG/Hostel,Premium,No,No,Cleaning
+U0756,26-35,Female,Working Professional,Bangalore,Apartment,Mid-Range,Yes,No,Bathroom
+U0757,18-25,Female,Working Professional,Jaipur,Independent House,Premium,No,No,Tools
+U0758,36-45,Male,Homemaker,Hyderabad,Apartment,Mid-Range,No,Yes,Networking
+U0759,46-55,Male,Student,Bangalore,Apartment,Budget,Yes,No,Smart Home
+U0760,26-35,Male,Retired,Delhi,Independent House,Luxury,No,Yes,Fitness
+U0761,18-25,Male,Retired,Jaipur,Apartment,Luxury,No,No,Security
+U0762,36-45,Male,Homemaker,Mumbai,Apartment,Mid-Range,Yes,Yes,Power
+U0763,26-35,Male,Working Professional,Chennai,Independent House,Mid-Range,No,Yes,Outdoor
+U0764,26-35,Female,Working Professional,Bangalore,Villa,Premium,No,No,Outdoor
+U0765,36-45,Male,Student,Jaipur,Villa,Budget,Yes,No,Hobby
+U0766,26-35,Female,Student,Jaipur,Independent House,Budget,Yes,Yes,Outdoor
+U0767,36-45,Male,Working Professional,Kolkata,Villa,Mid-Range,Yes,No,Smart Home
+U0768,26-35,Female,Homemaker,Mumbai,Independent House,Mid-Range,No,Yes,Cleaning
+U0769,26-35,Female,Working Professional,Pune,PG/Hostel,Mid-Range,No,Yes,Tools
+U0770,55+,Male,Student,Chennai,Villa,Budget,Yes,No,Kitchen
+U0771,36-45,Male,Business Owner,Bangalore,Independent House,Premium,No,Yes,Power
+U0772,36-45,Male,Homemaker,Chennai,Apartment,Premium,No,Yes,Decor
+U0773,36-45,Male,Working Professional,Pune,Villa,Mid-Range,Yes,No,Power
+U0774,26-35,Male,Business Owner,Pune,Independent House,Premium,Yes,No,Outdoor
+U0775,55+,Male,Student,Lucknow,Apartment,Mid-Range,Yes,Yes,Smart Home
+U0776,18-25,Female,Homemaker,Bangalore,Apartment,Mid-Range,No,No,Personal Care
+U0777,26-35,Female,Working Professional,Jaipur,Apartment,Premium,Yes,Yes,Laundry
+U0778,36-45,Female,Homemaker,Pune,Apartment,Mid-Range,Yes,Yes,Bathroom
+U0779,36-45,Male,Student,Jaipur,PG/Hostel,Mid-Range,No,No,Security
+U0780,36-45,Male,Student,Pune,Apartment,Budget,Yes,No,Laundry
+U0781,26-35,Male,Working Professional,Pune,Independent House,Mid-Range,Yes,No,Hobby
+U0782,36-45,Female,Homemaker,Chennai,Apartment,Premium,No,Yes,Bathroom
+U0783,55+,Female,Business Owner,Jaipur,PG/Hostel,Luxury,No,No,Power
+U0784,55+,Male,Working Professional,Hyderabad,Independent House,Premium,Yes,Yes,Hobby
+U0785,36-45,Female,Homemaker,Jaipur,Apartment,Mid-Range,No,No,Tools
+U0786,26-35,Female,Retired,Hyderabad,Independent House,Luxury,No,Yes,Hobby
+U0787,26-35,Female,Working Professional,Jaipur,Independent House,Mid-Range,No,No,Fitness
+U0788,46-55,Female,Working Professional,Bangalore,Apartment,Mid-Range,Yes,No,Power
+U0789,36-45,Male,Working Professional,Delhi,Independent House,Mid-Range,Yes,No,Kitchen
+U0790,55+,Female,Student,Chennai,Apartment,Budget,Yes,No,Pet
+U0791,26-35,Male,Student,Pune,Independent House,Mid-Range,Yes,No,Security
+U0792,18-25,Female,Working Professional,Lucknow,Apartment,Mid-Range,Yes,No,Networking
+U0793,46-55,Female,Working Professional,Chennai,Apartment,Mid-Range,No,Yes,Kitchen
+U0794,18-25,Male,Student,Ahmedabad,Apartment,Mid-Range,Yes,No,Security
+U0795,36-45,Female,Business Owner,Bangalore,Independent House,Luxury,Yes,Yes,Pet
+U0796,18-25,Male,Working Professional,Bangalore,Apartment,Premium,Yes,No,Networking
+U0797,36-45,Male,Working Professional,Jaipur,Apartment,Mid-Range,No,Yes,Power
+U0798,46-55,Male,Business Owner,Lucknow,Villa,Premium,Yes,No,Kitchen
+U0799,55+,Male,Working Professional,Hyderabad,Independent House,Premium,No,No,Networking
+U0800,55+,Male,Business Owner,Kolkata,Apartment,Premium,No,No,Entertainment
+U0801,36-45,Male,Working Professional,Bangalore,PG/Hostel,Mid-Range,Yes,No,Tools
+U0802,36-45,Female,Business Owner,Bangalore,Independent House,Premium,No,No,Power
+U0803,26-35,Male,Homemaker,Jaipur,Independent House,Premium,Yes,No,Decor
+U0804,18-25,Male,Homemaker,Hyderabad,Apartment,Mid-Range,No,Yes,Smart Home
+U0805,18-25,Female,Student,Bangalore,Independent House,Mid-Range,No,Yes,Outdoor
+U0806,36-45,Male,Student,Hyderabad,Apartment,Budget,Yes,Yes,Outdoor
+U0807,18-25,Male,Business Owner,Lucknow,Apartment,Premium,Yes,No,Fitness
+U0808,18-25,Female,Working Professional,Mumbai,Independent House,Mid-Range,Yes,No,Fitness
+U0809,26-35,Male,Student,Pune,Apartment,Mid-Range,Yes,No,Climate
+U0810,26-35,Female,Retired,Ahmedabad,Independent House,Premium,No,Yes,Hobby
+U0811,26-35,Female,Working Professional,Lucknow,Independent House,Mid-Range,Yes,Yes,Entertainment
+U0812,36-45,Female,Student,Chennai,Apartment,Budget,No,No,Kitchen
+U0813,46-55,Female,Homemaker,Jaipur,Apartment,Mid-Range,No,No,Pet
+U0814,36-45,Male,Student,Mumbai,Apartment,Budget,Yes,No,Climate
+U0815,36-45,Male,Working Professional,Pune,PG/Hostel,Mid-Range,Yes,No,Outdoor
+U0816,26-35,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Networking
+U0817,46-55,Male,Student,Hyderabad,Independent House,Budget,No,No,Personal Care
+U0818,36-45,Male,Homemaker,Ahmedabad,Apartment,Mid-Range,Yes,No,Entertainment
+U0819,36-45,Female,Working Professional,Pune,PG/Hostel,Premium,Yes,No,Laundry
+U0820,46-55,Male,Working Professional,Chennai,PG/Hostel,Mid-Range,Yes,Yes,Tools
+U0821,26-35,Female,Working Professional,Kolkata,PG/Hostel,Premium,Yes,Yes,Power
+U0822,26-35,Male,Student,Pune,PG/Hostel,Budget,Yes,No,Decor
+U0823,55+,Male,Working Professional,Lucknow,PG/Hostel,Premium,Yes,Yes,Pet
+U0824,26-35,Other,Working Professional,Lucknow,Apartment,Premium,Yes,No,Bathroom
+U0825,36-45,Male,Student,Kolkata,PG/Hostel,Mid-Range,No,Yes,Pet
+U0826,26-35,Female,Retired,Pune,Apartment,Premium,No,Yes,Security
+U0827,26-35,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Decor
+U0828,26-35,Female,Working Professional,Bangalore,Independent House,Mid-Range,Yes,Yes,Hobby
+U0829,36-45,Male,Student,Kolkata,Independent House,Budget,No,No,Climate
+U0830,26-35,Female,Student,Ahmedabad,PG/Hostel,Mid-Range,Yes,Yes,Fitness
+U0831,36-45,Female,Student,Hyderabad,Independent House,Budget,Yes,No,Personal Care
+U0832,46-55,Female,Homemaker,Jaipur,Independent House,Mid-Range,Yes,No,Power
+U0833,18-25,Female,Homemaker,Chennai,Independent House,Mid-Range,No,Yes,Pet
+U0834,18-25,Female,Working Professional,Chennai,Independent House,Mid-Range,No,Yes,Climate
+U0835,55+,Female,Homemaker,Bangalore,Independent House,Premium,Yes,No,Entertainment
+U0836,46-55,Female,Working Professional,Lucknow,Apartment,Mid-Range,Yes,Yes,Smart Home
+U0837,26-35,Male,Homemaker,Lucknow,Apartment,Premium,No,Yes,Pet
+U0838,26-35,Male,Working Professional,Delhi,Apartment,Mid-Range,Yes,Yes,Bathroom
+U0839,55+,Male,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Power
+U0840,36-45,Female,Working Professional,Delhi,Independent House,Mid-Range,Yes,Yes,Security
+U0841,46-55,Female,Working Professional,Jaipur,Apartment,Premium,Yes,No,Bathroom
+U0842,55+,Male,Homemaker,Hyderabad,Apartment,Premium,No,No,Pet
+U0843,18-25,Male,Homemaker,Lucknow,Independent House,Premium,No,No,Hobby
+U0844,26-35,Female,Homemaker,Bangalore,PG/Hostel,Premium,Yes,No,Kitchen
+U0845,46-55,Male,Working Professional,Lucknow,Independent House,Premium,No,No,Tools
+U0846,26-35,Male,Working Professional,Mumbai,Apartment,Mid-Range,Yes,Yes,Security
+U0847,18-25,Male,Business Owner,Hyderabad,Independent House,Luxury,No,Yes,Networking
+U0848,18-25,Male,Homemaker,Bangalore,PG/Hostel,Mid-Range,No,Yes,Decor
+U0849,46-55,Female,Working Professional,Lucknow,Villa,Premium,Yes,Yes,Pet
+U0850,46-55,Male,Business Owner,Kolkata,Independent House,Premium,Yes,No,Personal Care
+U0851,18-25,Other,Student,Jaipur,Apartment,Mid-Range,Yes,Yes,Outdoor
+U0852,36-45,Female,Business Owner,Kolkata,Villa,Luxury,No,No,Hobby
+U0853,26-35,Male,Student,Ahmedabad,Apartment,Budget,No,No,Hobby
+U0854,18-25,Female,Working Professional,Jaipur,Independent House,Mid-Range,Yes,Yes,Power
+U0855,26-35,Male,Homemaker,Kolkata,Apartment,Mid-Range,No,Yes,Kitchen
+U0856,46-55,Female,Homemaker,Ahmedabad,Apartment,Mid-Range,No,No,Kitchen
+U0857,46-55,Female,Homemaker,Hyderabad,Independent House,Premium,Yes,No,Pet
+U0858,46-55,Female,Homemaker,Lucknow,Villa,Premium,No,Yes,Power
+U0859,46-55,Female,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Bathroom
+U0860,26-35,Female,Homemaker,Hyderabad,Villa,Premium,Yes,Yes,Bathroom
+U0861,26-35,Male,Working Professional,Lucknow,Villa,Mid-Range,Yes,Yes,Laundry
+U0862,55+,Female,Homemaker,Bangalore,Independent House,Mid-Range,Yes,Yes,Pet
+U0863,36-45,Male,Student,Kolkata,Independent House,Mid-Range,Yes,Yes,Security
+U0864,36-45,Female,Working Professional,Delhi,Apartment,Mid-Range,Yes,No,Networking
+U0865,36-45,Female,Homemaker,Chennai,Independent House,Premium,Yes,No,Cleaning
+U0866,26-35,Female,Student,Lucknow,Independent House,Mid-Range,Yes,Yes,Bathroom
+U0867,18-25,Male,Homemaker,Jaipur,Independent House,Mid-Range,Yes,Yes,Hobby
+U0868,46-55,Male,Student,Jaipur,PG/Hostel,Mid-Range,No,No,Cleaning
+U0869,36-45,Female,Homemaker,Lucknow,PG/Hostel,Premium,No,Yes,Smart Home
+U0870,55+,Female,Working Professional,Ahmedabad,Apartment,Premium,No,No,Climate
+U0871,18-25,Male,Working Professional,Chennai,Villa,Mid-Range,Yes,Yes,Laundry
+U0872,36-45,Male,Homemaker,Pune,Apartment,Mid-Range,No,Yes,Security
+U0873,18-25,Male,Working Professional,Hyderabad,Independent House,Premium,Yes,Yes,Smart Home
+U0874,46-55,Female,Business Owner,Jaipur,Apartment,Premium,No,No,Networking
+U0875,46-55,Male,Business Owner,Lucknow,Independent House,Premium,Yes,No,Tools
+U0876,26-35,Other,Business Owner,Hyderabad,Apartment,Luxury,Yes,Yes,Decor
+U0877,46-55,Other,Homemaker,Hyderabad,Independent House,Mid-Range,Yes,Yes,Networking
+U0878,46-55,Male,Student,Delhi,Apartment,Budget,Yes,Yes,Climate
+U0879,55+,Female,Business Owner,Jaipur,Villa,Premium,No,No,Networking
+U0880,18-25,Male,Working Professional,Ahmedabad,Apartment,Premium,No,No,Decor
+U0881,26-35,Male,Working Professional,Bangalore,Apartment,Premium,No,No,Decor
+U0882,18-25,Other,Student,Hyderabad,PG/Hostel,Mid-Range,No,Yes,Bathroom
+U0883,55+,Male,Working Professional,Ahmedabad,PG/Hostel,Premium,No,Yes,Networking
+U0884,26-35,Male,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Bathroom
+U0885,26-35,Female,Working Professional,Pune,Apartment,Premium,Yes,Yes,Tools
+U0886,26-35,Male,Business Owner,Lucknow,Apartment,Luxury,Yes,Yes,Decor
+U0887,46-55,Male,Student,Jaipur,Independent House,Budget,Yes,Yes,Smart Home
+U0888,26-35,Female,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Networking
+U0889,36-45,Male,Working Professional,Kolkata,Independent House,Premium,Yes,Yes,Entertainment
+U0890,26-35,Male,Working Professional,Delhi,Independent House,Mid-Range,No,No,Fitness
+U0891,26-35,Male,Business Owner,Hyderabad,Apartment,Luxury,Yes,No,Entertainment
+U0892,26-35,Female,Homemaker,Mumbai,Independent House,Premium,Yes,Yes,Bathroom
+U0893,46-55,Male,Business Owner,Ahmedabad,Independent House,Luxury,Yes,No,Power
+U0894,46-55,Female,Retired,Delhi,Apartment,Premium,No,Yes,Decor
+U0895,18-25,Female,Working Professional,Delhi,Independent House,Premium,Yes,Yes,Networking
+U0896,26-35,Male,Business Owner,Jaipur,PG/Hostel,Luxury,Yes,No,Networking
+U0897,26-35,Male,Working Professional,Kolkata,PG/Hostel,Mid-Range,Yes,No,Tools
+U0898,18-25,Female,Working Professional,Chennai,Apartment,Mid-Range,Yes,Yes,Climate
+U0899,36-45,Female,Working Professional,Delhi,Independent House,Premium,Yes,Yes,Entertainment
+U0900,26-35,Male,Working Professional,Pune,Independent House,Mid-Range,Yes,Yes,Pet
+U0901,18-25,Male,Working Professional,Delhi,Apartment,Mid-Range,Yes,Yes,Smart Home
+U0902,26-35,Female,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Cleaning
+U0903,55+,Female,Retired,Lucknow,Apartment,Premium,No,No,Personal Care
+U0904,26-35,Male,Business Owner,Mumbai,Apartment,Premium,Yes,Yes,Decor
+U0905,36-45,Female,Business Owner,Hyderabad,Apartment,Premium,Yes,Yes,Kitchen
+U0906,36-45,Male,Working Professional,Jaipur,PG/Hostel,Premium,Yes,No,Bathroom
+U0907,26-35,Male,Working Professional,Delhi,PG/Hostel,Mid-Range,Yes,Yes,Pet
+U0908,46-55,Female,Homemaker,Hyderabad,Apartment,Premium,Yes,Yes,Entertainment
+U0909,26-35,Male,Working Professional,Jaipur,Independent House,Mid-Range,No,Yes,Networking
+U0910,55+,Male,Student,Ahmedabad,Apartment,Mid-Range,Yes,No,Decor
+U0911,26-35,Male,Business Owner,Bangalore,Independent House,Luxury,No,No,Personal Care
+U0912,46-55,Female,Student,Lucknow,Apartment,Mid-Range,Yes,No,Outdoor
+U0913,36-45,Female,Retired,Ahmedabad,Apartment,Premium,No,No,Cleaning
+U0914,46-55,Male,Student,Pune,Apartment,Mid-Range,Yes,Yes,Security
+U0915,26-35,Female,Working Professional,Jaipur,Villa,Mid-Range,No,No,Networking
+U0916,36-45,Male,Working Professional,Ahmedabad,Apartment,Premium,Yes,No,Climate
+U0917,36-45,Female,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Outdoor
+U0918,18-25,Male,Working Professional,Mumbai,Apartment,Mid-Range,Yes,Yes,Fitness
+U0919,36-45,Female,Student,Hyderabad,Apartment,Mid-Range,Yes,No,Pet
+U0920,18-25,Female,Working Professional,Hyderabad,Apartment,Premium,Yes,Yes,Laundry
+U0921,46-55,Female,Student,Chennai,Apartment,Mid-Range,No,No,Decor
+U0922,36-45,Female,Working Professional,Hyderabad,Apartment,Premium,No,Yes,Outdoor
+U0923,18-25,Female,Student,Ahmedabad,Independent House,Budget,No,Yes,Climate
+U0924,46-55,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,Yes,Security
+U0925,55+,Female,Homemaker,Delhi,Apartment,Mid-Range,Yes,Yes,Cleaning
+U0926,36-45,Male,Homemaker,Hyderabad,PG/Hostel,Mid-Range,Yes,Yes,Tools
+U0927,55+,Female,Business Owner,Kolkata,Apartment,Luxury,Yes,No,Networking
+U0928,26-35,Male,Retired,Mumbai,Independent House,Premium,No,No,Entertainment
+U0929,36-45,Other,Homemaker,Chennai,Apartment,Mid-Range,No,Yes,Climate
+U0930,26-35,Male,Student,Hyderabad,Apartment,Budget,No,Yes,Pet
+U0931,26-35,Female,Business Owner,Delhi,Apartment,Premium,No,No,Pet
+U0932,26-35,Male,Retired,Hyderabad,Apartment,Premium,No,Yes,Cleaning
+U0933,18-25,Male,Homemaker,Jaipur,Villa,Mid-Range,No,Yes,Pet
+U0934,26-35,Male,Working Professional,Pune,Independent House,Premium,Yes,No,Bathroom
+U0935,36-45,Female,Homemaker,Chennai,Independent House,Mid-Range,No,Yes,Networking
+U0936,55+,Female,Business Owner,Hyderabad,Apartment,Premium,No,Yes,Fitness
+U0937,18-25,Female,Working Professional,Mumbai,Apartment,Premium,Yes,Yes,Hobby
+U0938,26-35,Female,Business Owner,Hyderabad,Villa,Luxury,Yes,Yes,Climate
+U0939,26-35,Male,Homemaker,Pune,Apartment,Mid-Range,No,Yes,Climate
+U0940,18-25,Male,Working Professional,Lucknow,PG/Hostel,Mid-Range,Yes,No,Power
+U0941,18-25,Female,Homemaker,Pune,Apartment,Mid-Range,No,No,Hobby
+U0942,26-35,Female,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,No,Networking
+U0943,18-25,Female,Student,Hyderabad,Villa,Mid-Range,Yes,Yes,Entertainment
+U0944,26-35,Female,Homemaker,Mumbai,Villa,Premium,No,Yes,Outdoor
+U0945,46-55,Female,Working Professional,Hyderabad,PG/Hostel,Premium,Yes,No,Smart Home
+U0946,26-35,Male,Working Professional,Chennai,PG/Hostel,Premium,No,Yes,Personal Care
+U0947,46-55,Female,Student,Jaipur,Independent House,Budget,Yes,Yes,Decor
+U0948,18-25,Male,Retired,Pune,Apartment,Luxury,No,No,Bathroom
+U0949,36-45,Male,Homemaker,Bangalore,Independent House,Premium,No,No,Networking
+U0950,36-45,Male,Student,Pune,Independent House,Budget,No,No,Pet
+U0951,26-35,Female,Retired,Jaipur,Villa,Mid-Range,No,No,Entertainment
+U0952,26-35,Male,Retired,Chennai,Apartment,Luxury,No,Yes,Hobby
+U0953,18-25,Female,Student,Jaipur,Independent House,Budget,No,Yes,Entertainment
+U0954,26-35,Male,Homemaker,Mumbai,Independent House,Mid-Range,Yes,Yes,Hobby
+U0955,26-35,Female,Business Owner,Lucknow,Independent House,Premium,No,Yes,Climate
+U0956,26-35,Female,Working Professional,Mumbai,Apartment,Premium,Yes,Yes,Kitchen
+U0957,26-35,Male,Student,Hyderabad,Independent House,Budget,No,No,Kitchen
+U0958,46-55,Male,Working Professional,Mumbai,PG/Hostel,Premium,Yes,No,Fitness
+U0959,46-55,Male,Working Professional,Mumbai,Apartment,Premium,No,Yes,Power
+U0960,55+,Female,Student,Chennai,Independent House,Budget,Yes,Yes,Bathroom
+U0961,36-45,Male,Student,Delhi,Apartment,Budget,No,No,Tools
+U0962,18-25,Other,Homemaker,Jaipur,Independent House,Mid-Range,No,Yes,Personal Care
+U0963,36-45,Male,Student,Delhi,Apartment,Mid-Range,No,No,Cleaning
+U0964,36-45,Female,Retired,Kolkata,Apartment,Luxury,No,Yes,Personal Care
+U0965,26-35,Male,Working Professional,Jaipur,PG/Hostel,Premium,Yes,Yes,Cleaning
+U0966,46-55,Male,Homemaker,Pune,Apartment,Premium,No,No,Networking
+U0967,18-25,Male,Working Professional,Kolkata,Independent House,Premium,No,Yes,Laundry
+U0968,36-45,Male,Student,Kolkata,Apartment,Budget,No,No,Decor
+U0969,18-25,Male,Business Owner,Ahmedabad,Apartment,Luxury,Yes,Yes,Power
+U0970,18-25,Female,Business Owner,Lucknow,Apartment,Luxury,Yes,Yes,Outdoor
+U0971,36-45,Female,Homemaker,Chennai,Apartment,Mid-Range,No,Yes,Smart Home
+U0972,46-55,Female,Retired,Chennai,Independent House,Mid-Range,No,No,Entertainment
+U0973,36-45,Female,Working Professional,Mumbai,Independent House,Mid-Range,Yes,Yes,Decor
+U0974,36-45,Female,Working Professional,Lucknow,PG/Hostel,Premium,Yes,Yes,Outdoor
+U0975,18-25,Female,Business Owner,Lucknow,PG/Hostel,Premium,Yes,No,Kitchen
+U0976,26-35,Female,Working Professional,Ahmedabad,Apartment,Premium,Yes,No,Hobby
+U0977,46-55,Female,Working Professional,Mumbai,Apartment,Premium,No,No,Kitchen
+U0978,36-45,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Fitness
+U0979,18-25,Other,Retired,Hyderabad,Apartment,Mid-Range,No,No,Security
+U0980,36-45,Female,Working Professional,Mumbai,PG/Hostel,Premium,Yes,Yes,Entertainment
+U0981,55+,Female,Working Professional,Jaipur,Apartment,Premium,Yes,Yes,Pet
+U0982,55+,Female,Student,Lucknow,Independent House,Mid-Range,Yes,Yes,Fitness
+U0983,36-45,Female,Student,Kolkata,Apartment,Mid-Range,Yes,Yes,Climate
+U0984,36-45,Male,Working Professional,Jaipur,Independent House,Mid-Range,Yes,Yes,Bathroom
+U0985,26-35,Male,Student,Bangalore,Apartment,Mid-Range,No,Yes,Tools
+U0986,46-55,Male,Business Owner,Kolkata,Apartment,Luxury,No,Yes,Bathroom
+U0987,18-25,Female,Student,Hyderabad,Independent House,Budget,Yes,No,Smart Home
+U0988,18-25,Male,Working Professional,Delhi,PG/Hostel,Mid-Range,Yes,Yes,Networking
+U0989,55+,Male,Student,Pune,PG/Hostel,Budget,Yes,No,Outdoor
+U0990,55+,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Cleaning
+U0991,36-45,Male,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,No,Tools
+U0992,18-25,Male,Business Owner,Bangalore,Apartment,Luxury,No,No,Hobby
+U0993,36-45,Other,Working Professional,Hyderabad,Independent House,Mid-Range,No,No,Outdoor
+U0994,26-35,Male,Homemaker,Pune,Villa,Mid-Range,No,Yes,Cleaning
+U0995,26-35,Male,Working Professional,Mumbai,Apartment,Premium,Yes,No,Tools
+U0996,46-55,Male,Business Owner,Jaipur,Apartment,Premium,Yes,Yes,Climate
+U0997,46-55,Male,Retired,Bangalore,Independent House,Luxury,No,No,Pet
+U0998,26-35,Male,Business Owner,Chennai,Apartment,Premium,Yes,Yes,Decor
+U0999,46-55,Female,Student,Ahmedabad,Apartment,Budget,No,Yes,Pet
+U1000,26-35,Female,Working Professional,Pune,Apartment,Premium,No,Yes,Pet
+U1001,36-45,Female,Business Owner,Kolkata,Apartment,Premium,Yes,No,Smart Home
+U1002,18-25,Male,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Bathroom
+U1003,36-45,Male,Student,Jaipur,Apartment,Mid-Range,No,Yes,Laundry
+U1004,36-45,Female,Working Professional,Pune,Apartment,Premium,Yes,No,Security
+U1005,46-55,Male,Business Owner,Pune,Apartment,Luxury,Yes,Yes,Bathroom
+U1006,26-35,Female,Working Professional,Mumbai,PG/Hostel,Premium,Yes,No,Security
+U1007,36-45,Male,Business Owner,Hyderabad,Apartment,Luxury,Yes,No,Entertainment
+U1008,36-45,Female,Working Professional,Kolkata,Apartment,Mid-Range,Yes,No,Laundry
+U1009,18-25,Male,Retired,Hyderabad,Villa,Premium,No,Yes,Outdoor
+U1010,55+,Female,Business Owner,Ahmedabad,Independent House,Luxury,Yes,Yes,Entertainment
+U1011,46-55,Male,Working Professional,Bangalore,Independent House,Mid-Range,Yes,No,Bathroom
+U1012,26-35,Male,Working Professional,Kolkata,Independent House,Mid-Range,No,No,Entertainment
+U1013,46-55,Female,Working Professional,Pune,Independent House,Mid-Range,Yes,No,Hobby
+U1014,46-55,Female,Working Professional,Pune,Apartment,Mid-Range,No,Yes,Security
+U1015,46-55,Female,Student,Kolkata,Villa,Mid-Range,No,Yes,Decor
+U1016,26-35,Female,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Decor
+U1017,46-55,Male,Student,Lucknow,Villa,Budget,Yes,No,Networking
+U1018,36-45,Male,Business Owner,Ahmedabad,Independent House,Premium,Yes,No,Climate
+U1019,36-45,Female,Homemaker,Bangalore,Independent House,Premium,No,Yes,Entertainment
+U1020,26-35,Female,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Security
+U1021,36-45,Female,Working Professional,Kolkata,Independent House,Premium,Yes,No,Tools
+U1022,26-35,Male,Student,Delhi,Independent House,Budget,Yes,No,Cleaning
+U1023,46-55,Female,Student,Pune,Apartment,Mid-Range,No,No,Fitness
+U1024,26-35,Male,Retired,Mumbai,Independent House,Premium,No,No,Smart Home
+U1025,18-25,Male,Student,Lucknow,Apartment,Mid-Range,No,Yes,Bathroom
+U1026,36-45,Female,Working Professional,Jaipur,Apartment,Mid-Range,Yes,Yes,Power
+U1027,26-35,Other,Homemaker,Jaipur,Apartment,Mid-Range,No,No,Power
+U1028,46-55,Female,Working Professional,Jaipur,Independent House,Premium,No,No,Tools
+U1029,18-25,Female,Student,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Outdoor
+U1030,55+,Male,Working Professional,Bangalore,Independent House,Premium,Yes,No,Power
+U1031,26-35,Female,Working Professional,Ahmedabad,Villa,Mid-Range,No,Yes,Bathroom
+U1032,46-55,Female,Homemaker,Bangalore,Villa,Mid-Range,No,No,Entertainment
+U1033,26-35,Male,Student,Kolkata,Apartment,Mid-Range,Yes,Yes,Cleaning
+U1034,36-45,Female,Homemaker,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Personal Care
+U1035,36-45,Female,Working Professional,Delhi,Independent House,Mid-Range,Yes,Yes,Networking
+U1036,26-35,Male,Student,Jaipur,PG/Hostel,Budget,No,No,Bathroom
+U1037,55+,Male,Homemaker,Kolkata,Apartment,Mid-Range,No,Yes,Personal Care
+U1038,36-45,Male,Homemaker,Lucknow,Apartment,Premium,No,No,Personal Care
+U1039,36-45,Male,Working Professional,Bangalore,Apartment,Mid-Range,No,Yes,Outdoor
+U1040,36-45,Female,Business Owner,Ahmedabad,Independent House,Luxury,Yes,Yes,Entertainment
+U1041,36-45,Female,Student,Mumbai,Apartment,Budget,No,Yes,Cleaning
+U1042,36-45,Male,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Climate
+U1043,26-35,Male,Student,Hyderabad,Villa,Budget,Yes,Yes,Fitness
+U1044,26-35,Female,Working Professional,Delhi,Villa,Premium,Yes,Yes,Decor
+U1045,36-45,Male,Business Owner,Mumbai,Apartment,Premium,Yes,Yes,Networking
+U1046,26-35,Female,Homemaker,Bangalore,Apartment,Mid-Range,No,No,Outdoor
+U1047,18-25,Male,Homemaker,Delhi,Independent House,Premium,Yes,Yes,Personal Care
+U1048,36-45,Female,Homemaker,Chennai,PG/Hostel,Mid-Range,No,No,Personal Care
+U1049,26-35,Female,Homemaker,Lucknow,Apartment,Premium,Yes,Yes,Outdoor
+U1050,18-25,Male,Working Professional,Pune,Independent House,Premium,No,No,Fitness
+U1051,46-55,Male,Working Professional,Chennai,Villa,Mid-Range,Yes,Yes,Decor
+U1052,18-25,Female,Working Professional,Jaipur,Independent House,Premium,Yes,Yes,Tools
+U1053,18-25,Male,Student,Delhi,Independent House,Budget,Yes,No,Bathroom
+U1054,36-45,Female,Working Professional,Ahmedabad,PG/Hostel,Mid-Range,No,No,Outdoor
+U1055,18-25,Female,Working Professional,Lucknow,Apartment,Premium,No,Yes,Networking
+U1056,26-35,Female,Homemaker,Lucknow,PG/Hostel,Mid-Range,No,Yes,Climate
+U1057,36-45,Male,Homemaker,Bangalore,Independent House,Premium,No,Yes,Outdoor
+U1058,26-35,Female,Working Professional,Mumbai,Independent House,Mid-Range,Yes,Yes,Hobby
+U1059,26-35,Male,Business Owner,Lucknow,Apartment,Premium,No,Yes,Smart Home
+U1060,18-25,Female,Homemaker,Jaipur,Apartment,Premium,No,Yes,Tools
+U1061,36-45,Female,Working Professional,Chennai,Independent House,Premium,No,Yes,Bathroom
+U1062,26-35,Male,Retired,Pune,Apartment,Luxury,No,Yes,Smart Home
+U1063,36-45,Male,Retired,Kolkata,Apartment,Premium,No,No,Security
+U1064,26-35,Male,Working Professional,Hyderabad,Independent House,Mid-Range,Yes,Yes,Climate
+U1065,55+,Male,Working Professional,Mumbai,Apartment,Premium,Yes,No,Cleaning
+U1066,18-25,Male,Business Owner,Ahmedabad,Apartment,Luxury,No,Yes,Power
+U1067,36-45,Female,Working Professional,Lucknow,Apartment,Premium,No,Yes,Security
+U1068,46-55,Female,Retired,Lucknow,Villa,Mid-Range,No,No,Networking
+U1069,18-25,Female,Working Professional,Bangalore,Independent House,Mid-Range,Yes,Yes,Pet
+U1070,26-35,Male,Working Professional,Lucknow,Apartment,Mid-Range,Yes,Yes,Hobby
+U1071,18-25,Male,Homemaker,Pune,Apartment,Premium,No,Yes,Kitchen
+U1072,36-45,Female,Homemaker,Hyderabad,Independent House,Premium,Yes,No,Outdoor
+U1073,26-35,Female,Business Owner,Jaipur,Apartment,Premium,Yes,Yes,Power
+U1074,36-45,Male,Business Owner,Delhi,Apartment,Premium,Yes,Yes,Climate
+U1075,18-25,Male,Student,Hyderabad,Independent House,Budget,Yes,Yes,Bathroom
+U1076,18-25,Female,Retired,Pune,Independent House,Premium,Yes,No,Bathroom
+U1077,46-55,Male,Student,Hyderabad,Independent House,Budget,No,No,Bathroom
+U1078,46-55,Male,Business Owner,Mumbai,Villa,Premium,Yes,Yes,Kitchen
+U1079,18-25,Other,Business Owner,Ahmedabad,Apartment,Luxury,No,Yes,Outdoor
+U1080,36-45,Male,Student,Lucknow,Independent House,Budget,No,No,Tools
+U1081,36-45,Female,Retired,Hyderabad,Independent House,Premium,Yes,Yes,Smart Home
+U1082,46-55,Male,Retired,Delhi,Villa,Premium,No,Yes,Hobby
+U1083,18-25,Male,Business Owner,Lucknow,Apartment,Premium,Yes,Yes,Networking
+U1084,26-35,Male,Homemaker,Chennai,Apartment,Premium,Yes,No,Outdoor
+U1085,36-45,Male,Business Owner,Bangalore,Apartment,Premium,Yes,No,Smart Home
+U1086,26-35,Female,Student,Mumbai,PG/Hostel,Mid-Range,Yes,Yes,Power
+U1087,36-45,Female,Working Professional,Kolkata,Independent House,Mid-Range,Yes,Yes,Personal Care
+U1088,46-55,Female,Homemaker,Lucknow,Independent House,Premium,Yes,Yes,Tools
+U1089,26-35,Female,Retired,Jaipur,Independent House,Luxury,Yes,No,Cleaning
+U1090,26-35,Female,Homemaker,Delhi,Apartment,Mid-Range,No,No,Cleaning
+U1091,18-25,Female,Homemaker,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Cleaning
+U1092,26-35,Male,Homemaker,Hyderabad,Apartment,Premium,No,Yes,Decor
+U1093,18-25,Male,Working Professional,Kolkata,Apartment,Premium,Yes,No,Smart Home
+U1094,18-25,Female,Working Professional,Ahmedabad,Independent House,Premium,Yes,Yes,Hobby
+U1095,26-35,Male,Business Owner,Ahmedabad,Independent House,Luxury,Yes,Yes,Networking
+U1096,18-25,Female,Student,Jaipur,Independent House,Budget,Yes,No,Hobby
+U1097,46-55,Female,Working Professional,Jaipur,Apartment,Premium,Yes,No,Cleaning
+U1098,18-25,Male,Student,Lucknow,Independent House,Mid-Range,Yes,Yes,Personal Care
+U1099,36-45,Female,Student,Kolkata,PG/Hostel,Mid-Range,Yes,Yes,Fitness
+U1100,26-35,Male,Student,Lucknow,Apartment,Mid-Range,No,Yes,Laundry
+U1101,18-25,Male,Working Professional,Delhi,Apartment,Mid-Range,No,No,Climate
+U1102,55+,Female,Homemaker,Lucknow,Apartment,Mid-Range,No,Yes,Hobby
+U1103,26-35,Male,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Hobby
+U1104,36-45,Male,Homemaker,Pune,Independent House,Premium,No,No,Kitchen
+U1105,26-35,Male,Student,Bangalore,Apartment,Budget,No,No,Security
+U1106,18-25,Female,Retired,Bangalore,Independent House,Mid-Range,No,Yes,Cleaning
+U1107,26-35,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Outdoor
+U1108,18-25,Female,Business Owner,Pune,Independent House,Luxury,No,Yes,Bathroom
+U1109,26-35,Male,Retired,Bangalore,Apartment,Premium,No,Yes,Power
+U1110,26-35,Other,Business Owner,Jaipur,Apartment,Premium,No,Yes,Outdoor
+U1111,46-55,Male,Business Owner,Hyderabad,Apartment,Premium,Yes,No,Smart Home
+U1112,26-35,Male,Retired,Kolkata,PG/Hostel,Luxury,No,Yes,Tools
+U1113,26-35,Male,Homemaker,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Networking
+U1114,46-55,Female,Business Owner,Bangalore,Apartment,Luxury,Yes,No,Entertainment
+U1115,36-45,Male,Student,Mumbai,Independent House,Budget,Yes,Yes,Climate
+U1116,26-35,Other,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Fitness
+U1117,36-45,Male,Working Professional,Lucknow,Apartment,Premium,No,No,Cleaning
+U1118,55+,Female,Business Owner,Jaipur,Villa,Luxury,No,No,Laundry
+U1119,26-35,Female,Working Professional,Kolkata,Independent House,Mid-Range,Yes,Yes,Laundry
+U1120,26-35,Female,Working Professional,Kolkata,Independent House,Premium,No,Yes,Power
+U1121,18-25,Female,Working Professional,Lucknow,Independent House,Mid-Range,Yes,Yes,Climate
+U1122,26-35,Male,Homemaker,Bangalore,Apartment,Mid-Range,No,Yes,Decor
+U1123,46-55,Male,Working Professional,Jaipur,Independent House,Premium,Yes,No,Kitchen
+U1124,36-45,Female,Business Owner,Ahmedabad,Independent House,Premium,No,No,Kitchen
+U1125,26-35,Male,Student,Lucknow,Apartment,Mid-Range,Yes,Yes,Security
+U1126,36-45,Male,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Smart Home
+U1127,26-35,Female,Working Professional,Pune,Apartment,Premium,No,No,Outdoor
+U1128,36-45,Male,Retired,Mumbai,Independent House,Mid-Range,No,No,Outdoor
+U1129,18-25,Female,Homemaker,Mumbai,Apartment,Premium,No,Yes,Power
+U1130,36-45,Male,Business Owner,Lucknow,Apartment,Luxury,Yes,Yes,Entertainment
+U1131,46-55,Female,Working Professional,Chennai,Independent House,Mid-Range,Yes,No,Decor
+U1132,46-55,Female,Working Professional,Mumbai,Villa,Premium,No,No,Entertainment
+U1133,36-45,Male,Working Professional,Pune,Apartment,Premium,No,Yes,Laundry
+U1134,26-35,Female,Working Professional,Bangalore,Independent House,Premium,No,No,Smart Home
+U1135,26-35,Male,Homemaker,Bangalore,Apartment,Mid-Range,No,No,Climate
+U1136,18-25,Male,Working Professional,Kolkata,Apartment,Premium,Yes,Yes,Personal Care
+U1137,26-35,Male,Business Owner,Lucknow,Independent House,Premium,No,Yes,Decor
+U1138,36-45,Female,Business Owner,Mumbai,Apartment,Premium,Yes,Yes,Outdoor
+U1139,18-25,Male,Business Owner,Jaipur,Independent House,Luxury,Yes,Yes,Pet
+U1140,36-45,Female,Homemaker,Chennai,Villa,Premium,Yes,No,Security
+U1141,36-45,Female,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Bathroom
+U1142,26-35,Male,Business Owner,Delhi,Apartment,Premium,No,Yes,Fitness
+U1143,18-25,Female,Business Owner,Pune,Independent House,Luxury,Yes,No,Decor
+U1144,26-35,Female,Homemaker,Ahmedabad,Apartment,Premium,No,No,Tools
+U1145,26-35,Other,Working Professional,Bangalore,Independent House,Premium,Yes,Yes,Security
+U1146,55+,Female,Working Professional,Mumbai,PG/Hostel,Mid-Range,Yes,No,Cleaning
+U1147,36-45,Male,Retired,Hyderabad,Apartment,Premium,No,Yes,Power
+U1148,36-45,Female,Homemaker,Lucknow,Apartment,Mid-Range,Yes,No,Tools
+U1149,36-45,Male,Working Professional,Delhi,Independent House,Mid-Range,Yes,No,Pet
+U1150,36-45,Male,Working Professional,Delhi,Apartment,Mid-Range,Yes,Yes,Cleaning
+U1151,18-25,Female,Business Owner,Ahmedabad,Apartment,Premium,No,Yes,Fitness
+U1152,46-55,Female,Business Owner,Chennai,Apartment,Luxury,Yes,Yes,Power
+U1153,55+,Male,Working Professional,Kolkata,Apartment,Premium,Yes,Yes,Decor
+U1154,26-35,Male,Student,Ahmedabad,Apartment,Budget,Yes,No,Tools
+U1155,46-55,Male,Business Owner,Bangalore,PG/Hostel,Luxury,No,Yes,Fitness
+U1156,46-55,Male,Homemaker,Lucknow,Independent House,Mid-Range,No,No,Decor
+U1157,55+,Male,Homemaker,Mumbai,Independent House,Mid-Range,Yes,No,Decor
+U1158,36-45,Male,Working Professional,Mumbai,Apartment,Premium,No,Yes,Security
+U1159,46-55,Male,Business Owner,Kolkata,Villa,Premium,Yes,No,Pet
+U1160,26-35,Female,Homemaker,Jaipur,PG/Hostel,Mid-Range,No,No,Climate
+U1161,55+,Female,Working Professional,Kolkata,Apartment,Premium,No,No,Kitchen
+U1162,36-45,Female,Homemaker,Mumbai,Apartment,Mid-Range,Yes,No,Climate
+U1163,46-55,Male,Student,Lucknow,Independent House,Budget,Yes,No,Smart Home
+U1164,26-35,Male,Business Owner,Kolkata,Apartment,Luxury,Yes,No,Kitchen
+U1165,46-55,Male,Working Professional,Jaipur,Independent House,Premium,No,Yes,Cleaning
+U1166,36-45,Male,Homemaker,Hyderabad,PG/Hostel,Premium,Yes,Yes,Pet
+U1167,46-55,Male,Homemaker,Chennai,PG/Hostel,Mid-Range,No,No,Networking
+U1168,36-45,Male,Homemaker,Delhi,PG/Hostel,Premium,No,Yes,Tools
+U1169,36-45,Male,Student,Mumbai,PG/Hostel,Budget,Yes,No,Laundry
+U1170,18-25,Female,Retired,Kolkata,Independent House,Premium,Yes,Yes,Outdoor
+U1171,26-35,Female,Working Professional,Jaipur,Apartment,Premium,No,No,Security
+U1172,46-55,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Power
+U1173,36-45,Male,Retired,Delhi,Apartment,Premium,Yes,No,Bathroom
+U1174,26-35,Male,Working Professional,Jaipur,PG/Hostel,Premium,Yes,Yes,Kitchen
+U1175,36-45,Male,Working Professional,Bangalore,Villa,Mid-Range,Yes,Yes,Power
+U1176,26-35,Female,Student,Bangalore,Independent House,Budget,Yes,Yes,Outdoor
+U1177,26-35,Female,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,No,Kitchen
+U1178,46-55,Male,Homemaker,Delhi,Independent House,Mid-Range,No,No,Laundry
+U1179,26-35,Female,Homemaker,Hyderabad,Apartment,Mid-Range,No,No,Pet
+U1180,36-45,Male,Retired,Delhi,Villa,Premium,No,No,Entertainment
+U1181,26-35,Male,Student,Hyderabad,Apartment,Mid-Range,No,Yes,Smart Home
+U1182,26-35,Female,Student,Delhi,PG/Hostel,Budget,Yes,No,Personal Care
+U1183,36-45,Male,Student,Jaipur,Apartment,Mid-Range,Yes,Yes,Power
+U1184,36-45,Male,Retired,Delhi,Apartment,Mid-Range,No,No,Pet
+U1185,36-45,Male,Working Professional,Mumbai,Independent House,Mid-Range,No,Yes,Security
+U1186,36-45,Male,Student,Delhi,Villa,Budget,No,No,Outdoor
+U1187,26-35,Male,Student,Ahmedabad,Apartment,Mid-Range,No,Yes,Decor
+U1188,26-35,Male,Business Owner,Kolkata,Apartment,Luxury,Yes,Yes,Power
+U1189,36-45,Female,Working Professional,Ahmedabad,PG/Hostel,Mid-Range,Yes,Yes,Outdoor
+U1190,18-25,Male,Homemaker,Kolkata,Villa,Premium,Yes,Yes,Hobby
+U1191,26-35,Female,Retired,Delhi,Apartment,Luxury,No,No,Bathroom
+U1192,36-45,Female,Retired,Ahmedabad,Apartment,Mid-Range,No,No,Decor
+U1193,36-45,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Climate
+U1194,26-35,Male,Business Owner,Bangalore,PG/Hostel,Luxury,Yes,No,Power
+U1195,18-25,Male,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Cleaning
+U1196,18-25,Female,Working Professional,Delhi,Apartment,Mid-Range,No,No,Personal Care
+U1197,26-35,Female,Working Professional,Mumbai,Villa,Mid-Range,Yes,Yes,Laundry
+U1198,26-35,Male,Working Professional,Lucknow,Villa,Premium,Yes,Yes,Smart Home
+U1199,18-25,Male,Working Professional,Delhi,Apartment,Mid-Range,Yes,Yes,Fitness
+U1200,18-25,Male,Business Owner,Kolkata,Independent House,Premium,No,Yes,Climate
+U1201,18-25,Female,Student,Kolkata,Apartment,Budget,Yes,No,Cleaning
+U1202,46-55,Male,Working Professional,Kolkata,Villa,Mid-Range,Yes,No,Tools
+U1203,26-35,Male,Business Owner,Chennai,PG/Hostel,Luxury,Yes,Yes,Power
+U1204,18-25,Female,Working Professional,Bangalore,Villa,Premium,Yes,Yes,Fitness
+U1205,55+,Female,Business Owner,Pune,Apartment,Premium,Yes,Yes,Personal Care
+U1206,26-35,Male,Working Professional,Lucknow,Apartment,Mid-Range,No,No,Kitchen
+U1207,36-45,Female,Student,Jaipur,Apartment,Mid-Range,Yes,No,Climate
+U1208,26-35,Female,Working Professional,Chennai,Independent House,Premium,Yes,Yes,Laundry
+U1209,36-45,Female,Student,Pune,Apartment,Budget,Yes,Yes,Entertainment
+U1210,26-35,Male,Working Professional,Kolkata,Apartment,Mid-Range,No,Yes,Climate
+U1211,55+,Male,Retired,Jaipur,Apartment,Luxury,Yes,No,Climate
+U1212,18-25,Female,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Security
+U1213,46-55,Other,Student,Hyderabad,Apartment,Mid-Range,Yes,Yes,Kitchen
+U1214,46-55,Female,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Cleaning
+U1215,18-25,Female,Retired,Lucknow,PG/Hostel,Luxury,Yes,Yes,Entertainment
+U1216,36-45,Male,Business Owner,Bangalore,Apartment,Luxury,No,Yes,Cleaning
+U1217,26-35,Male,Homemaker,Delhi,Apartment,Mid-Range,Yes,No,Bathroom
+U1218,36-45,Male,Business Owner,Chennai,Apartment,Premium,Yes,Yes,Tools
+U1219,18-25,Male,Working Professional,Lucknow,Independent House,Mid-Range,No,No,Power
+U1220,36-45,Male,Homemaker,Mumbai,PG/Hostel,Premium,Yes,Yes,Power
+U1221,26-35,Female,Working Professional,Pune,Apartment,Premium,Yes,Yes,Kitchen
+U1222,18-25,Male,Business Owner,Bangalore,Independent House,Premium,No,Yes,Hobby
+U1223,18-25,Male,Homemaker,Lucknow,Apartment,Premium,No,No,Laundry
+U1224,36-45,Male,Working Professional,Pune,Apartment,Premium,No,No,Fitness
+U1225,18-25,Male,Working Professional,Mumbai,Villa,Premium,Yes,Yes,Climate
+U1226,18-25,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,No,Yes,Outdoor
+U1227,55+,Other,Student,Lucknow,Apartment,Mid-Range,Yes,No,Kitchen
+U1228,36-45,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Personal Care
+U1229,36-45,Male,Working Professional,Delhi,Villa,Premium,Yes,Yes,Entertainment
+U1230,26-35,Female,Working Professional,Bangalore,Apartment,Premium,No,Yes,Security
+U1231,55+,Female,Homemaker,Kolkata,PG/Hostel,Premium,No,No,Entertainment
+U1232,18-25,Male,Working Professional,Pune,Apartment,Premium,Yes,No,Security
+U1233,36-45,Male,Business Owner,Hyderabad,Apartment,Luxury,Yes,No,Laundry
+U1234,55+,Female,Working Professional,Kolkata,Apartment,Premium,Yes,No,Smart Home
+U1235,55+,Female,Working Professional,Lucknow,PG/Hostel,Premium,Yes,No,Cleaning
+U1236,26-35,Female,Working Professional,Chennai,Apartment,Premium,Yes,No,Outdoor
+U1237,46-55,Female,Retired,Chennai,Independent House,Mid-Range,Yes,Yes,Outdoor
+U1238,46-55,Male,Business Owner,Bangalore,Apartment,Premium,Yes,No,Personal Care
+U1239,26-35,Male,Homemaker,Jaipur,Independent House,Mid-Range,Yes,No,Entertainment
+U1240,26-35,Male,Homemaker,Hyderabad,Independent House,Mid-Range,Yes,No,Entertainment
+U1241,36-45,Male,Working Professional,Chennai,Independent House,Premium,Yes,Yes,Power
+U1242,26-35,Other,Working Professional,Pune,Independent House,Premium,Yes,Yes,Personal Care
+U1243,55+,Male,Working Professional,Delhi,PG/Hostel,Premium,No,No,Climate
+U1244,36-45,Male,Homemaker,Ahmedabad,Apartment,Mid-Range,No,Yes,Bathroom
+U1245,18-25,Male,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Entertainment
+U1246,55+,Female,Working Professional,Pune,PG/Hostel,Premium,Yes,No,Power
+U1247,36-45,Female,Student,Jaipur,Independent House,Budget,Yes,Yes,Laundry
+U1248,36-45,Other,Homemaker,Pune,Independent House,Premium,Yes,Yes,Tools
+U1249,26-35,Male,Homemaker,Chennai,PG/Hostel,Mid-Range,Yes,Yes,Cleaning
+U1250,18-25,Female,Working Professional,Jaipur,Independent House,Mid-Range,Yes,Yes,Bathroom
+U1251,26-35,Female,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Fitness
+U1252,46-55,Female,Student,Kolkata,PG/Hostel,Mid-Range,Yes,Yes,Networking
+U1253,18-25,Male,Working Professional,Ahmedabad,Independent House,Premium,No,Yes,Cleaning
+U1254,36-45,Male,Homemaker,Ahmedabad,Apartment,Premium,Yes,No,Fitness
+U1255,18-25,Female,Working Professional,Bangalore,PG/Hostel,Premium,No,Yes,Entertainment
+U1256,36-45,Female,Working Professional,Chennai,Independent House,Mid-Range,Yes,No,Smart Home
+U1257,55+,Male,Working Professional,Lucknow,Apartment,Mid-Range,No,Yes,Fitness
+U1258,36-45,Male,Student,Kolkata,Independent House,Mid-Range,Yes,Yes,Entertainment
+U1259,36-45,Male,Homemaker,Bangalore,Apartment,Mid-Range,No,Yes,Climate
+U1260,36-45,Female,Retired,Chennai,Villa,Mid-Range,No,Yes,Cleaning
+U1261,46-55,Male,Homemaker,Mumbai,Independent House,Mid-Range,No,Yes,Outdoor
+U1262,36-45,Female,Homemaker,Delhi,Independent House,Premium,No,No,Fitness
+U1263,26-35,Male,Working Professional,Ahmedabad,PG/Hostel,Mid-Range,No,Yes,Security
+U1264,18-25,Male,Student,Chennai,Independent House,Budget,Yes,No,Networking
+U1265,26-35,Female,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Climate
+U1266,55+,Female,Retired,Delhi,Apartment,Luxury,No,No,Security
+U1267,36-45,Male,Student,Bangalore,Apartment,Mid-Range,Yes,Yes,Cleaning
+U1268,55+,Female,Student,Pune,Independent House,Budget,Yes,Yes,Fitness
+U1269,26-35,Other,Student,Mumbai,Independent House,Mid-Range,Yes,Yes,Kitchen
+U1270,36-45,Female,Working Professional,Bangalore,Apartment,Mid-Range,No,No,Personal Care
+U1271,18-25,Female,Student,Pune,Apartment,Mid-Range,No,Yes,Outdoor
+U1272,18-25,Female,Working Professional,Pune,Apartment,Premium,Yes,Yes,Entertainment
+U1273,36-45,Male,Student,Bangalore,Apartment,Budget,Yes,Yes,Climate
+U1274,46-55,Male,Student,Pune,Apartment,Mid-Range,No,Yes,Tools
+U1275,46-55,Male,Working Professional,Jaipur,Apartment,Mid-Range,Yes,Yes,Bathroom
+U1276,26-35,Female,Working Professional,Kolkata,Apartment,Mid-Range,Yes,Yes,Entertainment
+U1277,26-35,Male,Student,Ahmedabad,Apartment,Budget,Yes,No,Entertainment
+U1278,46-55,Other,Retired,Lucknow,PG/Hostel,Premium,No,No,Personal Care
+U1279,36-45,Male,Homemaker,Mumbai,Independent House,Premium,No,Yes,Entertainment
+U1280,26-35,Female,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Kitchen
+U1281,26-35,Male,Retired,Delhi,Independent House,Premium,Yes,No,Fitness
+U1282,55+,Female,Homemaker,Hyderabad,Apartment,Mid-Range,Yes,No,Bathroom
+U1283,26-35,Female,Business Owner,Ahmedabad,Independent House,Premium,Yes,Yes,Kitchen
+U1284,18-25,Other,Student,Mumbai,Apartment,Mid-Range,No,No,Tools
+U1285,36-45,Female,Student,Bangalore,Villa,Budget,No,Yes,Entertainment
+U1286,36-45,Female,Student,Lucknow,PG/Hostel,Mid-Range,Yes,Yes,Bathroom
+U1287,26-35,Female,Business Owner,Jaipur,PG/Hostel,Premium,Yes,Yes,Security
+U1288,36-45,Male,Student,Hyderabad,Apartment,Budget,No,Yes,Security
+U1289,55+,Female,Homemaker,Hyderabad,Apartment,Mid-Range,No,No,Climate
+U1290,18-25,Male,Homemaker,Lucknow,Apartment,Premium,Yes,Yes,Hobby
+U1291,36-45,Male,Student,Pune,Independent House,Budget,No,Yes,Bathroom
+U1292,18-25,Male,Retired,Kolkata,Apartment,Mid-Range,Yes,No,Hobby
+U1293,26-35,Male,Homemaker,Delhi,Independent House,Premium,No,Yes,Networking
+U1294,18-25,Male,Student,Jaipur,PG/Hostel,Mid-Range,No,Yes,Climate
+U1295,46-55,Female,Student,Kolkata,Villa,Budget,Yes,No,Outdoor
+U1296,26-35,Male,Business Owner,Hyderabad,Villa,Luxury,Yes,Yes,Fitness
+U1297,46-55,Female,Retired,Delhi,Apartment,Mid-Range,No,No,Networking
+U1298,55+,Male,Working Professional,Mumbai,Independent House,Mid-Range,No,No,Hobby
+U1299,46-55,Male,Retired,Ahmedabad,PG/Hostel,Premium,No,No,Hobby
+U1300,36-45,Male,Student,Kolkata,Apartment,Budget,Yes,No,Hobby
+U1301,26-35,Female,Retired,Bangalore,Independent House,Luxury,Yes,No,Smart Home
+U1302,55+,Female,Working Professional,Lucknow,Apartment,Mid-Range,No,No,Laundry
+U1303,46-55,Female,Working Professional,Ahmedabad,Apartment,Premium,Yes,No,Decor
+U1304,26-35,Male,Homemaker,Pune,Independent House,Premium,No,Yes,Pet
+U1305,26-35,Male,Homemaker,Jaipur,Apartment,Premium,Yes,No,Hobby
+U1306,26-35,Male,Working Professional,Chennai,Apartment,Mid-Range,Yes,Yes,Entertainment
+U1307,26-35,Female,Student,Delhi,PG/Hostel,Budget,No,No,Climate
+U1308,18-25,Female,Homemaker,Bangalore,Apartment,Mid-Range,Yes,Yes,Entertainment
+U1309,36-45,Female,Working Professional,Lucknow,Apartment,Premium,Yes,No,Bathroom
+U1310,36-45,Male,Homemaker,Ahmedabad,Apartment,Premium,Yes,No,Climate
+U1311,55+,Female,Working Professional,Jaipur,Villa,Premium,Yes,No,Security
+U1312,36-45,Female,Homemaker,Kolkata,PG/Hostel,Mid-Range,No,Yes,Cleaning
+U1313,26-35,Male,Working Professional,Kolkata,Villa,Premium,Yes,Yes,Personal Care
+U1314,36-45,Female,Student,Bangalore,Independent House,Mid-Range,Yes,Yes,Pet
+U1315,18-25,Male,Working Professional,Delhi,PG/Hostel,Premium,Yes,Yes,Climate
+U1316,26-35,Female,Business Owner,Jaipur,Apartment,Luxury,No,Yes,Pet
+U1317,55+,Male,Working Professional,Ahmedabad,Independent House,Premium,Yes,No,Networking
+U1318,46-55,Male,Working Professional,Pune,Apartment,Premium,Yes,No,Entertainment
+U1319,26-35,Male,Business Owner,Pune,Apartment,Luxury,No,Yes,Smart Home
+U1320,18-25,Female,Working Professional,Delhi,Apartment,Premium,Yes,No,Fitness
+U1321,55+,Male,Working Professional,Mumbai,PG/Hostel,Premium,Yes,Yes,Outdoor
+U1322,26-35,Other,Homemaker,Delhi,Apartment,Mid-Range,No,Yes,Personal Care
+U1323,18-25,Male,Homemaker,Jaipur,Apartment,Mid-Range,Yes,Yes,Fitness
+U1324,18-25,Female,Student,Chennai,Apartment,Mid-Range,Yes,Yes,Security
+U1325,26-35,Male,Homemaker,Kolkata,Apartment,Premium,No,Yes,Hobby
+U1326,46-55,Female,Student,Delhi,PG/Hostel,Mid-Range,No,Yes,Climate
+U1327,26-35,Male,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Fitness
+U1328,46-55,Male,Business Owner,Ahmedabad,Independent House,Premium,No,No,Kitchen
+U1329,55+,Female,Retired,Hyderabad,Independent House,Luxury,No,Yes,Pet
+U1330,26-35,Male,Retired,Lucknow,Independent House,Mid-Range,No,Yes,Hobby
+U1331,26-35,Male,Working Professional,Chennai,Villa,Premium,Yes,No,Climate
+U1332,18-25,Male,Working Professional,Hyderabad,Apartment,Premium,Yes,Yes,Outdoor
+U1333,26-35,Male,Working Professional,Kolkata,Apartment,Premium,Yes,Yes,Fitness
+U1334,18-25,Other,Working Professional,Chennai,Villa,Premium,Yes,Yes,Personal Care
+U1335,26-35,Female,Working Professional,Jaipur,Apartment,Mid-Range,No,Yes,Tools
+U1336,46-55,Male,Retired,Ahmedabad,Apartment,Luxury,No,No,Fitness
+U1337,55+,Male,Working Professional,Jaipur,Apartment,Mid-Range,Yes,No,Laundry
+U1338,26-35,Female,Homemaker,Chennai,Villa,Mid-Range,No,Yes,Kitchen
+U1339,26-35,Female,Working Professional,Kolkata,Apartment,Mid-Range,Yes,Yes,Personal Care
+U1340,18-25,Female,Retired,Lucknow,Independent House,Premium,Yes,Yes,Entertainment
+U1341,36-45,Female,Working Professional,Mumbai,Independent House,Mid-Range,Yes,No,Cleaning
+U1342,36-45,Female,Retired,Jaipur,Apartment,Premium,No,Yes,Power
+U1343,46-55,Male,Student,Bangalore,Apartment,Budget,Yes,Yes,Decor
+U1344,26-35,Female,Business Owner,Mumbai,PG/Hostel,Premium,No,Yes,Security
+U1345,36-45,Female,Working Professional,Delhi,Apartment,Mid-Range,Yes,Yes,Kitchen
+U1346,26-35,Male,Working Professional,Pune,Apartment,Premium,Yes,No,Pet
+U1347,36-45,Male,Working Professional,Hyderabad,Villa,Mid-Range,Yes,No,Hobby
+U1348,36-45,Male,Business Owner,Ahmedabad,Independent House,Luxury,No,Yes,Hobby
+U1349,46-55,Female,Homemaker,Pune,Apartment,Premium,No,No,Laundry
+U1350,18-25,Male,Working Professional,Hyderabad,PG/Hostel,Premium,Yes,Yes,Decor
+U1351,26-35,Female,Retired,Kolkata,Apartment,Premium,No,Yes,Climate
+U1352,26-35,Other,Business Owner,Delhi,Apartment,Luxury,Yes,Yes,Laundry
+U1353,26-35,Female,Working Professional,Bangalore,Apartment,Premium,Yes,No,Outdoor
+U1354,36-45,Male,Student,Lucknow,Apartment,Budget,Yes,No,Power
+U1355,26-35,Female,Working Professional,Chennai,Apartment,Mid-Range,Yes,Yes,Networking
+U1356,18-25,Other,Working Professional,Jaipur,Apartment,Mid-Range,No,No,Pet
+U1357,26-35,Other,Working Professional,Kolkata,Apartment,Mid-Range,No,No,Outdoor
+U1358,36-45,Female,Homemaker,Hyderabad,Apartment,Mid-Range,Yes,No,Personal Care
+U1359,36-45,Female,Student,Pune,Independent House,Mid-Range,No,No,Fitness
+U1360,26-35,Male,Business Owner,Chennai,PG/Hostel,Premium,No,No,Climate
+U1361,26-35,Male,Working Professional,Kolkata,Villa,Premium,No,Yes,Fitness
+U1362,18-25,Male,Working Professional,Bangalore,Independent House,Mid-Range,Yes,Yes,Networking
+U1363,36-45,Male,Student,Lucknow,Apartment,Mid-Range,No,No,Smart Home
+U1364,26-35,Female,Working Professional,Mumbai,Apartment,Premium,No,Yes,Personal Care
+U1365,26-35,Other,Working Professional,Bangalore,Villa,Premium,Yes,Yes,Outdoor
+U1366,46-55,Male,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Bathroom
+U1367,26-35,Female,Working Professional,Lucknow,PG/Hostel,Mid-Range,Yes,No,Smart Home
+U1368,46-55,Female,Working Professional,Ahmedabad,Apartment,Premium,No,Yes,Personal Care
+U1369,18-25,Male,Homemaker,Chennai,Apartment,Premium,Yes,Yes,Personal Care
+U1370,26-35,Female,Homemaker,Kolkata,Apartment,Premium,No,No,Laundry
+U1371,46-55,Male,Working Professional,Mumbai,Independent House,Mid-Range,No,No,Laundry
+U1372,36-45,Male,Retired,Ahmedabad,Independent House,Mid-Range,Yes,No,Personal Care
+U1373,36-45,Male,Business Owner,Kolkata,PG/Hostel,Premium,No,No,Entertainment
+U1374,36-45,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Security
+U1375,36-45,Female,Business Owner,Ahmedabad,Independent House,Luxury,No,Yes,Laundry
+U1376,36-45,Male,Student,Hyderabad,Independent House,Budget,No,No,Decor
+U1377,26-35,Female,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Tools
+U1378,26-35,Male,Working Professional,Chennai,Villa,Mid-Range,No,Yes,Personal Care
+U1379,46-55,Male,Homemaker,Bangalore,PG/Hostel,Premium,Yes,No,Laundry
+U1380,46-55,Male,Homemaker,Hyderabad,Independent House,Premium,Yes,No,Cleaning
+U1381,46-55,Female,Working Professional,Mumbai,Independent House,Mid-Range,Yes,No,Pet
+U1382,36-45,Female,Student,Kolkata,Apartment,Budget,No,No,Decor
+U1383,26-35,Female,Working Professional,Delhi,Apartment,Mid-Range,Yes,Yes,Laundry
+U1384,36-45,Male,Business Owner,Pune,Apartment,Luxury,No,No,Power
+U1385,18-25,Female,Business Owner,Chennai,Independent House,Premium,Yes,Yes,Pet
+U1386,18-25,Female,Homemaker,Bangalore,PG/Hostel,Premium,No,Yes,Personal Care
+U1387,36-45,Male,Student,Bangalore,Apartment,Mid-Range,Yes,No,Cleaning
+U1388,26-35,Male,Student,Delhi,Apartment,Budget,Yes,Yes,Entertainment
+U1389,55+,Female,Homemaker,Delhi,Independent House,Premium,Yes,No,Climate
+U1390,18-25,Male,Homemaker,Pune,Independent House,Premium,No,Yes,Decor
+U1391,26-35,Male,Retired,Chennai,Apartment,Luxury,No,Yes,Personal Care
+U1392,55+,Female,Student,Ahmedabad,Independent House,Mid-Range,No,Yes,Cleaning
+U1393,46-55,Other,Retired,Hyderabad,Apartment,Mid-Range,Yes,Yes,Power
+U1394,46-55,Female,Homemaker,Chennai,Apartment,Premium,Yes,No,Hobby
+U1395,36-45,Female,Retired,Mumbai,Apartment,Premium,No,No,Climate
+U1396,18-25,Female,Working Professional,Ahmedabad,Independent House,Premium,Yes,No,Entertainment
+U1397,26-35,Male,Student,Pune,Independent House,Budget,Yes,No,Personal Care
+U1398,55+,Male,Homemaker,Jaipur,Independent House,Mid-Range,No,No,Tools
+U1399,18-25,Male,Retired,Mumbai,Independent House,Luxury,No,Yes,Fitness
+U1400,26-35,Female,Homemaker,Hyderabad,Independent House,Mid-Range,No,No,Smart Home
+U1401,26-35,Male,Working Professional,Chennai,Independent House,Mid-Range,Yes,No,Pet
+U1402,18-25,Female,Homemaker,Lucknow,PG/Hostel,Premium,No,Yes,Smart Home
+U1403,26-35,Male,Working Professional,Mumbai,Independent House,Mid-Range,Yes,No,Climate
+U1404,46-55,Male,Working Professional,Chennai,PG/Hostel,Premium,Yes,Yes,Power
+U1405,46-55,Female,Working Professional,Pune,Apartment,Premium,No,No,Entertainment
+U1406,18-25,Female,Business Owner,Mumbai,PG/Hostel,Premium,No,Yes,Power
+U1407,18-25,Male,Business Owner,Jaipur,Apartment,Premium,No,Yes,Pet
+U1408,36-45,Female,Student,Bangalore,Independent House,Mid-Range,Yes,No,Pet
+U1409,18-25,Male,Working Professional,Mumbai,Apartment,Mid-Range,No,Yes,Pet
+U1410,36-45,Male,Business Owner,Bangalore,Apartment,Luxury,Yes,Yes,Fitness
+U1411,36-45,Male,Business Owner,Lucknow,Apartment,Luxury,Yes,No,Networking
+U1412,36-45,Male,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Decor
+U1413,36-45,Female,Homemaker,Delhi,Independent House,Premium,No,No,Personal Care
+U1414,26-35,Male,Working Professional,Kolkata,Apartment,Premium,Yes,Yes,Cleaning
+U1415,36-45,Other,Business Owner,Bangalore,Independent House,Premium,No,No,Bathroom
+U1416,18-25,Female,Student,Chennai,Independent House,Budget,Yes,Yes,Climate
+U1417,36-45,Female,Business Owner,Bangalore,PG/Hostel,Luxury,No,No,Outdoor
+U1418,18-25,Female,Homemaker,Jaipur,Apartment,Mid-Range,No,Yes,Kitchen
+U1419,36-45,Female,Working Professional,Jaipur,Apartment,Mid-Range,Yes,Yes,Hobby
+U1420,36-45,Female,Student,Lucknow,Apartment,Mid-Range,No,Yes,Kitchen
+U1421,26-35,Female,Working Professional,Delhi,Apartment,Mid-Range,No,Yes,Personal Care
+U1422,18-25,Female,Homemaker,Mumbai,Villa,Premium,Yes,No,Outdoor
+U1423,18-25,Male,Homemaker,Lucknow,Apartment,Premium,No,No,Cleaning
+U1424,36-45,Female,Homemaker,Pune,Apartment,Premium,No,No,Personal Care
+U1425,26-35,Other,Working Professional,Bangalore,Apartment,Mid-Range,Yes,No,Decor
+U1426,26-35,Female,Working Professional,Kolkata,Apartment,Mid-Range,Yes,Yes,Hobby
+U1427,55+,Female,Working Professional,Bangalore,Apartment,Mid-Range,Yes,No,Pet
+U1428,36-45,Male,Business Owner,Chennai,Villa,Luxury,No,No,Networking
+U1429,26-35,Female,Retired,Kolkata,Apartment,Luxury,No,Yes,Entertainment
+U1430,18-25,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Tools
+U1431,18-25,Female,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Laundry
+U1432,18-25,Male,Homemaker,Jaipur,Apartment,Premium,Yes,Yes,Cleaning
+U1433,18-25,Female,Retired,Ahmedabad,Apartment,Mid-Range,No,Yes,Entertainment
+U1434,36-45,Female,Working Professional,Ahmedabad,Independent House,Premium,Yes,No,Laundry
+U1435,36-45,Male,Working Professional,Chennai,Independent House,Mid-Range,Yes,No,Power
+U1436,46-55,Female,Working Professional,Mumbai,Villa,Premium,Yes,No,Fitness
+U1437,18-25,Female,Homemaker,Ahmedabad,Villa,Premium,No,Yes,Outdoor
+U1438,55+,Male,Homemaker,Ahmedabad,PG/Hostel,Mid-Range,Yes,No,Climate
+U1439,18-25,Female,Business Owner,Mumbai,Apartment,Premium,Yes,Yes,Smart Home
+U1440,36-45,Male,Working Professional,Chennai,Apartment,Mid-Range,No,Yes,Climate
+U1441,46-55,Female,Retired,Ahmedabad,Apartment,Mid-Range,No,No,Cleaning
+U1442,46-55,Male,Homemaker,Mumbai,Apartment,Premium,Yes,No,Climate
+U1443,26-35,Female,Business Owner,Ahmedabad,Independent House,Luxury,Yes,Yes,Smart Home
+U1444,26-35,Male,Homemaker,Bangalore,Apartment,Premium,No,No,Pet
+U1445,36-45,Female,Student,Pune,Apartment,Mid-Range,No,No,Personal Care
+U1446,36-45,Female,Working Professional,Chennai,Apartment,Mid-Range,Yes,Yes,Climate
+U1447,18-25,Male,Business Owner,Bangalore,PG/Hostel,Premium,Yes,Yes,Hobby
+U1448,55+,Male,Working Professional,Ahmedabad,Independent House,Premium,Yes,Yes,Power
+U1449,55+,Female,Business Owner,Pune,PG/Hostel,Premium,No,No,Personal Care
+U1450,18-25,Other,Retired,Jaipur,Apartment,Mid-Range,Yes,Yes,Fitness
+U1451,26-35,Male,Student,Lucknow,PG/Hostel,Budget,Yes,Yes,Climate
+U1452,26-35,Male,Student,Pune,Villa,Mid-Range,No,No,Decor
+U1453,36-45,Male,Working Professional,Jaipur,Villa,Mid-Range,Yes,Yes,Power
+U1454,46-55,Male,Working Professional,Ahmedabad,Apartment,Premium,No,No,Hobby
+U1455,18-25,Female,Homemaker,Jaipur,Independent House,Mid-Range,Yes,Yes,Hobby
+U1456,46-55,Female,Working Professional,Pune,Independent House,Mid-Range,Yes,Yes,Cleaning
+U1457,18-25,Female,Working Professional,Delhi,Apartment,Premium,Yes,Yes,Entertainment
+U1458,26-35,Other,Working Professional,Hyderabad,Independent House,Mid-Range,Yes,Yes,Security
+U1459,46-55,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,No,Kitchen
+U1460,46-55,Female,Working Professional,Pune,Independent House,Premium,No,No,Laundry
+U1461,26-35,Male,Student,Jaipur,Apartment,Budget,Yes,Yes,Fitness
+U1462,46-55,Male,Working Professional,Kolkata,Independent House,Premium,No,No,Bathroom
+U1463,26-35,Male,Working Professional,Mumbai,Villa,Premium,Yes,No,Bathroom
+U1464,46-55,Male,Business Owner,Delhi,PG/Hostel,Premium,Yes,No,Personal Care
+U1465,18-25,Male,Student,Mumbai,Independent House,Mid-Range,Yes,Yes,Entertainment
+U1466,26-35,Male,Working Professional,Jaipur,Apartment,Mid-Range,No,Yes,Outdoor
+U1467,36-45,Female,Working Professional,Pune,Apartment,Premium,Yes,Yes,Bathroom
+U1468,46-55,Male,Homemaker,Kolkata,Apartment,Mid-Range,No,Yes,Cleaning
+U1469,36-45,Male,Business Owner,Kolkata,Apartment,Luxury,No,No,Kitchen
+U1470,46-55,Male,Homemaker,Jaipur,Independent House,Mid-Range,Yes,No,Entertainment
+U1471,26-35,Male,Homemaker,Hyderabad,Villa,Premium,Yes,Yes,Bathroom
+U1472,26-35,Female,Working Professional,Bangalore,Villa,Premium,Yes,No,Decor
+U1473,46-55,Female,Working Professional,Chennai,Independent House,Mid-Range,No,No,Hobby
+U1474,26-35,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,Yes,Hobby
+U1475,55+,Female,Working Professional,Delhi,Independent House,Mid-Range,Yes,No,Security
+U1476,36-45,Male,Working Professional,Pune,Apartment,Premium,No,No,Laundry
+U1477,18-25,Male,Homemaker,Chennai,PG/Hostel,Premium,Yes,No,Entertainment
+U1478,26-35,Male,Student,Jaipur,Villa,Mid-Range,No,Yes,Bathroom
+U1479,36-45,Female,Working Professional,Pune,Apartment,Mid-Range,Yes,Yes,Fitness
+U1480,55+,Male,Homemaker,Delhi,Independent House,Premium,Yes,No,Entertainment
+U1481,18-25,Male,Retired,Hyderabad,Independent House,Premium,No,Yes,Bathroom
+U1482,26-35,Female,Homemaker,Lucknow,Independent House,Premium,No,No,Decor
+U1483,36-45,Male,Business Owner,Kolkata,Apartment,Luxury,No,No,Climate
+U1484,26-35,Male,Retired,Kolkata,Independent House,Luxury,No,Yes,Entertainment
+U1485,36-45,Male,Working Professional,Ahmedabad,Apartment,Premium,Yes,No,Bathroom
+U1486,26-35,Male,Working Professional,Hyderabad,PG/Hostel,Mid-Range,Yes,Yes,Personal Care
+U1487,55+,Male,Working Professional,Delhi,Apartment,Premium,Yes,No,Hobby
+U1488,36-45,Male,Business Owner,Lucknow,Apartment,Luxury,Yes,No,Hobby
+U1489,46-55,Male,Homemaker,Chennai,Independent House,Premium,No,Yes,Climate
+U1490,26-35,Female,Working Professional,Bangalore,PG/Hostel,Mid-Range,Yes,Yes,Power
+U1491,26-35,Male,Retired,Chennai,PG/Hostel,Premium,Yes,No,Climate
+U1492,26-35,Female,Business Owner,Delhi,Apartment,Premium,Yes,Yes,Power
+U1493,55+,Female,Business Owner,Ahmedabad,Apartment,Luxury,Yes,No,Smart Home
+U1494,46-55,Male,Business Owner,Ahmedabad,Villa,Luxury,No,No,Entertainment
+U1495,18-25,Female,Student,Jaipur,Independent House,Budget,No,No,Cleaning
+U1496,36-45,Other,Student,Pune,Apartment,Budget,Yes,No,Fitness
+U1497,18-25,Female,Student,Hyderabad,Villa,Mid-Range,No,Yes,Power
+U1498,36-45,Male,Business Owner,Chennai,Independent House,Luxury,No,No,Security
+U1499,26-35,Male,Working Professional,Jaipur,Independent House,Premium,Yes,Yes,Kitchen
+U1500,36-45,Female,Homemaker,Lucknow,Apartment,Mid-Range,No,No,Bathroom
+U1501,36-45,Female,Student,Ahmedabad,Independent House,Budget,Yes,Yes,Personal Care
+U1502,18-25,Female,Retired,Chennai,Apartment,Mid-Range,No,Yes,Cleaning
+U1503,36-45,Female,Working Professional,Jaipur,PG/Hostel,Mid-Range,Yes,Yes,Power
+U1504,55+,Male,Working Professional,Mumbai,PG/Hostel,Premium,Yes,Yes,Security
+U1505,18-25,Female,Working Professional,Kolkata,Apartment,Premium,Yes,Yes,Hobby
+U1506,26-35,Female,Business Owner,Chennai,Apartment,Premium,Yes,Yes,Kitchen
+U1507,18-25,Female,Working Professional,Chennai,Apartment,Mid-Range,No,Yes,Power
+U1508,36-45,Female,Student,Bangalore,Apartment,Mid-Range,Yes,Yes,Pet
+U1509,46-55,Female,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Decor
+U1510,36-45,Male,Business Owner,Delhi,PG/Hostel,Luxury,Yes,Yes,Laundry
+U1511,36-45,Male,Student,Jaipur,Apartment,Mid-Range,No,Yes,Hobby
+U1512,36-45,Male,Homemaker,Mumbai,Independent House,Premium,Yes,No,Kitchen
+U1513,46-55,Female,Retired,Mumbai,Villa,Premium,No,Yes,Security
+U1514,36-45,Female,Working Professional,Jaipur,Independent House,Premium,No,No,Laundry
+U1515,26-35,Female,Working Professional,Chennai,PG/Hostel,Mid-Range,Yes,Yes,Bathroom
+U1516,26-35,Female,Working Professional,Bangalore,Independent House,Mid-Range,Yes,No,Laundry
+U1517,26-35,Female,Business Owner,Jaipur,Apartment,Luxury,Yes,Yes,Cleaning
+U1518,18-25,Female,Working Professional,Bangalore,Apartment,Premium,Yes,No,Climate
+U1519,18-25,Male,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Networking
+U1520,26-35,Female,Working Professional,Lucknow,Apartment,Mid-Range,No,Yes,Personal Care
+U1521,26-35,Male,Retired,Jaipur,Apartment,Luxury,No,Yes,Pet
+U1522,26-35,Female,Working Professional,Bangalore,Apartment,Mid-Range,No,No,Fitness
+U1523,36-45,Male,Student,Lucknow,PG/Hostel,Budget,Yes,No,Smart Home
+U1524,26-35,Male,Working Professional,Ahmedabad,Independent House,Premium,Yes,No,Smart Home
+U1525,18-25,Male,Business Owner,Hyderabad,PG/Hostel,Luxury,Yes,Yes,Security
+U1526,26-35,Male,Homemaker,Mumbai,Villa,Mid-Range,No,Yes,Security
+U1527,18-25,Female,Student,Kolkata,Apartment,Budget,Yes,Yes,Climate
+U1528,18-25,Other,Retired,Jaipur,Apartment,Premium,Yes,No,Kitchen
+U1529,55+,Male,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,No,Pet
+U1530,36-45,Male,Retired,Pune,Independent House,Luxury,No,No,Security
+U1531,18-25,Male,Student,Ahmedabad,Villa,Budget,Yes,Yes,Security
+U1532,46-55,Female,Business Owner,Mumbai,Apartment,Premium,No,No,Networking
+U1533,18-25,Male,Working Professional,Delhi,PG/Hostel,Mid-Range,No,Yes,Laundry
+U1534,36-45,Male,Student,Ahmedabad,Apartment,Budget,No,Yes,Climate
+U1535,26-35,Female,Retired,Lucknow,PG/Hostel,Luxury,Yes,Yes,Pet
+U1536,26-35,Male,Working Professional,Chennai,PG/Hostel,Mid-Range,Yes,Yes,Tools
+U1537,46-55,Female,Student,Delhi,Independent House,Budget,Yes,No,Entertainment
+U1538,36-45,Female,Retired,Lucknow,Independent House,Premium,No,No,Decor
+U1539,18-25,Male,Student,Mumbai,Apartment,Budget,No,Yes,Decor
+U1540,36-45,Male,Homemaker,Mumbai,PG/Hostel,Premium,No,No,Power
+U1541,18-25,Male,Working Professional,Kolkata,Apartment,Premium,No,Yes,Hobby
+U1542,26-35,Male,Working Professional,Ahmedabad,Villa,Premium,Yes,No,Laundry
+U1543,18-25,Male,Student,Chennai,Independent House,Budget,No,Yes,Smart Home
+U1544,18-25,Female,Business Owner,Kolkata,Independent House,Premium,Yes,Yes,Security
+U1545,36-45,Male,Student,Kolkata,Apartment,Budget,No,No,Tools
+U1546,36-45,Male,Working Professional,Pune,Villa,Mid-Range,Yes,No,Hobby
+U1547,18-25,Female,Business Owner,Ahmedabad,Apartment,Premium,Yes,Yes,Smart Home
+U1548,18-25,Female,Student,Hyderabad,Independent House,Mid-Range,Yes,Yes,Smart Home
+U1549,46-55,Female,Retired,Pune,Apartment,Mid-Range,No,Yes,Kitchen
+U1550,26-35,Male,Business Owner,Delhi,Apartment,Luxury,No,Yes,Kitchen
+U1551,36-45,Female,Working Professional,Mumbai,Independent House,Mid-Range,Yes,No,Kitchen
+U1552,18-25,Male,Retired,Mumbai,Apartment,Mid-Range,No,Yes,Outdoor
+U1553,26-35,Female,Student,Delhi,Apartment,Mid-Range,Yes,Yes,Power
+U1554,26-35,Female,Working Professional,Kolkata,PG/Hostel,Premium,Yes,Yes,Fitness
+U1555,18-25,Male,Working Professional,Lucknow,Apartment,Mid-Range,No,Yes,Cleaning
+U1556,46-55,Male,Homemaker,Ahmedabad,Apartment,Premium,No,No,Hobby
+U1557,18-25,Male,Homemaker,Mumbai,Villa,Premium,No,Yes,Tools
+U1558,46-55,Female,Working Professional,Delhi,Villa,Mid-Range,Yes,No,Tools
+U1559,36-45,Male,Student,Jaipur,PG/Hostel,Budget,Yes,Yes,Cleaning
+U1560,36-45,Female,Homemaker,Hyderabad,PG/Hostel,Mid-Range,Yes,Yes,Entertainment
+U1561,55+,Female,Student,Lucknow,Independent House,Mid-Range,Yes,No,Networking
+U1562,46-55,Male,Homemaker,Lucknow,PG/Hostel,Premium,No,No,Entertainment
+U1563,36-45,Male,Student,Chennai,Apartment,Mid-Range,No,Yes,Security
+U1564,26-35,Male,Student,Mumbai,Independent House,Budget,Yes,No,Power
+U1565,36-45,Female,Homemaker,Pune,Apartment,Premium,Yes,Yes,Tools
+U1566,18-25,Male,Business Owner,Pune,Villa,Premium,Yes,Yes,Cleaning
+U1567,46-55,Other,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Outdoor
+U1568,26-35,Male,Homemaker,Pune,Villa,Premium,Yes,Yes,Power
+U1569,18-25,Female,Working Professional,Hyderabad,Independent House,Premium,No,Yes,Laundry
+U1570,26-35,Female,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Smart Home
+U1571,46-55,Female,Working Professional,Hyderabad,Independent House,Premium,Yes,No,Security
+U1572,26-35,Female,Working Professional,Mumbai,Apartment,Premium,Yes,Yes,Hobby
+U1573,55+,Male,Working Professional,Chennai,Apartment,Mid-Range,Yes,No,Networking
+U1574,55+,Female,Working Professional,Mumbai,PG/Hostel,Mid-Range,Yes,Yes,Laundry
+U1575,26-35,Female,Student,Bangalore,Apartment,Mid-Range,Yes,Yes,Personal Care
+U1576,46-55,Female,Working Professional,Mumbai,PG/Hostel,Mid-Range,Yes,Yes,Hobby
+U1577,26-35,Male,Working Professional,Bangalore,Apartment,Mid-Range,Yes,No,Hobby
+U1578,36-45,Male,Business Owner,Hyderabad,Independent House,Luxury,Yes,Yes,Networking
+U1579,36-45,Male,Working Professional,Jaipur,Villa,Mid-Range,No,No,Fitness
+U1580,36-45,Female,Working Professional,Delhi,Apartment,Mid-Range,Yes,No,Tools
+U1581,36-45,Female,Working Professional,Jaipur,Apartment,Mid-Range,Yes,Yes,Fitness
+U1582,18-25,Female,Working Professional,Mumbai,Apartment,Mid-Range,No,Yes,Outdoor
+U1583,26-35,Male,Student,Pune,Independent House,Budget,Yes,Yes,Decor
+U1584,36-45,Male,Working Professional,Jaipur,Independent House,Mid-Range,No,No,Tools
+U1585,18-25,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,No,Yes,Personal Care
+U1586,26-35,Female,Homemaker,Jaipur,PG/Hostel,Premium,Yes,Yes,Personal Care
+U1587,26-35,Male,Student,Pune,Villa,Mid-Range,Yes,Yes,Climate
+U1588,36-45,Male,Homemaker,Chennai,Independent House,Premium,No,No,Power
+U1589,18-25,Female,Working Professional,Hyderabad,Villa,Mid-Range,No,Yes,Laundry
+U1590,36-45,Female,Working Professional,Hyderabad,Independent House,Premium,Yes,No,Personal Care
+U1591,18-25,Male,Working Professional,Chennai,Independent House,Premium,Yes,Yes,Kitchen
+U1592,26-35,Male,Homemaker,Ahmedabad,Apartment,Premium,No,Yes,Power
+U1593,36-45,Female,Business Owner,Jaipur,Apartment,Luxury,No,Yes,Cleaning
+U1594,55+,Male,Business Owner,Kolkata,Apartment,Luxury,Yes,No,Decor
+U1595,36-45,Other,Business Owner,Mumbai,PG/Hostel,Luxury,Yes,Yes,Kitchen
+U1596,36-45,Male,Working Professional,Delhi,Apartment,Premium,Yes,No,Kitchen
+U1597,26-35,Female,Homemaker,Hyderabad,Independent House,Premium,Yes,Yes,Power
+U1598,26-35,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,Yes,Outdoor
+U1599,46-55,Other,Homemaker,Hyderabad,Apartment,Premium,No,No,Decor
+U1600,26-35,Male,Working Professional,Chennai,PG/Hostel,Mid-Range,Yes,Yes,Pet
+U1601,36-45,Male,Business Owner,Lucknow,PG/Hostel,Luxury,No,Yes,Bathroom
+U1602,18-25,Male,Business Owner,Kolkata,Apartment,Premium,Yes,No,Tools
+U1603,36-45,Male,Retired,Hyderabad,Apartment,Premium,No,No,Cleaning
+U1604,46-55,Male,Working Professional,Pune,Apartment,Premium,No,Yes,Tools
+U1605,26-35,Female,Business Owner,Kolkata,Independent House,Luxury,Yes,Yes,Security
+U1606,55+,Male,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Security
+U1607,26-35,Female,Student,Pune,PG/Hostel,Mid-Range,Yes,Yes,Pet
+U1608,26-35,Female,Homemaker,Pune,Villa,Premium,No,Yes,Power
+U1609,46-55,Female,Working Professional,Bangalore,Independent House,Mid-Range,No,No,Pet
+U1610,36-45,Male,Student,Hyderabad,Independent House,Mid-Range,No,Yes,Pet
+U1611,26-35,Female,Student,Ahmedabad,Apartment,Budget,Yes,Yes,Cleaning
+U1612,36-45,Other,Working Professional,Delhi,Independent House,Premium,Yes,No,Personal Care
+U1613,18-25,Female,Working Professional,Lucknow,Villa,Mid-Range,Yes,Yes,Kitchen
+U1614,26-35,Female,Working Professional,Chennai,Apartment,Premium,Yes,Yes,Bathroom
+U1615,36-45,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,No,Personal Care
+U1616,26-35,Female,Homemaker,Kolkata,Apartment,Premium,Yes,No,Entertainment
+U1617,46-55,Female,Student,Ahmedabad,Apartment,Mid-Range,No,Yes,Tools
+U1618,55+,Female,Homemaker,Hyderabad,PG/Hostel,Mid-Range,Yes,No,Climate
+U1619,36-45,Female,Retired,Lucknow,Villa,Mid-Range,No,Yes,Tools
+U1620,36-45,Female,Student,Chennai,Apartment,Mid-Range,Yes,No,Cleaning
+U1621,36-45,Female,Working Professional,Kolkata,Apartment,Mid-Range,Yes,Yes,Smart Home
+U1622,18-25,Female,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Kitchen
+U1623,26-35,Female,Homemaker,Ahmedabad,Apartment,Premium,Yes,No,Outdoor
+U1624,26-35,Other,Working Professional,Lucknow,Apartment,Premium,No,No,Fitness
+U1625,26-35,Male,Student,Bangalore,PG/Hostel,Budget,No,No,Cleaning
+U1626,26-35,Male,Student,Bangalore,Apartment,Mid-Range,No,Yes,Power
+U1627,18-25,Female,Business Owner,Bangalore,Villa,Premium,Yes,Yes,Outdoor
+U1628,46-55,Male,Homemaker,Hyderabad,PG/Hostel,Mid-Range,No,No,Hobby
+U1629,46-55,Female,Business Owner,Delhi,Apartment,Luxury,No,No,Smart Home
+U1630,46-55,Other,Homemaker,Ahmedabad,Apartment,Premium,Yes,Yes,Power
+U1631,26-35,Female,Working Professional,Mumbai,Apartment,Premium,Yes,No,Cleaning
+U1632,18-25,Male,Retired,Pune,PG/Hostel,Premium,No,No,Pet
+U1633,26-35,Female,Business Owner,Mumbai,Villa,Premium,Yes,No,Entertainment
+U1634,55+,Male,Student,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Laundry
+U1635,36-45,Male,Business Owner,Bangalore,Independent House,Luxury,Yes,Yes,Personal Care
+U1636,18-25,Other,Business Owner,Mumbai,Apartment,Premium,No,Yes,Hobby
+U1637,26-35,Female,Student,Bangalore,Independent House,Mid-Range,Yes,No,Decor
+U1638,18-25,Male,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Power
+U1639,36-45,Female,Student,Ahmedabad,Independent House,Budget,No,No,Bathroom
+U1640,26-35,Female,Student,Kolkata,Villa,Budget,No,Yes,Security
+U1641,26-35,Male,Working Professional,Kolkata,Independent House,Mid-Range,No,No,Networking
+U1642,18-25,Female,Working Professional,Hyderabad,Independent House,Mid-Range,Yes,Yes,Security
+U1643,26-35,Female,Working Professional,Hyderabad,Apartment,Premium,Yes,Yes,Hobby
+U1644,18-25,Male,Business Owner,Bangalore,Independent House,Premium,Yes,Yes,Smart Home
+U1645,55+,Male,Working Professional,Jaipur,Independent House,Premium,Yes,No,Pet
+U1646,46-55,Female,Retired,Delhi,Apartment,Premium,Yes,Yes,Smart Home
+U1647,36-45,Male,Working Professional,Mumbai,Apartment,Mid-Range,Yes,Yes,Pet
+U1648,18-25,Male,Business Owner,Ahmedabad,Apartment,Premium,Yes,Yes,Decor
+U1649,26-35,Female,Business Owner,Mumbai,Apartment,Luxury,Yes,Yes,Outdoor
+U1650,18-25,Female,Working Professional,Delhi,Independent House,Premium,No,No,Personal Care
+U1651,36-45,Male,Homemaker,Delhi,PG/Hostel,Premium,No,No,Pet
+U1652,36-45,Male,Student,Pune,Independent House,Budget,Yes,No,Smart Home
+U1653,55+,Female,Working Professional,Delhi,PG/Hostel,Premium,Yes,No,Cleaning
+U1654,26-35,Male,Student,Jaipur,Independent House,Mid-Range,No,Yes,Security
+U1655,18-25,Female,Working Professional,Mumbai,Independent House,Mid-Range,Yes,No,Outdoor
+U1656,18-25,Female,Working Professional,Kolkata,Independent House,Mid-Range,No,Yes,Power
+U1657,46-55,Female,Student,Pune,Independent House,Budget,Yes,Yes,Pet
+U1658,36-45,Male,Homemaker,Mumbai,Apartment,Mid-Range,Yes,No,Cleaning
+U1659,36-45,Female,Working Professional,Bangalore,Apartment,Premium,Yes,No,Power
+U1660,55+,Male,Homemaker,Chennai,Apartment,Premium,No,Yes,Smart Home
+U1661,46-55,Female,Business Owner,Hyderabad,PG/Hostel,Luxury,Yes,Yes,Laundry
+U1662,26-35,Female,Working Professional,Lucknow,PG/Hostel,Mid-Range,No,Yes,Personal Care
+U1663,36-45,Male,Business Owner,Mumbai,PG/Hostel,Luxury,Yes,Yes,Tools
+U1664,26-35,Male,Student,Bangalore,Apartment,Budget,No,Yes,Personal Care
+U1665,26-35,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Cleaning
+U1666,36-45,Male,Working Professional,Bangalore,Independent House,Premium,No,Yes,Personal Care
+U1667,46-55,Male,Homemaker,Chennai,Independent House,Mid-Range,Yes,No,Tools
+U1668,18-25,Male,Student,Ahmedabad,PG/Hostel,Mid-Range,Yes,No,Pet
+U1669,26-35,Male,Student,Bangalore,PG/Hostel,Mid-Range,Yes,Yes,Fitness
+U1670,36-45,Female,Working Professional,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Kitchen
+U1671,36-45,Female,Working Professional,Lucknow,Apartment,Premium,Yes,No,Personal Care
+U1672,36-45,Male,Student,Kolkata,Apartment,Mid-Range,Yes,Yes,Pet
+U1673,36-45,Female,Student,Delhi,Apartment,Mid-Range,Yes,No,Tools
+U1674,36-45,Female,Business Owner,Hyderabad,Independent House,Premium,Yes,No,Networking
+U1675,36-45,Female,Working Professional,Kolkata,Apartment,Premium,No,No,Networking
+U1676,36-45,Male,Homemaker,Ahmedabad,Apartment,Premium,Yes,No,Kitchen
+U1677,26-35,Female,Business Owner,Mumbai,Independent House,Luxury,No,Yes,Personal Care
+U1678,36-45,Male,Business Owner,Kolkata,Apartment,Premium,No,No,Networking
+U1679,36-45,Female,Business Owner,Pune,Apartment,Luxury,No,No,Fitness
+U1680,18-25,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,No,Networking
+U1681,46-55,Female,Student,Bangalore,Apartment,Budget,Yes,No,Entertainment
+U1682,36-45,Male,Student,Hyderabad,Apartment,Mid-Range,No,No,Personal Care
+U1683,55+,Male,Business Owner,Delhi,Apartment,Premium,No,No,Pet
+U1684,55+,Male,Working Professional,Lucknow,Independent House,Premium,No,Yes,Tools
+U1685,55+,Male,Student,Bangalore,Villa,Mid-Range,No,Yes,Outdoor
+U1686,18-25,Female,Student,Lucknow,PG/Hostel,Mid-Range,Yes,Yes,Kitchen
+U1687,26-35,Female,Retired,Lucknow,Apartment,Mid-Range,No,Yes,Entertainment
+U1688,55+,Male,Working Professional,Hyderabad,Independent House,Premium,No,No,Outdoor
+U1689,26-35,Male,Student,Bangalore,Apartment,Budget,No,Yes,Kitchen
+U1690,46-55,Other,Working Professional,Jaipur,Apartment,Premium,Yes,Yes,Fitness
+U1691,26-35,Male,Student,Bangalore,Apartment,Budget,Yes,No,Tools
+U1692,46-55,Other,Business Owner,Bangalore,Apartment,Luxury,Yes,Yes,Tools
+U1693,46-55,Male,Working Professional,Hyderabad,PG/Hostel,Mid-Range,Yes,Yes,Tools
+U1694,36-45,Male,Student,Kolkata,Apartment,Mid-Range,Yes,No,Hobby
+U1695,36-45,Other,Working Professional,Delhi,Apartment,Mid-Range,Yes,Yes,Decor
+U1696,26-35,Female,Working Professional,Pune,Apartment,Mid-Range,Yes,Yes,Climate
+U1697,36-45,Female,Business Owner,Mumbai,PG/Hostel,Premium,Yes,No,Security
+U1698,46-55,Female,Working Professional,Delhi,Apartment,Mid-Range,Yes,No,Pet
+U1699,26-35,Male,Working Professional,Ahmedabad,Apartment,Premium,Yes,Yes,Fitness
+U1700,55+,Male,Working Professional,Pune,Independent House,Premium,Yes,Yes,Smart Home
+U1701,18-25,Male,Student,Pune,Independent House,Budget,No,Yes,Power
+U1702,26-35,Female,Business Owner,Pune,Apartment,Luxury,No,Yes,Pet
+U1703,26-35,Female,Working Professional,Mumbai,Apartment,Mid-Range,Yes,No,Decor
+U1704,18-25,Male,Business Owner,Pune,Apartment,Premium,Yes,Yes,Climate
+U1705,26-35,Female,Retired,Kolkata,Independent House,Luxury,No,Yes,Smart Home
+U1706,26-35,Other,Working Professional,Pune,Villa,Mid-Range,No,No,Smart Home
+U1707,26-35,Male,Business Owner,Hyderabad,Apartment,Luxury,No,Yes,Kitchen
+U1708,36-45,Female,Working Professional,Kolkata,Apartment,Premium,No,No,Climate
+U1709,36-45,Female,Business Owner,Kolkata,Apartment,Premium,Yes,Yes,Entertainment
+U1710,26-35,Male,Homemaker,Bangalore,Villa,Mid-Range,No,Yes,Cleaning
+U1711,55+,Male,Student,Ahmedabad,Apartment,Budget,No,No,Laundry
+U1712,55+,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,No,Kitchen
+U1713,36-45,Male,Student,Kolkata,Villa,Budget,No,Yes,Smart Home
+U1714,55+,Male,Business Owner,Chennai,Apartment,Luxury,Yes,Yes,Climate
+U1715,36-45,Female,Working Professional,Bangalore,Independent House,Mid-Range,No,No,Climate
+U1716,18-25,Female,Business Owner,Pune,Apartment,Premium,No,No,Kitchen
+U1717,36-45,Male,Working Professional,Kolkata,Apartment,Premium,No,No,Pet
+U1718,36-45,Female,Retired,Jaipur,Apartment,Luxury,No,Yes,Laundry
+U1719,36-45,Female,Working Professional,Chennai,Apartment,Mid-Range,Yes,Yes,Kitchen
+U1720,18-25,Female,Working Professional,Lucknow,Apartment,Premium,No,No,Hobby
+U1721,46-55,Male,Working Professional,Bangalore,Independent House,Premium,No,No,Security
+U1722,55+,Male,Retired,Mumbai,Apartment,Premium,No,Yes,Pet
+U1723,18-25,Male,Working Professional,Pune,Villa,Premium,No,No,Entertainment
+U1724,55+,Female,Working Professional,Delhi,PG/Hostel,Mid-Range,Yes,No,Cleaning
+U1725,46-55,Male,Student,Bangalore,Apartment,Mid-Range,No,Yes,Laundry
+U1726,26-35,Male,Working Professional,Ahmedabad,Independent House,Premium,Yes,Yes,Power
+U1727,26-35,Male,Student,Chennai,PG/Hostel,Mid-Range,Yes,No,Decor
+U1728,46-55,Male,Working Professional,Hyderabad,Villa,Premium,Yes,No,Pet
+U1729,26-35,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Laundry
+U1730,26-35,Female,Business Owner,Bangalore,Apartment,Premium,No,No,Outdoor
+U1731,55+,Male,Student,Mumbai,Independent House,Budget,Yes,Yes,Climate
+U1732,36-45,Male,Student,Kolkata,Independent House,Mid-Range,Yes,No,Outdoor
+U1733,36-45,Male,Homemaker,Hyderabad,Apartment,Premium,No,No,Hobby
+U1734,26-35,Female,Student,Pune,Independent House,Budget,No,Yes,Power
+U1735,26-35,Female,Homemaker,Ahmedabad,Apartment,Premium,No,Yes,Cleaning
+U1736,46-55,Female,Business Owner,Chennai,Apartment,Luxury,No,Yes,Tools
+U1737,36-45,Male,Homemaker,Pune,Apartment,Mid-Range,No,No,Entertainment
+U1738,46-55,Female,Student,Kolkata,Independent House,Mid-Range,No,Yes,Power
+U1739,26-35,Female,Student,Pune,Apartment,Budget,No,Yes,Power
+U1740,36-45,Female,Homemaker,Jaipur,Villa,Mid-Range,No,No,Entertainment
+U1741,36-45,Female,Working Professional,Hyderabad,Independent House,Premium,Yes,Yes,Climate
+U1742,26-35,Female,Student,Lucknow,Apartment,Mid-Range,No,No,Pet
+U1743,36-45,Male,Working Professional,Ahmedabad,Independent House,Mid-Range,No,No,Decor
+U1744,18-25,Female,Working Professional,Pune,Apartment,Premium,Yes,Yes,Hobby
+U1745,36-45,Female,Business Owner,Jaipur,Apartment,Luxury,Yes,No,Climate
+U1746,18-25,Female,Working Professional,Delhi,PG/Hostel,Premium,No,Yes,Climate
+U1747,46-55,Male,Working Professional,Chennai,Independent House,Premium,Yes,Yes,Kitchen
+U1748,18-25,Female,Student,Kolkata,Apartment,Budget,No,Yes,Bathroom
+U1749,26-35,Female,Student,Delhi,Independent House,Mid-Range,Yes,Yes,Hobby
+U1750,36-45,Male,Business Owner,Delhi,Independent House,Premium,Yes,No,Personal Care
+U1751,18-25,Female,Working Professional,Jaipur,PG/Hostel,Mid-Range,Yes,Yes,Power
+U1752,26-35,Female,Working Professional,Lucknow,Apartment,Mid-Range,Yes,Yes,Decor
+U1753,26-35,Male,Working Professional,Delhi,PG/Hostel,Mid-Range,No,Yes,Networking
+U1754,26-35,Female,Working Professional,Kolkata,PG/Hostel,Mid-Range,No,No,Laundry
+U1755,26-35,Male,Student,Mumbai,Independent House,Mid-Range,No,Yes,Outdoor
+U1756,36-45,Female,Business Owner,Bangalore,PG/Hostel,Luxury,Yes,No,Bathroom
+U1757,36-45,Male,Working Professional,Lucknow,Villa,Premium,Yes,Yes,Hobby
+U1758,26-35,Female,Student,Hyderabad,Apartment,Budget,Yes,Yes,Tools
+U1759,36-45,Male,Homemaker,Lucknow,PG/Hostel,Mid-Range,No,No,Decor
+U1760,26-35,Female,Working Professional,Lucknow,Independent House,Mid-Range,Yes,Yes,Decor
+U1761,46-55,Female,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Decor
+U1762,55+,Female,Working Professional,Bangalore,Apartment,Premium,Yes,Yes,Decor
+U1763,26-35,Female,Working Professional,Pune,Independent House,Mid-Range,Yes,Yes,Bathroom
+U1764,55+,Female,Working Professional,Kolkata,Apartment,Mid-Range,No,Yes,Fitness
+U1765,46-55,Female,Working Professional,Mumbai,Villa,Premium,No,Yes,Decor
+U1766,55+,Female,Working Professional,Jaipur,PG/Hostel,Mid-Range,Yes,No,Kitchen
+U1767,18-25,Male,Homemaker,Delhi,Independent House,Premium,Yes,Yes,Decor
+U1768,18-25,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,Yes,Laundry
+U1769,36-45,Female,Student,Delhi,Apartment,Mid-Range,No,Yes,Bathroom
+U1770,36-45,Female,Homemaker,Lucknow,Independent House,Premium,No,Yes,Bathroom
+U1771,26-35,Male,Homemaker,Lucknow,Independent House,Premium,No,Yes,Hobby
+U1772,36-45,Female,Student,Bangalore,Independent House,Budget,Yes,No,Personal Care
+U1773,26-35,Male,Student,Jaipur,Villa,Mid-Range,Yes,No,Pet
+U1774,36-45,Male,Student,Lucknow,Independent House,Mid-Range,Yes,Yes,Bathroom
+U1775,46-55,Male,Student,Bangalore,PG/Hostel,Budget,Yes,No,Decor
+U1776,18-25,Female,Working Professional,Pune,Independent House,Mid-Range,No,Yes,Fitness
+U1777,26-35,Male,Student,Bangalore,Apartment,Mid-Range,Yes,Yes,Cleaning
+U1778,46-55,Female,Working Professional,Chennai,Villa,Premium,No,No,Laundry
+U1779,26-35,Female,Working Professional,Delhi,Villa,Premium,No,Yes,Smart Home
+U1780,46-55,Female,Student,Delhi,Independent House,Budget,Yes,Yes,Kitchen
+U1781,55+,Female,Student,Lucknow,PG/Hostel,Budget,Yes,No,Climate
+U1782,26-35,Male,Working Professional,Kolkata,Apartment,Mid-Range,Yes,No,Entertainment
+U1783,26-35,Male,Retired,Ahmedabad,Independent House,Premium,No,No,Hobby
+U1784,36-45,Female,Student,Mumbai,Independent House,Mid-Range,No,No,Security
+U1785,46-55,Female,Homemaker,Jaipur,Apartment,Premium,No,Yes,Bathroom
+U1786,55+,Female,Student,Lucknow,Apartment,Budget,Yes,Yes,Bathroom
+U1787,55+,Female,Homemaker,Bangalore,Apartment,Mid-Range,Yes,No,Bathroom
+U1788,26-35,Female,Homemaker,Mumbai,Apartment,Premium,No,Yes,Networking
+U1789,55+,Male,Business Owner,Pune,PG/Hostel,Premium,No,Yes,Hobby
+U1790,36-45,Male,Working Professional,Chennai,Independent House,Premium,Yes,Yes,Security
+U1791,36-45,Female,Working Professional,Hyderabad,Independent House,Premium,No,No,Bathroom
+U1792,36-45,Female,Student,Ahmedabad,Independent House,Budget,No,No,Power
+U1793,26-35,Female,Working Professional,Mumbai,PG/Hostel,Premium,Yes,Yes,Networking
+U1794,26-35,Male,Homemaker,Mumbai,Independent House,Mid-Range,Yes,No,Pet
+U1795,55+,Male,Homemaker,Mumbai,Independent House,Premium,Yes,No,Kitchen
+U1796,26-35,Female,Working Professional,Kolkata,PG/Hostel,Mid-Range,Yes,Yes,Entertainment
+U1797,26-35,Female,Retired,Chennai,Apartment,Luxury,Yes,Yes,Outdoor
+U1798,36-45,Female,Homemaker,Kolkata,Independent House,Premium,No,No,Decor
+U1799,36-45,Female,Student,Ahmedabad,Independent House,Budget,No,Yes,Entertainment
+U1800,18-25,Female,Homemaker,Kolkata,Villa,Premium,Yes,No,Tools
+U1801,26-35,Female,Student,Hyderabad,Apartment,Budget,Yes,Yes,Fitness
+U1802,55+,Male,Working Professional,Mumbai,Apartment,Premium,Yes,Yes,Climate
+U1803,26-35,Male,Business Owner,Delhi,Apartment,Luxury,Yes,Yes,Entertainment
+U1804,26-35,Male,Working Professional,Kolkata,Independent House,Premium,Yes,No,Pet
+U1805,36-45,Female,Homemaker,Delhi,Villa,Mid-Range,No,No,Entertainment
+U1806,55+,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Laundry
+U1807,46-55,Female,Retired,Pune,Apartment,Mid-Range,No,No,Security
+U1808,55+,Male,Working Professional,Ahmedabad,Apartment,Premium,Yes,No,Fitness
+U1809,18-25,Male,Working Professional,Lucknow,Independent House,Mid-Range,Yes,Yes,Laundry
+U1810,36-45,Female,Business Owner,Delhi,Apartment,Luxury,No,No,Laundry
+U1811,46-55,Male,Business Owner,Hyderabad,Independent House,Luxury,Yes,No,Hobby
+U1812,26-35,Female,Student,Hyderabad,PG/Hostel,Budget,No,Yes,Entertainment
+U1813,18-25,Female,Business Owner,Delhi,Villa,Premium,Yes,Yes,Tools
+U1814,26-35,Male,Business Owner,Kolkata,Independent House,Premium,Yes,Yes,Power
+U1815,18-25,Female,Student,Kolkata,Apartment,Mid-Range,Yes,No,Laundry
+U1816,26-35,Female,Working Professional,Pune,Apartment,Mid-Range,Yes,Yes,Fitness
+U1817,46-55,Male,Student,Chennai,Apartment,Budget,Yes,Yes,Networking
+U1818,26-35,Male,Working Professional,Hyderabad,Villa,Premium,Yes,Yes,Power
+U1819,36-45,Male,Student,Mumbai,PG/Hostel,Budget,No,Yes,Outdoor
+U1820,26-35,Female,Student,Chennai,Independent House,Mid-Range,No,Yes,Personal Care
+U1821,36-45,Male,Student,Ahmedabad,Independent House,Mid-Range,Yes,Yes,Hobby
+U1822,26-35,Female,Working Professional,Jaipur,Apartment,Mid-Range,No,Yes,Networking
+U1823,55+,Female,Business Owner,Lucknow,Apartment,Luxury,Yes,No,Decor
+U1824,18-25,Male,Working Professional,Lucknow,Villa,Mid-Range,Yes,No,Entertainment
+U1825,18-25,Male,Working Professional,Mumbai,Independent House,Mid-Range,Yes,No,Tools
+U1826,18-25,Male,Working Professional,Ahmedabad,PG/Hostel,Mid-Range,No,Yes,Smart Home
+U1827,18-25,Female,Business Owner,Ahmedabad,Apartment,Luxury,No,Yes,Entertainment
+U1828,46-55,Other,Student,Bangalore,Independent House,Budget,Yes,No,Decor
+U1829,26-35,Male,Working Professional,Pune,Villa,Premium,Yes,No,Fitness
+U1830,18-25,Male,Homemaker,Ahmedabad,Villa,Mid-Range,No,No,Bathroom
+U1831,26-35,Female,Working Professional,Bangalore,Independent House,Mid-Range,Yes,No,Entertainment
+U1832,18-25,Male,Working Professional,Mumbai,Independent House,Premium,No,Yes,Tools
+U1833,18-25,Male,Working Professional,Ahmedabad,PG/Hostel,Premium,Yes,No,Kitchen
+U1834,55+,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,No,No,Pet
+U1835,18-25,Female,Working Professional,Lucknow,Independent House,Premium,Yes,Yes,Personal Care
+U1836,55+,Female,Working Professional,Lucknow,Independent House,Mid-Range,Yes,No,Bathroom
+U1837,36-45,Male,Working Professional,Jaipur,Independent House,Premium,No,No,Outdoor
+U1838,36-45,Male,Retired,Chennai,Apartment,Mid-Range,No,No,Personal Care
+U1839,26-35,Male,Working Professional,Mumbai,PG/Hostel,Mid-Range,Yes,Yes,Entertainment
+U1840,55+,Male,Retired,Bangalore,PG/Hostel,Premium,No,No,Laundry
+U1841,36-45,Female,Working Professional,Jaipur,PG/Hostel,Mid-Range,Yes,No,Networking
+U1842,26-35,Female,Working Professional,Delhi,Independent House,Premium,No,No,Decor
+U1843,18-25,Female,Business Owner,Kolkata,Independent House,Premium,No,Yes,Power
+U1844,18-25,Male,Homemaker,Pune,Apartment,Mid-Range,Yes,No,Personal Care
+U1845,36-45,Female,Working Professional,Mumbai,Apartment,Premium,Yes,No,Hobby
+U1846,26-35,Other,Student,Chennai,Independent House,Mid-Range,No,Yes,Tools
+U1847,36-45,Male,Working Professional,Hyderabad,Villa,Premium,Yes,Yes,Pet
+U1848,26-35,Female,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,No,Networking
+U1849,46-55,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Personal Care
+U1850,18-25,Female,Business Owner,Hyderabad,Apartment,Premium,Yes,No,Personal Care
+U1851,18-25,Female,Homemaker,Mumbai,Apartment,Premium,Yes,No,Pet
+U1852,26-35,Female,Working Professional,Delhi,Villa,Mid-Range,Yes,Yes,Cleaning
+U1853,18-25,Male,Homemaker,Delhi,Apartment,Premium,No,Yes,Security
+U1854,26-35,Female,Business Owner,Kolkata,Independent House,Premium,Yes,Yes,Security
+U1855,26-35,Male,Working Professional,Bangalore,Independent House,Mid-Range,Yes,Yes,Entertainment
+U1856,18-25,Male,Homemaker,Mumbai,Apartment,Mid-Range,No,Yes,Smart Home
+U1857,26-35,Male,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,No,Cleaning
+U1858,36-45,Male,Homemaker,Chennai,Independent House,Mid-Range,Yes,Yes,Power
+U1859,18-25,Male,Working Professional,Jaipur,PG/Hostel,Premium,Yes,No,Hobby
+U1860,26-35,Male,Working Professional,Delhi,Apartment,Premium,Yes,No,Entertainment
+U1861,36-45,Male,Student,Hyderabad,Independent House,Budget,Yes,Yes,Entertainment
+U1862,26-35,Female,Homemaker,Chennai,Apartment,Premium,Yes,No,Pet
+U1863,36-45,Female,Student,Ahmedabad,Apartment,Budget,Yes,Yes,Hobby
+U1864,26-35,Female,Homemaker,Pune,Villa,Premium,Yes,Yes,Networking
+U1865,36-45,Male,Working Professional,Mumbai,Apartment,Mid-Range,Yes,Yes,Bathroom
+U1866,26-35,Female,Working Professional,Lucknow,Apartment,Premium,Yes,Yes,Outdoor
+U1867,26-35,Female,Working Professional,Pune,Independent House,Premium,No,Yes,Climate
+U1868,36-45,Female,Working Professional,Chennai,Apartment,Premium,No,No,Kitchen
+U1869,46-55,Male,Working Professional,Bangalore,Independent House,Mid-Range,No,Yes,Entertainment
+U1870,36-45,Female,Student,Ahmedabad,Apartment,Mid-Range,No,No,Climate
+U1871,26-35,Male,Student,Delhi,Independent House,Budget,Yes,No,Decor
+U1872,26-35,Male,Homemaker,Delhi,Villa,Mid-Range,Yes,Yes,Pet
+U1873,36-45,Male,Business Owner,Pune,Apartment,Luxury,Yes,Yes,Fitness
+U1874,26-35,Female,Working Professional,Bangalore,Apartment,Premium,No,No,Laundry
+U1875,18-25,Male,Business Owner,Kolkata,Independent House,Luxury,Yes,Yes,Climate
+U1876,36-45,Male,Business Owner,Kolkata,Apartment,Premium,Yes,No,Bathroom
+U1877,36-45,Male,Retired,Hyderabad,Apartment,Luxury,No,Yes,Security
+U1878,36-45,Female,Retired,Mumbai,Villa,Mid-Range,No,Yes,Entertainment
+U1879,18-25,Female,Student,Mumbai,PG/Hostel,Budget,No,Yes,Entertainment
+U1880,26-35,Female,Working Professional,Ahmedabad,Apartment,Premium,Yes,No,Fitness
+U1881,26-35,Female,Working Professional,Hyderabad,Independent House,Mid-Range,No,Yes,Entertainment
+U1882,26-35,Female,Homemaker,Bangalore,Independent House,Mid-Range,Yes,Yes,Fitness
+U1883,36-45,Male,Working Professional,Mumbai,Apartment,Premium,No,No,Kitchen
+U1884,26-35,Female,Working Professional,Lucknow,Independent House,Premium,No,Yes,Networking
+U1885,46-55,Male,Working Professional,Delhi,Apartment,Mid-Range,Yes,Yes,Fitness
+U1886,18-25,Female,Student,Bangalore,Villa,Budget,Yes,Yes,Bathroom
+U1887,18-25,Female,Student,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Security
+U1888,46-55,Female,Homemaker,Delhi,Apartment,Premium,Yes,No,Power
+U1889,36-45,Female,Working Professional,Jaipur,Apartment,Mid-Range,Yes,Yes,Fitness
+U1890,18-25,Female,Working Professional,Jaipur,PG/Hostel,Premium,No,Yes,Bathroom
+U1891,36-45,Male,Homemaker,Hyderabad,Independent House,Premium,No,Yes,Kitchen
+U1892,36-45,Female,Business Owner,Bangalore,Apartment,Luxury,No,Yes,Power
+U1893,46-55,Male,Student,Kolkata,Independent House,Budget,Yes,No,Kitchen
+U1894,18-25,Male,Homemaker,Ahmedabad,Apartment,Premium,Yes,Yes,Pet
+U1895,36-45,Female,Homemaker,Mumbai,Independent House,Mid-Range,No,No,Tools
+U1896,36-45,Male,Working Professional,Delhi,Apartment,Premium,Yes,Yes,Smart Home
+U1897,36-45,Male,Homemaker,Hyderabad,Independent House,Mid-Range,Yes,No,Kitchen
+U1898,36-45,Male,Student,Lucknow,PG/Hostel,Budget,Yes,No,Tools
+U1899,36-45,Male,Business Owner,Mumbai,Villa,Premium,Yes,Yes,Power
+U1900,26-35,Other,Student,Mumbai,Apartment,Mid-Range,Yes,Yes,Outdoor
+U1901,36-45,Female,Student,Pune,Villa,Budget,No,No,Bathroom
+U1902,26-35,Male,Homemaker,Pune,Independent House,Mid-Range,No,No,Entertainment
+U1903,26-35,Male,Working Professional,Pune,Apartment,Mid-Range,Yes,No,Hobby
+U1904,55+,Male,Working Professional,Mumbai,Apartment,Mid-Range,Yes,No,Power
+U1905,26-35,Other,Homemaker,Bangalore,Apartment,Premium,Yes,Yes,Kitchen
+U1906,46-55,Male,Working Professional,Hyderabad,Independent House,Mid-Range,No,No,Personal Care
+U1907,36-45,Female,Homemaker,Ahmedabad,Apartment,Premium,No,Yes,Networking
+U1908,55+,Female,Homemaker,Mumbai,Independent House,Premium,No,No,Pet
+U1909,26-35,Female,Retired,Hyderabad,Apartment,Mid-Range,No,Yes,Entertainment
+U1910,26-35,Male,Homemaker,Delhi,Apartment,Premium,No,Yes,Outdoor
+U1911,26-35,Male,Working Professional,Ahmedabad,Apartment,Mid-Range,Yes,Yes,Outdoor
+U1912,18-25,Female,Homemaker,Delhi,Apartment,Mid-Range,Yes,Yes,Kitchen
+U1913,26-35,Male,Homemaker,Bangalore,Apartment,Mid-Range,No,Yes,Climate
+U1914,18-25,Female,Business Owner,Ahmedabad,PG/Hostel,Luxury,No,Yes,Hobby
+U1915,36-45,Male,Homemaker,Mumbai,Independent House,Premium,Yes,Yes,Fitness
+U1916,18-25,Female,Homemaker,Ahmedabad,Independent House,Mid-Range,Yes,No,Smart Home
+U1917,26-35,Female,Working Professional,Delhi,Independent House,Premium,Yes,Yes,Decor
+U1918,46-55,Female,Working Professional,Lucknow,Independent House,Mid-Range,No,Yes,Laundry
+U1919,46-55,Female,Working Professional,Bangalore,Independent House,Mid-Range,No,Yes,Personal Care
+U1920,36-45,Male,Retired,Kolkata,Apartment,Luxury,No,Yes,Cleaning
+U1921,55+,Female,Working Professional,Pune,Independent House,Mid-Range,Yes,No,Cleaning
+U1922,18-25,Female,Homemaker,Delhi,Apartment,Mid-Range,Yes,Yes,Pet
+U1923,26-35,Male,Business Owner,Hyderabad,PG/Hostel,Luxury,Yes,Yes,Smart Home
+U1924,26-35,Female,Homemaker,Hyderabad,Independent House,Premium,No,Yes,Decor
+U1925,26-35,Male,Homemaker,Mumbai,Apartment,Premium,No,No,Entertainment
+U1926,55+,Female,Homemaker,Pune,Apartment,Mid-Range,No,No,Pet
+U1927,18-25,Female,Student,Pune,PG/Hostel,Budget,No,No,Tools
+U1928,36-45,Male,Business Owner,Hyderabad,Apartment,Premium,No,No,Fitness
+U1929,26-35,Male,Working Professional,Chennai,Villa,Premium,Yes,Yes,Kitchen
+U1930,26-35,Male,Retired,Kolkata,Villa,Premium,Yes,No,Cleaning
+U1931,36-45,Male,Retired,Jaipur,Independent House,Premium,Yes,No,Personal Care
+U1932,55+,Male,Student,Delhi,Apartment,Budget,No,No,Outdoor
+U1933,55+,Female,Working Professional,Hyderabad,Apartment,Mid-Range,Yes,No,Climate
+U1934,18-25,Male,Business Owner,Kolkata,Independent House,Premium,Yes,Yes,Pet
+U1935,55+,Female,Working Professional,Jaipur,Apartment,Mid-Range,No,No,Kitchen
+U1936,36-45,Female,Student,Pune,Apartment,Budget,No,No,Smart Home
+U1937,26-35,Male,Homemaker,Bangalore,Independent House,Mid-Range,No,No,Climate
+U1938,26-35,Male,Homemaker,Delhi,Independent House,Premium,No,No,Decor
+U1939,18-25,Male,Working Professional,Ahmedabad,Independent House,Mid-Range,No,No,Cleaning
+U1940,26-35,Female,Business Owner,Mumbai,Apartment,Premium,Yes,No,Fitness
+U1941,36-45,Male,Student,Lucknow,Independent House,Budget,Yes,Yes,Tools
+U1942,36-45,Male,Homemaker,Pune,Apartment,Mid-Range,No,Yes,Outdoor
+U1943,18-25,Female,Homemaker,Ahmedabad,Independent House,Mid-Range,No,Yes,Fitness
+U1944,26-35,Male,Working Professional,Pune,Apartment,Premium,No,Yes,Smart Home
+U1945,26-35,Female,Business Owner,Bangalore,Independent House,Premium,Yes,Yes,Personal Care
+U1946,26-35,Female,Student,Kolkata,Apartment,Mid-Range,Yes,No,Fitness
+U1947,55+,Male,Working Professional,Lucknow,Villa,Premium,No,No,Hobby
+U1948,18-25,Female,Homemaker,Delhi,Apartment,Mid-Range,Yes,Yes,Fitness
+U1949,26-35,Female,Homemaker,Ahmedabad,Apartment,Mid-Range,No,Yes,Hobby
+U1950,55+,Male,Student,Jaipur,Apartment,Mid-Range,Yes,Yes,Outdoor
+U1951,18-25,Other,Student,Hyderabad,Apartment,Mid-Range,Yes,Yes,Pet
+U1952,18-25,Female,Student,Hyderabad,PG/Hostel,Budget,No,No,Networking
+U1953,26-35,Male,Student,Kolkata,Apartment,Mid-Range,No,Yes,Pet
+U1954,18-25,Male,Working Professional,Pune,Independent House,Mid-Range,No,Yes,Decor
+U1955,26-35,Female,Retired,Chennai,Independent House,Luxury,No,No,Fitness
+U1956,26-35,Male,Working Professional,Mumbai,Independent House,Mid-Range,No,Yes,Security
+U1957,26-35,Female,Business Owner,Bangalore,Apartment,Premium,No,No,Bathroom
+U1958,36-45,Male,Student,Pune,Apartment,Mid-Range,Yes,No,Fitness
+U1959,26-35,Male,Business Owner,Jaipur,Independent House,Premium,No,Yes,Pet
+U1960,36-45,Male,Homemaker,Lucknow,PG/Hostel,Mid-Range,No,No,Pet
+U1961,36-45,Male,Working Professional,Kolkata,Independent House,Mid-Range,No,No,Fitness
+U1962,46-55,Female,Homemaker,Delhi,Independent House,Mid-Range,No,Yes,Hobby
+U1963,18-25,Male,Student,Chennai,Independent House,Mid-Range,No,Yes,Smart Home
+U1964,46-55,Female,Working Professional,Delhi,Apartment,Mid-Range,Yes,No,Entertainment
+U1965,26-35,Male,Working Professional,Lucknow,Apartment,Mid-Range,No,No,Kitchen
+U1966,18-25,Male,Working Professional,Mumbai,Independent House,Premium,No,Yes,Cleaning
+U1967,26-35,Male,Retired,Pune,Apartment,Luxury,Yes,No,Laundry
+U1968,26-35,Female,Student,Hyderabad,Apartment,Mid-Range,Yes,Yes,Pet
+U1969,55+,Female,Business Owner,Mumbai,Independent House,Luxury,Yes,No,Security
+U1970,36-45,Female,Working Professional,Delhi,Apartment,Mid-Range,Yes,No,Hobby
+U1971,18-25,Female,Working Professional,Chennai,PG/Hostel,Mid-Range,Yes,Yes,Kitchen
+U1972,18-25,Male,Business Owner,Pune,Apartment,Luxury,No,Yes,Hobby
+U1973,26-35,Male,Working Professional,Mumbai,Independent House,Premium,Yes,Yes,Kitchen
+U1974,46-55,Female,Working Professional,Kolkata,PG/Hostel,Mid-Range,Yes,Yes,Cleaning
+U1975,36-45,Male,Working Professional,Bangalore,PG/Hostel,Mid-Range,Yes,No,Power
+U1976,36-45,Male,Working Professional,Pune,PG/Hostel,Mid-Range,No,Yes,Security
+U1977,18-25,Male,Retired,Jaipur,PG/Hostel,Mid-Range,No,No,Tools
+U1978,26-35,Female,Working Professional,Jaipur,Apartment,Mid-Range,Yes,Yes,Entertainment
+U1979,36-45,Male,Student,Pune,Apartment,Budget,Yes,Yes,Smart Home
+U1980,36-45,Male,Student,Hyderabad,Apartment,Budget,Yes,No,Entertainment
+U1981,36-45,Male,Homemaker,Chennai,Apartment,Premium,No,No,Networking
+U1982,55+,Female,Working Professional,Ahmedabad,PG/Hostel,Premium,No,No,Bathroom
+U1983,46-55,Female,Student,Hyderabad,PG/Hostel,Mid-Range,Yes,Yes,Decor
+U1984,36-45,Male,Working Professional,Delhi,Apartment,Premium,Yes,No,Outdoor
+U1985,36-45,Male,Homemaker,Hyderabad,Independent House,Mid-Range,No,Yes,Cleaning
+U1986,26-35,Female,Homemaker,Lucknow,Apartment,Premium,No,No,Hobby
+U1987,26-35,Female,Student,Kolkata,Independent House,Mid-Range,Yes,Yes,Kitchen
+U1988,55+,Female,Working Professional,Bangalore,Apartment,Premium,No,No,Decor
+U1989,36-45,Female,Student,Chennai,Independent House,Mid-Range,No,No,Bathroom
+U1990,36-45,Male,Business Owner,Kolkata,Apartment,Luxury,Yes,Yes,Smart Home
+U1991,46-55,Male,Working Professional,Bangalore,Independent House,Premium,Yes,Yes,Networking
+U1992,36-45,Male,Student,Bangalore,Apartment,Mid-Range,No,Yes,Smart Home
+U1993,26-35,Other,Business Owner,Pune,Independent House,Premium,Yes,Yes,Smart Home
+U1994,18-25,Female,Business Owner,Jaipur,Apartment,Premium,Yes,Yes,Tools
+U1995,55+,Female,Homemaker,Delhi,Independent House,Mid-Range,No,No,Kitchen
+U1996,26-35,Female,Working Professional,Kolkata,Apartment,Premium,Yes,Yes,Tools
+U1997,26-35,Female,Business Owner,Ahmedabad,Independent House,Premium,Yes,No,Fitness
+U1998,46-55,Female,Business Owner,Delhi,Apartment,Premium,Yes,No,Pet
+U1999,26-35,Male,Working Professional,Lucknow,Apartment,Mid-Range,Yes,Yes,Security
+U2000,26-35,Female,Working Professional,Chennai,Apartment,Premium,Yes,No,Power
