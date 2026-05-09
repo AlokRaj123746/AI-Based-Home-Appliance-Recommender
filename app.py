@@ -1,17 +1,3 @@
-"""
-=============================================================
-  AI-Based Home Appliance Recommender
-  Phase 4 · Step 11: Professional Streamlit UI
-=============================================================
-  Features:
-    • AI Engine (Content + Collaborative + ML)
-    • Dark professional theme
-    • Unique product recommendations (no duplicate appliances)
-    • AI Chatbot tab for natural language queries
-    • Download recommendations as CSV
-=============================================================
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -21,19 +7,14 @@ from sklearn.preprocessing import LabelEncoder
 import warnings
 warnings.filterwarnings("ignore")
 
-# ─────────────────────────────────────────────
 # PAGE CONFIG
-# ─────────────────────────────────────────────
 st.set_page_config(
     page_title="AI Based Home Appliance Recommender",
     page_icon="🏠",
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
-# ─────────────────────────────────────────────
 # CUSTOM CSS
-# ─────────────────────────────────────────────
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap');
@@ -86,7 +67,6 @@ html, body, [class*="css"] {
     border-radius: 8px !important;
 }
 .stSlider > div { color: var(--text-primary) !important; }
-
 /* ── Header ── */
 .app-header {
     background: linear-gradient(135deg, #0D1F3C 0%, #0D2818 100%);
@@ -239,7 +219,7 @@ html, body, [class*="css"] {
     border-left: 2px solid var(--accent-teal);
     line-height: 1.6;
 }
-            /* ── Best Match Badge ── */
+            
 .best-badge {
     display: inline-block;
     background: rgba(227,160,0,0.15);
@@ -251,8 +231,23 @@ html, body, [class*="css"] {
     font-weight: 600;
     margin-bottom: 6px;
 }
-
-            
+.rec-search-label {
+    font-size: 10px; color: var(--text-secondary);
+    text-transform: uppercase; letter-spacing: 0.06em;
+    margin-top: 10px; margin-bottom: 3px;
+}
+.rec-search-tag {
+    display: inline-block; font-size: 12px;
+    padding: 5px 12px; border-radius: 6px;
+    background: rgba(24,95,165,0.12); color: #4D9EDE;
+    border: 1px solid rgba(24,95,165,0.3);
+    font-family: monospace; letter-spacing: 0.02em;
+    word-break: break-all; margin-top: 4px;
+}
+.rec-copy-hint {
+    font-size: 10px; color: var(--text-secondary);
+    margin-top: 4px; font-style: italic;
+}            
 /* ── Stats Row ── */
 .stats-row {
     display: grid;
@@ -350,6 +345,23 @@ html, body, [class*="css"] {
     color: #1D9E75; border: 1px solid rgba(29,158,117,0.25);
     margin: 4px 4px 0 0;
 }
+.search-label {
+    font-size: 10px; color: var(--text-secondary);
+    text-transform: uppercase; letter-spacing: 0.06em;
+    margin-top: 8px; margin-bottom: 3px;
+}
+.search-tag {
+    display: inline-block; font-size: 12px;
+    padding: 5px 12px; border-radius: 6px;
+    background: rgba(24,95,165,0.12); color: #4D9EDE;
+    border: 1px solid rgba(24,95,165,0.3);
+    font-family: monospace; letter-spacing: 0.02em;
+    word-break: break-all; margin-top: 4px;
+}
+.copy-hint {
+    font-size: 10px; color: var(--text-secondary);
+    margin-top: 4px; font-style: italic;
+}
 /* ── Empty State ── */
 .empty-state {
     text-align: center;
@@ -389,11 +401,7 @@ html, body, [class*="css"] {
 hr { border-color: var(--border) !important; }
 </style>
 """, unsafe_allow_html=True)
-
-
-# ─────────────────────────────────────────────
 # LOAD DATA & MODEL
-# ─────────────────────────────────────────────
 @st.cache_resource
 def load_model():
     return joblib.load("ml_model.pkl")
@@ -410,9 +418,7 @@ FEATURES   = model_data["feature_cols"]
 MAPS       = model_data.get("encoding_maps", {})
 MEANS      = model_data.get("col_means", {})
 df, df_inter = load_data()
-# ─────────────────────────────────────────────
 # FEATURE ENGINEERING (for predict function)
-# ─────────────────────────────────────────────
 @st.cache_data
 def get_encoding_maps():
     le   = LabelEncoder()
@@ -431,11 +437,7 @@ def get_encoding_maps():
     return maps
 
 ENC_MAPS = get_encoding_maps()
-
-
-# ─────────────────────────────────────────────
 # PREDICT PURCHASE SCORE
-# ─────────────────────────────────────────────
 def predict_purchase_score(gender, budget, category, price, rating, smart, eco):
     def yn(v): return 1 if v == "Yes" else 0
     def enc(col, val): return ENC_MAPS.get(col, {}).get(str(val), 0)
@@ -506,11 +508,7 @@ def predict_purchase_score(gender, budget, category, price, rating, smart, eco):
     input_df = pd.DataFrame([row])[FEATURES]
     prob     = ml_model.predict_proba(input_df)[0][1]
     return round(prob * 100, 1)
-
-
-# ─────────────────────────────────────────────
 # CONTENT-BASED RECOMMENDATION
-# ─────────────────────────────────────────────
 def get_recommendations(gender, budget, category,
                         eco_conscious="No", smart_home_interest="No", top_n=5):
     budget_map = {"Budget":1,"Mid-Range":2,"Premium":3,"Luxury":4}
@@ -578,14 +576,12 @@ def get_recommendations(gender, budget, category,
 
     top["Match_Pct"] = (top["Content_Score"] / top["Content_Score"].max() * 100).round(1)
     return top
-# ─────────────────────────────────────────────
 # CHATBOT FUNCTIONS
-# ─────────────────────────────────────────────
 def parse_chatbot_query(query):
     import re
     q = query.lower().strip()
  
-    # ── Extract price limit ──────────────────────────────
+    #  Extract price limit
     price_limit = None
     mk = re.search(r"(\d+)k\b", q)
     if mk:
@@ -603,7 +599,7 @@ def parse_chatbot_query(query):
                 price_limit = int(m.group(1).replace(",", ""))
                 break
  
-    # ── Extract budget segment ───────────────────────────
+    #Extract budget segment
     budget_seg = None
     if any(w in q for w in ["luxury", "high end", "flagship"]):
         budget_seg = "Luxury"
@@ -614,12 +610,9 @@ def parse_chatbot_query(query):
     elif any(w in q for w in ["budget", "cheap", "affordable", "economical", "low cost"]):
         budget_seg = "Budget"
  
-    # ── APPLIANCE-LEVEL keyword map (KEY FIX) ────────────
-    # Maps user keywords to EXACT Home_Appliance names in dataset
-    # This prevents "best AC" from returning fans and heaters
+    # ── APPLIANCE-LEVEL keyword map (KEY FIX) 
     APPLIANCE_KEYWORDS = {
-        # Air conditioning — most important fix
-        "Air Conditioner":          ["ac", "air conditioner", "air conditioning", "split ac", "inverter ac"],
+        "Air Conditioner":          [" ac ", "air conditioner", "air conditioning", "split ac", "inverter ac"],
         "Smart Air Conditioner":    ["smart ac", "wifi ac", "iot ac"],
         "Portable Air Conditioner": ["portable ac", "portable air conditioner"],
         "Central Air Conditioner":  ["central ac", "central air conditioner"],
@@ -691,14 +684,19 @@ def parse_chatbot_query(query):
         "Pet":           ["pet", "dog", "cat", "animal"],
         "Outdoor":       ["outdoor", "garden", "lawn"],
     }
- 
-    # ── STEP 1: Match specific appliance name ────────────
     matched_appliances = []
     for appliance_name, keywords in APPLIANCE_KEYWORDS.items():
-        if any(kw in q for kw in keywords):
-            matched_appliances.append(appliance_name)
- 
-    # ── STEP 2: Fallback to category if no match ─────────
+        for kw in keywords:
+            if len(kw) <= 3:
+                # Short keywords need exact word boundary match
+                if re.search(r'\b' + re.escape(kw) + r'\b', q):
+                    matched_appliances.append(appliance_name)
+                    break
+            else:
+                # Longer keywords can use simple substring match
+                if kw in q:
+                    matched_appliances.append(appliance_name)
+                    break
     detected_cat = None
     if not matched_appliances:
         for cat, kws in CATEGORY_KEYWORDS.items():
@@ -709,7 +707,7 @@ def parse_chatbot_query(query):
     want_smart = any(w in q for w in ["smart", "wifi", "app control", "voice", "iot", "connected"])
     want_eco   = any(w in q for w in ["eco", "energy saving", "green", "efficient", "5 star", "star rating"])
  
-    # ── Filter dataset ───────────────────────────────────
+    #Filter dataset 
     results = df.copy()
  
     if matched_appliances:
@@ -734,7 +732,7 @@ def parse_chatbot_query(query):
  
     results = (results
                .sort_values("User_Rating", ascending=False)
-               .drop_duplicates(subset="Home_Appliance", keep="first")
+               .drop_duplicates(subset=["Home_Appliance", "Company"], keep="first")
                .head(5)
                .reset_index(drop=True))
  
@@ -778,16 +776,10 @@ def generate_bot_response(query, results, parsed):
  
     parts.append(f"— **{len(results)} products** found:")
     return " ".join(parts)
-# ─────────────────────────────────────────────
 # SESSION STATE
-# ─────────────────────────────────────────────
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
-
-
-# ─────────────────────────────────────────────
 # SIDEBAR
-# ─────────────────────────────────────────────
 with st.sidebar:
     st.markdown("### ⚙️ Your Preferences")
     st.markdown("---")
@@ -818,7 +810,7 @@ with st.sidebar:
     st.markdown("---")
     recommend_btn = st.button("🔍 Get Recommendations", use_container_width=True)
 
-    # ── Model info ──────────────────────────────
+    #Model info
     st.markdown("""
     <div class="model-info">
         <div class="model-info-title">🤖AI Model Info</div>
@@ -848,22 +840,12 @@ with st.sidebar:
         </div>
         <div class="model-metric">
             <span class="metric-name">✦ Collabrative Filtering</span>
-        </div>
-        
-        
+        </div> 
     </div>
     """, unsafe_allow_html=True)
-   
-
-# ─────────────────────────────────────────────
 # MAIN AREA — TABS
-# ─────────────────────────────────────────────
 tab1, tab2 = st.tabs(["  🏠  Recommendations  ", "  💬  AI Chatbot  "])
-
-
-# ══════════════════════════════════════════════
 # TAB 1 — RECOMMENDATIONS
-# ══════════════════════════════════════════════
 with tab1:
 
     # Header
@@ -901,7 +883,7 @@ with tab1:
     </div>
 """, unsafe_allow_html=True)
 
-    # ── RESULTS ──────────────────────────────────
+    # RESULTS
     if recommend_btn:
         if (
             gender == "Select Gender" or
@@ -922,7 +904,7 @@ with tab1:
                 </div>
                 """, unsafe_allow_html=True)
             else:
-                # ── Summary bar ──────────────────────────────
+                # ── Summary bar 
                 avg_price   = int(results["Price_INR"].mean())
                 avg_rating_ = round(results["User_Rating"].mean(), 1)
                 smart_count = int(results["Smart_Feature"].eq("Yes").sum())
@@ -948,17 +930,14 @@ with tab1:
                 </div>
                 """, unsafe_allow_html=True)
 
-                # ── Results label ─────────────────────────────
+                # ── Results label 
                 st.markdown(f"""
                 <div class="section-label">
                     Top {len(results)} recommendations · {category} · {budget} · {gender}
                 </div>
                 """, unsafe_allow_html=True)
 
-                # ── Product Cards ─────────────────────────────
-                # FIX: Build ALL cards as ONE html string and render once.
-                # Streamlit strips nested HTML when st.markdown() is called
-                # multiple times in a loop — one single call fixes the bug.
+                # ── Product Cards 
 
                 why_templates = {
                     "Budget":    "Best value for money · Popular among budget-conscious buyers",
@@ -1034,14 +1013,21 @@ with tab1:
                         f'<div class="match-bar-bg"><div class="match-bar-fill" style="width:{match_w}%"></div></div>' +
                         f'</div></div>' +
                         f'<div class="pills" style="margin-top:12px">{pills_html}</div>' +
+                        f'<div class="rec-search-label">&#128269; Google search model</div>' +
+                        f'<div style="margin-top:10px">' +
+                        f'<a href="https://www.google.com/search?q={row.Company.replace(" ", "+")}+{row.Home_Appliance.replace(" ", "+")}&tbm=isch" target="_blank" ' +
+                        f'style="font-size:11px;color:#4D9EDE;text-decoration:none;padding:5px 12px;' +
+                        f'border:1px solid rgba(24,95,165,0.35);border-radius:6px;white-space:nowrap">' +
+                        f'&#128247; View on Google</a>' +
                         f'<div class="why-box">&#128161; <strong>Why recommended:</strong> {why_text}</div>' +
+                        f'</div>' +
                         '</div>'
                     )
 
                 # Render ALL cards in ONE single markdown call — this is the fix
                 st.markdown(all_cards_html, unsafe_allow_html=True)
 
-                # ── Download button ───────────────────────────
+                # ── Download button 
                 st.markdown("---")
                 download_df = results[[
                     "Home_Appliance","Company","Category","Budget_Segment",
@@ -1099,9 +1085,7 @@ with tab1:
         st.markdown(steps_html, unsafe_allow_html=True)
 
 
-# ══════════════════════════════════════════════
 # TAB 2 — CHATBOT
-# ══════════════════════════════════════════════
 with tab2:
     st.markdown("""
     <div class="app-header" style="margin-bottom:1.5rem">
@@ -1117,7 +1101,7 @@ with tab2:
     st.markdown('<div class="section-label">Quick Suggestions — click to try</div>',
                 unsafe_allow_html=True)
     hints = [
-        "Best AC",
+        "Best Air Conditioner",
         "Smart washing machine mid-range",
         "Eco-friendly refrigerator",
         "Budget vacuum cleaner",
@@ -1160,19 +1144,34 @@ with tab2:
                              if rr.Smart_Feature=="Yes" else ""
                         ep = '<span class="chat-pill">&#127807; Eco</span>' \
                              if rr.Eco_Friendly=="Yes" else ""
+                        google_query = f"{rr.Company} {rr.Home_Appliance}"
+                        google_url   = "https://www.google.com/search?q=" + google_query.replace(' ', '+') + "&tbm=isch"
+
                         cards += (
                             f'<div class="chat-result-card">'
-                            f'<div><div class="cr-name">#{rc} {rr.Home_Appliance}</div>'
+                            f'<div style="flex:1;min-width:0">'
+                            f'<div class="cr-name">#{rc} {rr.Home_Appliance}</div>'
                             f'<div class="cr-brand">by {rr.Company}</div>'
                             f'<div style="margin-top:5px">'
                             f'<span class="chat-pill">&#11088; {rr.User_Rating}</span>'
                             f'<span class="chat-pill">&#9889; {rr.Energy_Rating}</span>'
-                            f'{sp}{ep}</div></div>'
-                            f'<div style="text-align:right">'
+                            f'{sp}{ep}</div>'
+                            f'<div class="search-label">&#128269; Google search model</div>'
+                            f'<div class="search-tag">{google_query}</div>'
+                            f'<div class="copy-hint">Copy &amp; search on Google Images to see this product</div>'
+                            f'</div>'
+                            f'<div style="text-align:right;flex-shrink:0;padding-left:12px">'
                             f'<div class="cr-price">&#8377;{int(rr.Price_INR):,}</div>'
                             f'<div class="cr-rating">{int(rr.Warranty_Years)}yr warranty</div>'
-                            f'</div></div>'
+                            f'<div style="margin-top:10px">'
+                            f'<a href="{google_url}" target="_blank" '
+                            f'style="font-size:11px;color:#4D9EDE;text-decoration:none;'
+                            f'padding:5px 10px;border:1px solid rgba(24,95,165,0.35);'
+                            f'border-radius:6px;white-space:nowrap">'
+                            f'&#128247; View on Google</a>'
+                            f'</div></div></div>'
                         )
+
                     st.markdown(cards, unsafe_allow_html=True)
         st.markdown("---")
 
