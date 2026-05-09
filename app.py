@@ -1,8 +1,23 @@
+"""
+=============================================================
+  AI-Based Home Appliance Recommender
+  Phase 4 · Step 11: Professional Streamlit UI
+=============================================================
+  Features:
+    • AI Engine (Content + Collaborative + ML)
+    • Dark professional theme
+    • Unique product recommendations (no duplicate appliances)
+    • AI Chatbot tab for natural language queries
+    • Download recommendations as CSV
+=============================================================
+"""
+
 import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
 import re
+import streamlit.components.v1 as components
 from sklearn.preprocessing import LabelEncoder
 import warnings
 warnings.filterwarnings("ignore")
@@ -339,6 +354,17 @@ html, body, [class*="css"] {
 .cr-brand { font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
 .cr-price { font-size: 16px; font-weight: 700; color: var(--text-primary); }
 .cr-rating{ font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
+.chat-why-box {
+    background: var(--bg-secondary);
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin-top: 10px;
+    font-size: 12px;
+    color: var(--text-secondary);
+    border-left: 2px solid var(--accent-teal);
+    line-height: 1.6;
+    width: 100%;
+}
 .chat-pill {
     display: inline-block; font-size: 11px; padding: 2px 8px;
     border-radius: 10px; background: rgba(29,158,117,0.12);
@@ -893,7 +919,38 @@ with tab1:
         ):
             st.warning("⚠️ Please select all preferences before getting recommendations.")
         else:
+            speech_text = (
+                f"Analysing your preferences. "
+                # f"Looking for the best {category} appliances "
+                # f"in the {budget} budget range. "
+                # f"Our AI engine is scanning {total_products} products "
+                # f"to find your perfect match. Please wait."
+            )
+            components.html(f"""
+            <script>
+                var msg = new SpeechSynthesisUtterance("{speech_text}");
+                msg.rate = 0.92;
+                msg.pitch = 1.1;
+                msg.volume = 1;
+                window.speechSynthesis.cancel();
+                function speak() {{
+                    var voices = window.speechSynthesis.getVoices();
+                    var preferred = voices.find(v => v.lang === 'en-IN') ||
+                                    voices.find(v => v.name.includes('Google')) ||
+                                    voices[0];
+                    if (preferred) msg.voice = preferred;
+                    window.speechSynthesis.speak(msg);
+                }}
+                if (window.speechSynthesis.getVoices().length === 0) {{
+                    window.speechSynthesis.onvoiceschanged = speak;
+                }} else {{
+                    speak();
+                }}
+            </script>
+            """, height=0)
+            import time
             with st.spinner("🤖 AI is analysing your preferences..."):
+                time.sleep(3)
                 results = get_recommendations(gender, budget, category,eco_conscious, smart_home, top_n)
 
             if results.empty:
@@ -1012,15 +1069,17 @@ with tab1:
                         f'<div class="card-match">Match: {row.Match_Pct}%</div>' +
                         f'<div class="match-bar-bg"><div class="match-bar-fill" style="width:{match_w}%"></div></div>' +
                         f'</div></div>' +
-                        f'<div class="pills" style="margin-top:12px">{pills_html}</div>' +
-                        f'<div class="rec-search-label">&#128269; Google search model</div>' +
-                        f'<div style="margin-top:10px">' +
+                        f'<div style="display:flex;align-items:center;justify-content:space-between;margin-top:12px">' +
+                        f'<div style="display:flex;flex-wrap:wrap;gap:6px">{pills_html}</div>' +
                         f'<a href="https://www.google.com/search?q={row.Company.replace(" ", "+")}+{row.Home_Appliance.replace(" ", "+")}&tbm=isch" target="_blank" ' +
                         f'style="font-size:11px;color:#4D9EDE;text-decoration:none;padding:5px 12px;' +
-                        f'border:1px solid rgba(24,95,165,0.35);border-radius:6px;white-space:nowrap">' +
+                        f'border:1px solid rgba(24,95,165,0.35);border-radius:6px;white-space:nowrap;flex-shrink:0">' +
                         f'&#128247; View on Google</a>' +
-                        f'<div class="why-box">&#128161; <strong>Why recommended:</strong> {why_text}</div>' +
                         f'</div>' +
+                        f'<div class="rec-search-label" style="margin-top:10px">&#128269; Google search model</div>' +
+                        f'<div class="rec-search-tag">{row.Company} {row.Home_Appliance}</a></div>' +
+                        f'<div class="rec-copy-hint">Copy above text &amp; search on Online to see this product</div>' +
+                        f'<div class="why-box">&#128161; <strong>Why recommended:</strong> {why_text}</div>' +
                         '</div>'
                     )
 
@@ -1144,11 +1203,27 @@ with tab2:
                              if rr.Smart_Feature=="Yes" else ""
                         ep = '<span class="chat-pill">&#127807; Eco</span>' \
                              if rr.Eco_Friendly=="Yes" else ""
+                        why_parts = []
+                        if rr.User_Rating >= 4.5:
+                            why_parts.append("Highly rated by users")
+                        if rr.Energy_Rating in ["A+++", "A++", "A+"]:
+                            why_parts.append("Energy efficient")
+                        if rr.Smart_Feature == "Yes":
+                            why_parts.append("Smart home compatible")
+                        if rr.Eco_Friendly == "Yes":
+                            why_parts.append("Eco-friendly product")
+                        if rr.Warranty_Years >= 4:
+                            why_parts.append("Long warranty coverage")
+                        if rc == 1:
+                            why_parts.append("Best match for your query")
+                        why_text_chat = " · ".join(why_parts) if why_parts else "Best match based on your query"
+
                         google_query = f"{rr.Company} {rr.Home_Appliance}"
                         google_url   = "https://www.google.com/search?q=" + google_query.replace(' ', '+') + "&tbm=isch"
 
                         cards += (
-                            f'<div class="chat-result-card">'
+                            f'<div class="chat-result-card" style="flex-direction:column;align-items:stretch">'
+                            f'<div style="display:flex;justify-content:space-between;align-items:flex-start">'
                             f'<div style="flex:1;min-width:0">'
                             f'<div class="cr-name">#{rc} {rr.Home_Appliance}</div>'
                             f'<div class="cr-brand">by {rr.Company}</div>'
@@ -1157,7 +1232,7 @@ with tab2:
                             f'<span class="chat-pill">&#9889; {rr.Energy_Rating}</span>'
                             f'{sp}{ep}</div>'
                             f'<div class="search-label">&#128269; Google search model</div>'
-                            f'<div class="search-tag">{google_query}</div>'
+                            f'<div class="search-tag">{rr.Company} {rr.Home_Appliance}</div>'
                             f'<div class="copy-hint">Copy &amp; search on Google Images to see this product</div>'
                             f'</div>'
                             f'<div style="text-align:right;flex-shrink:0;padding-left:12px">'
@@ -1170,6 +1245,8 @@ with tab2:
                             f'border-radius:6px;white-space:nowrap">'
                             f'&#128247; View on Google</a>'
                             f'</div></div></div>'
+                            f'<div class="chat-why-box">&#128161; <strong>Why recommended:</strong> {why_text_chat}</div>'
+                            f'</div>'
                         )
 
                     st.markdown(cards, unsafe_allow_html=True)
