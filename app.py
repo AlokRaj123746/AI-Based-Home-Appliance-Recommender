@@ -1,17 +1,3 @@
-"""
-=============================================================
-  AI-Based Home Appliance Recommender
-  Phase 4 · Step 11: Professional Streamlit UI
-=============================================================
-  Features:
-    • AI Engine (Content + Collaborative + ML)
-    • Dark professional theme
-    • Unique product recommendations (no duplicate appliances)
-    • AI Chatbot tab for natural language queries
-    • Download recommendations as CSV
-=============================================================
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
